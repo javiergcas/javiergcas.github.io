@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S./M.S. in Telecommunications Engineering, E.T.S.I.T. - U.P.M., Madrid, 2001
+* Ph.D in Biomedical Engineering, Purdue University, West Lafayette, IN, USA, 2009
 
 Work experience
 ======
