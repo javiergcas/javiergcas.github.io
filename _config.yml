@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Javier Gonzalez-Castillo, Ph.D."
+  name             : "Biomedical Engineer"
   avatar           : "JGC_ProfilePhoto.jpg"
-  bio              : "Originally from Madrid, Spain. Now in DC for over a decade. Views expressed here are my own, and not those of my employer."
+  bio              : "Views expressed here are my own, and not those of my employer."
   location         : "Bethesda, MD"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
