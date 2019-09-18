@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Javier Gonzalez-Castillo's Personal Websitte"
+title: "Welcome..."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome, and thanks for paying a visit to this site!!! I am very glad you found your way here. Nonetheless, I must advice you that this site is currently a work in progress, with many missing pieces, some borken links and definitely a lot of content gaps. In other words, it looks like a construction site where construction workers are lying the foundations for the building to come. If there is anything in particular that you were looking for (e.g., a paper, a talk, or a question to be answer) do not hesitate to contact me using any of the platforms listed on the left.
+Thanks you for visiting this website! I am glad you found your way here. Before disapointment sets in, I must inform you that this is currently a work in progress. This means a lot of incomplete pages and potentially some broken links. To compensate you for your journey, if there is anything in particular that you were looking for (e.g., a paper, a talk, or a question) and you cannot find it here, please contact me using any of the platforms listed on the left.
 
 A bit about me
 ======
