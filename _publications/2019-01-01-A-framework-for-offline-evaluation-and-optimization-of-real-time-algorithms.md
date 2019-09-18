@@ -1,0 +1,15 @@
+---
+title: "A framework for offline evaluation and optimization of real-time algorithms for use in neurofeedback, demonstrated on an instantaneous proxy for correlations"
+collection: publications
+permalink: /publication/2019-01-01-A-framework-for-offline-evaluation-and-optimization-of-real-time-algorithms
+excerpt: 'Interest in real-time fMRI neurofeedback has grown exponentially over the past few years, both for use as a basic science research tool, and as part of the search for novel clinical interventions for neurological and psychiatric illnesses. In order to expand the range of questions which can be addressed with this tool however, new neurofeedback methods must be developed, going beyond feedback of activations in a single region. These new methods, several of which have already been proposed, are by their nature complex, involving many possible parameters. Here we suggest a framework for evaluating and optimizing algorithms for use in a real-time setting, before beginning the neurofeedback experiment, by offline simulations of algorithm output using a previously collected dataset. We demonstrate the application of this framework on the instantaneous proxy for correlations which we developed for training …'
+date: 2019-01-01
+venue: 'Academic Press'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1053811918321505'
+citation: 'Michal Ramot and Javier Gonzalez-Castillo (2019). &quot;A framework for offline evaluation and optimization of real-time algorithms for use in neurofeedback, demonstrated on an instantaneous proxy for correlations&quot; <i>Academic Press</i> 188'
+---
+Interest in real-time fMRI neurofeedback has grown exponentially over the past few years, both for use as a basic science research tool, and as part of the search for novel clinical interventions for neurological and psychiatric illnesses. In order to expand the range of questions which can be addressed with this tool however, new neurofeedback methods must be developed, going beyond feedback of activations in a single region. These new methods, several of which have already been proposed, are by their nature complex, involving many possible parameters. Here we suggest a framework for evaluating and optimizing algorithms for use in a real-time setting, before beginning the neurofeedback experiment, by offline simulations of algorithm output using a previously collected dataset. We demonstrate the application of this framework on the instantaneous proxy for correlations which we developed for training …
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1053811918321505)
+
+Recommended citation: Michal Ramot and Javier Gonzalez-Castillo (2019). "A framework for offline evaluation and optimization of real-time algorithms for use in neurofeedback, demonstrated on an instantaneous proxy for correlations" <i>Academic Press</i> 188

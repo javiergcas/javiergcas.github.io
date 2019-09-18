@@ -1,0 +1,15 @@
+---
+title: "A functional connectivity-based neuromarker of sustained attention generalizes to predict recall in a reading task"
+collection: publications
+permalink: /publication/2018-01-01-A-functional-connectivity-based-neuromarker-of-sustained-attention-generali
+excerpt: 'Sustaining attention to the task at hand is a crucial part of everyday life, from following a lecture at school to maintaining focus while driving. Lapses in sustained attention are frequent and often problematic, with conditions such as attention deficit hyperactivity disorder affecting millions of people worldwide. Recent work has had some success in finding signatures of sustained attention in whole-brain functional connectivity (FC) measures during basic tasks, but since FC can be dynamic and task-dependent, it remains unclear how fully these signatures would generalize to a more complex and naturalistic scenario. To this end, we used a previously defined whole-brain FC network – a marker of attention that was derived from a sustained attention task – to predict the ability of participants to recall material during a free-viewing reading task. Though the predictive network was trained on a different task and set of …'
+date: 2018-01-01
+venue: 'Academic Press'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S105381191730839X'
+citation: 'David C Jangraw and Javier Gonzalez-Castillo and Daniel A Handwerker and Merage Ghane and Monica D Rosenberg and Puja Panwar and Peter A Bandettini (2018). &quot;A functional connectivity-based neuromarker of sustained attention generalizes to predict recall in a reading task&quot; <i>Academic Press</i> 166'
+---
+Sustaining attention to the task at hand is a crucial part of everyday life, from following a lecture at school to maintaining focus while driving. Lapses in sustained attention are frequent and often problematic, with conditions such as attention deficit hyperactivity disorder affecting millions of people worldwide. Recent work has had some success in finding signatures of sustained attention in whole-brain functional connectivity (FC) measures during basic tasks, but since FC can be dynamic and task-dependent, it remains unclear how fully these signatures would generalize to a more complex and naturalistic scenario. To this end, we used a previously defined whole-brain FC network – a marker of attention that was derived from a sustained attention task – to predict the ability of participants to recall material during a free-viewing reading task. Though the predictive network was trained on a different task and set of …
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S105381191730839X)
+
+Recommended citation: David C Jangraw and Javier Gonzalez-Castillo and Daniel A Handwerker and Merage Ghane and Monica D Rosenberg and Puja Panwar and Peter A Bandettini (2018). "A functional connectivity-based neuromarker of sustained attention generalizes to predict recall in a reading task" <i>Academic Press</i> 166

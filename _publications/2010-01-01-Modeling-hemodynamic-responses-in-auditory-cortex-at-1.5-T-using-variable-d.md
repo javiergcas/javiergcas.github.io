@@ -1,0 +1,15 @@
+---
+title: "Modeling hemodynamic responses in auditory cortex at 1.5 T using variable duration imaging acoustic noise"
+collection: publications
+permalink: /publication/2010-01-01-Modeling-hemodynamic-responses-in-auditory-cortex-at-1.5-T-using-variable-d
+excerpt: 'A confound for functional magnetic resonance imaging (fMRI), especially for auditory studies, is the presence of imaging acoustic noise generated mainly as a byproduct of rapid gradient switching during volume acquisition and, to a lesser extent, the radiofrequency transmit. This work utilized a novel pulse sequence to present actual imaging acoustic noise for characterization of the induced hemodynamic responses and assessment of linearity in the primary auditory cortex with respect to noise duration. Results show that responses to brief duration (46 ms) imaging acoustic noise is highly nonlinear while responses to longer duration (>1 s) imaging acoustic noise becomes approximately linear, with the right primary auditory cortex exhibiting a higher degree of nonlinearity than the left for the investigated noise durations. This study also assessed the spatial extent of activation induced by imaging acoustic noise …'
+date: 2010-01-01
+venue: 'Academic Press'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1053811909012361'
+citation: 'Shuowen Hu and Olumide Olulade and Javier Gonzalez Castillo and Joseph Santos and Sungeun Kim and Gregory G Tamer Jr and Wen-Ming Luh and Thomas M Talavage (2010). &quot;Modeling hemodynamic responses in auditory cortex at 1.5 T using variable duration imaging acoustic noise&quot; <i>Academic Press</i> 49(4)'
+---
+A confound for functional magnetic resonance imaging (fMRI), especially for auditory studies, is the presence of imaging acoustic noise generated mainly as a byproduct of rapid gradient switching during volume acquisition and, to a lesser extent, the radiofrequency transmit. This work utilized a novel pulse sequence to present actual imaging acoustic noise for characterization of the induced hemodynamic responses and assessment of linearity in the primary auditory cortex with respect to noise duration. Results show that responses to brief duration (46 ms) imaging acoustic noise is highly nonlinear while responses to longer duration (>1 s) imaging acoustic noise becomes approximately linear, with the right primary auditory cortex exhibiting a higher degree of nonlinearity than the left for the investigated noise durations. This study also assessed the spatial extent of activation induced by imaging acoustic noise …
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1053811909012361)
+
+Recommended citation: Shuowen Hu and Olumide Olulade and Javier Gonzalez Castillo and Joseph Santos and Sungeun Kim and Gregory G Tamer Jr and Wen-Ming Luh and Thomas M Talavage (2010). "Modeling hemodynamic responses in auditory cortex at 1.5 T using variable duration imaging acoustic noise" <i>Academic Press</i> 49(4)

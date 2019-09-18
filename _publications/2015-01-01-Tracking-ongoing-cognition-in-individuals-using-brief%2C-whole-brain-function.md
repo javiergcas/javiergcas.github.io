@@ -1,0 +1,15 @@
+---
+title: "Tracking ongoing cognition in individuals using brief, whole-brain functional connectivity patterns"
+collection: publications
+permalink: /publication/2015-01-01-Tracking-ongoing-cognition-in-individuals-using-brief%2C-whole-brain-function
+excerpt: 'Functional connectivity (FC) patterns in functional MRI exhibit dynamic behavior on the scale of seconds, with rich spatiotemporal structure and limited sets of whole-brain, quasi-stable FC configurations (FC states) recurring across time and subjects. Based on previous evidence linking various aspects of cognition to group-level, minute-to-minute FC changes in localized connections, we hypothesized that whole-brain FC states may reflect the global, orchestrated dynamics of cognitive processing on the scale of seconds. To test this hypothesis, subjects were continuously scanned as they engaged in and transitioned between mental states dictated by tasks. FC states computed within windows as short as 22.5 s permitted robust tracking of cognition in single subjects with near perfect accuracy. Accuracy dropped markedly for subjects with the lowest task performance. Spatially restricting FC information decreased …'
+date: 2015-01-01
+venue: 'National Acad Sciences'
+paperurl: 'https://www.pnas.org/content/112/28/8762.short'
+citation: 'Javier Gonzalez-Castillo and Colin W Hoy and Daniel A Handwerker and Meghan E Robinson and Laura C Buchanan and Ziad S Saad and Peter A Bandettini (2015). &quot;Tracking ongoing cognition in individuals using brief, whole-brain functional connectivity patterns&quot; <i>National Acad Sciences</i> 112(28)'
+---
+Functional connectivity (FC) patterns in functional MRI exhibit dynamic behavior on the scale of seconds, with rich spatiotemporal structure and limited sets of whole-brain, quasi-stable FC configurations (FC states) recurring across time and subjects. Based on previous evidence linking various aspects of cognition to group-level, minute-to-minute FC changes in localized connections, we hypothesized that whole-brain FC states may reflect the global, orchestrated dynamics of cognitive processing on the scale of seconds. To test this hypothesis, subjects were continuously scanned as they engaged in and transitioned between mental states dictated by tasks. FC states computed within windows as short as 22.5 s permitted robust tracking of cognition in single subjects with near perfect accuracy. Accuracy dropped markedly for subjects with the lowest task performance. Spatially restricting FC information decreased …
+
+[Download paper here](https://www.pnas.org/content/112/28/8762.short)
+
+Recommended citation: Javier Gonzalez-Castillo and Colin W Hoy and Daniel A Handwerker and Meghan E Robinson and Laura C Buchanan and Ziad S Saad and Peter A Bandettini (2015). "Tracking ongoing cognition in individuals using brief, whole-brain functional connectivity patterns" <i>National Acad Sciences</i> 112(28)

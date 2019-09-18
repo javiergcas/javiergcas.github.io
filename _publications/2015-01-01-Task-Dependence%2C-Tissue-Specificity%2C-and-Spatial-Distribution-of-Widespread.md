@@ -1,0 +1,15 @@
+---
+title: "Task Dependence, Tissue Specificity, and Spatial Distribution of Widespread Activations in Large Single-Subject Functional MRI Datasets at 7T"
+collection: publications
+permalink: /publication/2015-01-01-Task-Dependence%2C-Tissue-Specificity%2C-and-Spatial-Distribution-of-Widespread
+excerpt: ' It was recently shown that when large amounts of task-based blood oxygen level–dependent (BOLD) data are combined to increase contrast- and temporal signal-to-noise ratios, the majority of the brain shows significant hemodynamic responses time-locked with the experimental paradigm. Here, we investigate the biological significance of such widespread activations. First, the relationship between activation extent and task demands was investigated by varying cognitive load across participants. Second, the tissue specificity of responses was probed using the better BOLD signal localization capabilities of a 7T scanner. Finally, the spatial distribution of 3 primary response types—namely positively sustained (pSUS), negatively sustained (nSUS), and transient—was evaluated using a newly defined voxel-wise waveshape index that permits separation of responses based on their temporal signature. About 86 …'
+date: 2015-01-01
+venue: 'Oxford University Press'
+paperurl: 'https://academic.oup.com/cercor/article-abstract/25/12/4667/309934'
+citation: 'Javier Gonzalez-Castillo and Colin W Hoy and Daniel A Handwerker and Vinai Roopchansingh and Souheil J Inati and Ziad S Saad and Robert W Cox and Peter A Bandettini (2015). &quot;Task Dependence, Tissue Specificity, and Spatial Distribution of Widespread Activations in Large Single-Subject Functional MRI Datasets at 7T&quot; <i>Oxford University Press</i> 25(12)'
+---
+ It was recently shown that when large amounts of task-based blood oxygen level–dependent (BOLD) data are combined to increase contrast- and temporal signal-to-noise ratios, the majority of the brain shows significant hemodynamic responses time-locked with the experimental paradigm. Here, we investigate the biological significance of such widespread activations. First, the relationship between activation extent and task demands was investigated by varying cognitive load across participants. Second, the tissue specificity of responses was probed using the better BOLD signal localization capabilities of a 7T scanner. Finally, the spatial distribution of 3 primary response types—namely positively sustained (pSUS), negatively sustained (nSUS), and transient—was evaluated using a newly defined voxel-wise waveshape index that permits separation of responses based on their temporal signature. About 86 …
+
+[Download paper here](https://academic.oup.com/cercor/article-abstract/25/12/4667/309934)
+
+Recommended citation: Javier Gonzalez-Castillo and Colin W Hoy and Daniel A Handwerker and Vinai Roopchansingh and Souheil J Inati and Ziad S Saad and Robert W Cox and Peter A Bandettini (2015). "Task Dependence, Tissue Specificity, and Spatial Distribution of Widespread Activations in Large Single-Subject Functional MRI Datasets at 7T" <i>Oxford University Press</i> 25(12)

@@ -1,0 +1,15 @@
+---
+title: "Head-repositioning does not reduce the reproducibility of fMRI activation in a block-design motor task"
+collection: publications
+permalink: /publication/2011-01-01-Head-repositioning-does-not-reduce-the-reproducibility-of-fMRI-activation-i
+excerpt: 'It is hypothesized that, based upon partial volume effects and spatial non-uniformities of the scanning environment, repositioning a subject&apos;s head inside the head coil between separate functional MRI scans will reduce the reproducibility of fMRI activation compared to a series of functional runs where the subject&apos;s head remains in the same position. Nine subjects underwent fMRI scanning where they performed a sequential, oppositional finger-tapping task. The first five runs were conducted with the subject&apos;s head remaining stable inside the head coil. Following this, four more runs were collected after the subject removed and replaced his/her head inside the head coil before each run. The coefficient of variation was calculated for four metrics: the distance from the anterior commisure to the center of mass of sensorimotor activation, maximum t-statistic, activation volume, and average percent signal change. These …'
+date: 2011-01-01
+venue: 'Academic Press'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1053811911002849'
+citation: 'David A Soltysik and David Thomasson and Sunder Rajan and Javier Gonzalez-Castillo and Paul DiCamillo and Nadia Biassou (2011). &quot;Head-repositioning does not reduce the reproducibility of fMRI activation in a block-design motor task&quot; <i>Academic Press</i> 56(3)'
+---
+It is hypothesized that, based upon partial volume effects and spatial non-uniformities of the scanning environment, repositioning a subject&apos;s head inside the head coil between separate functional MRI scans will reduce the reproducibility of fMRI activation compared to a series of functional runs where the subject&apos;s head remains in the same position. Nine subjects underwent fMRI scanning where they performed a sequential, oppositional finger-tapping task. The first five runs were conducted with the subject&apos;s head remaining stable inside the head coil. Following this, four more runs were collected after the subject removed and replaced his/her head inside the head coil before each run. The coefficient of variation was calculated for four metrics: the distance from the anterior commisure to the center of mass of sensorimotor activation, maximum t-statistic, activation volume, and average percent signal change. These …
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1053811911002849)
+
+Recommended citation: David A Soltysik and David Thomasson and Sunder Rajan and Javier Gonzalez-Castillo and Paul DiCamillo and Nadia Biassou (2011). "Head-repositioning does not reduce the reproducibility of fMRI activation in a block-design motor task" <i>Academic Press</i> 56(3)

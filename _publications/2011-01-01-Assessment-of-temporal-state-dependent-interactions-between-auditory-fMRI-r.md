@@ -1,0 +1,15 @@
+---
+title: "Assessment of temporal state-dependent interactions between auditory fMRI responses to desired and undesired acoustic sources"
+collection: publications
+permalink: /publication/2011-01-01-Assessment-of-temporal-state-dependent-interactions-between-auditory-fMRI-r
+excerpt: 'A confounding factor in auditory functional magnetic resonance imaging (fMRI) experiments is the presence of the acoustic noise inherently associated with the echo planar imaging acquisition technique. Previous studies have demonstrated that this noise can induce unwanted neuronal responses that can mask stimulus-induced responses. Similarly, activation accumulated over multiple stimuli has been demonstrated to elevate the baseline, thus reducing the dynamic range available for subsequent responses. To best evaluate responses to auditory stimuli, it is necessary to account for the presence of all recent acoustic stimulation, beginning with an understanding of the attenuating effects brought about by interaction between and among induced unwanted neuronal responses, and responses to desired auditory stimuli. This study focuses on the characterization of the duration of this temporal memory and …'
+date: 2011-01-01
+venue: 'Elsevier'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0378595511000797'
+citation: 'O Olulade and S Hu and J Gonzalez-Castillo and GG Tamer Jr and W-M Luh and JL Ulmer and TM Talavage (2011). &quot;Assessment of temporal state-dependent interactions between auditory fMRI responses to desired and undesired acoustic sources&quot; <i>Elsevier</i> 277(1-2)'
+---
+A confounding factor in auditory functional magnetic resonance imaging (fMRI) experiments is the presence of the acoustic noise inherently associated with the echo planar imaging acquisition technique. Previous studies have demonstrated that this noise can induce unwanted neuronal responses that can mask stimulus-induced responses. Similarly, activation accumulated over multiple stimuli has been demonstrated to elevate the baseline, thus reducing the dynamic range available for subsequent responses. To best evaluate responses to auditory stimuli, it is necessary to account for the presence of all recent acoustic stimulation, beginning with an understanding of the attenuating effects brought about by interaction between and among induced unwanted neuronal responses, and responses to desired auditory stimuli. This study focuses on the characterization of the duration of this temporal memory and …
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0378595511000797)
+
+Recommended citation: O Olulade and S Hu and J Gonzalez-Castillo and GG Tamer Jr and W-M Luh and JL Ulmer and TM Talavage (2011). "Assessment of temporal state-dependent interactions between auditory fMRI responses to desired and undesired acoustic sources" <i>Elsevier</i> 277(1-2)

@@ -1,0 +1,15 @@
+---
+title: "Time-varying whole-brain functional network connectivity coupled to task engagement"
+collection: publications
+permalink: /publication/2018-01-01-Time-varying-whole-brain-functional-network-connectivity-coupled-to-task-en
+excerpt: 'Brain functional connectivity (FC), as measured by blood oxygenation level-dependent (BOLD) signal, fluctuates at the scale of 10s of seconds. It has recently been found that whole-brain dynamic FC (dFC) patterns contain sufficient information to permit identification of ongoing tasks. Here, we hypothesize that dFC patterns carry fine-grained information that allows for tracking short-term task engagement levels (i.e., 10s of seconds long). To test this hypothesis, 25 subjects were scanned continuously for 25 min while they performed and transitioned between four different tasks: working memory, visual attention, math, and rest. First, we estimated dFC patterns by using a sliding window approach. Next, we extracted two engagement-specific FC patterns representing active engagement and passive engagement by using k-means clustering. Then, we derived three metrics from whole-brain dFC patterns to track …'
+date: 2018-01-01
+venue: 'MIT Press'
+paperurl: 'https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00051'
+citation: 'Hua Xie and Javier Gonzalez-Castillo and Daniel A Handwerker and Peter A Bandettini and Vince D Calhoun and Gang Chen and Eswar Damaraju and Xiangyu Liu and Sunanda Mitra (2018). &quot;Time-varying whole-brain functional network connectivity coupled to task engagement&quot; <i>MIT Press</i> 3(1)'
+---
+Brain functional connectivity (FC), as measured by blood oxygenation level-dependent (BOLD) signal, fluctuates at the scale of 10s of seconds. It has recently been found that whole-brain dynamic FC (dFC) patterns contain sufficient information to permit identification of ongoing tasks. Here, we hypothesize that dFC patterns carry fine-grained information that allows for tracking short-term task engagement levels (i.e., 10s of seconds long). To test this hypothesis, 25 subjects were scanned continuously for 25 min while they performed and transitioned between four different tasks: working memory, visual attention, math, and rest. First, we estimated dFC patterns by using a sliding window approach. Next, we extracted two engagement-specific FC patterns representing active engagement and passive engagement by using k-means clustering. Then, we derived three metrics from whole-brain dFC patterns to track …
+
+[Download paper here](https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00051)
+
+Recommended citation: Hua Xie and Javier Gonzalez-Castillo and Daniel A Handwerker and Peter A Bandettini and Vince D Calhoun and Gang Chen and Eswar Damaraju and Xiangyu Liu and Sunanda Mitra (2018). "Time-varying whole-brain functional network connectivity coupled to task engagement" <i>MIT Press</i> 3(1)

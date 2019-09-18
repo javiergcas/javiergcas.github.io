@@ -1,0 +1,15 @@
+---
+title: "Neural correlates of adaptation in freely-moving normal hearing subjects under cochlear implant acoustic simulations"
+collection: publications
+permalink: /publication/2013-01-01-Neural-correlates-of-adaptation-in-freely-moving-normal-hearing-subjects-un
+excerpt: 'Neurobiological correlates of adaptation to spectrally degraded speech were investigated with fMRI before and after exposure to a portable real-time speech processor that implements an acoustic simulation model of a cochlear implant (CI). The speech processor, in conjunction with isolating insert earphones and a microphone to capture environment sounds, was worn by participants over a two week chronic exposure period. fMRI and behavioral speech comprehension testing were conducted before and after this two week period. After using the simulator each day for 2 h, participants significantly improved in word and sentence recognition scores. fMRI shows that these improvements came accompanied by changes in patterns of neuronal activation. In particular, we found additional recruitment of visual, motor, and working memory areas after the perceptual training period. These findings suggest that the human …'
+date: 2013-01-01
+venue: 'Academic Press'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1053811913006368'
+citation: 'Christopher J Smalt and Javier Gonzalez-Castillo and Thomas M Talavage and David B Pisoni and Mario A Svirsky (2013). &quot;Neural correlates of adaptation in freely-moving normal hearing subjects under cochlear implant acoustic simulations&quot; <i>Academic Press</i> 82'
+---
+Neurobiological correlates of adaptation to spectrally degraded speech were investigated with fMRI before and after exposure to a portable real-time speech processor that implements an acoustic simulation model of a cochlear implant (CI). The speech processor, in conjunction with isolating insert earphones and a microphone to capture environment sounds, was worn by participants over a two week chronic exposure period. fMRI and behavioral speech comprehension testing were conducted before and after this two week period. After using the simulator each day for 2 h, participants significantly improved in word and sentence recognition scores. fMRI shows that these improvements came accompanied by changes in patterns of neuronal activation. In particular, we found additional recruitment of visual, motor, and working memory areas after the perceptual training period. These findings suggest that the human …
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1053811913006368)
+
+Recommended citation: Christopher J Smalt and Javier Gonzalez-Castillo and Thomas M Talavage and David B Pisoni and Mario A Svirsky (2013). "Neural correlates of adaptation in freely-moving normal hearing subjects under cochlear implant acoustic simulations" <i>Academic Press</i> 82

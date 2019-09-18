@@ -1,0 +1,15 @@
+---
+title: "Characterizing and utilizing fMRI fluctuations, patterns, and dynamics"
+collection: publications
+permalink: /publication/2013-01-01-Characterizing-and-utilizing-fMRI-fluctuations%2C-patterns%2C-and-dynamics
+excerpt: 'Functional MRI is fundamentally grounded in the hemodynamic response. With an increase in neuronal activity, blood flow increases, causing an increase in blood oxygenation, leading to an increase in transverse relaxation rate T2*. This increase in blood flow is slow and highly variable and shows a considerable spatial heterogeneity. In spite of these limitations, the hemodynamic response has been proven to be exquisitely sensitive to subtle differences in neuronal activity in time, over space, and between subjects. This paper is a brief review of my Keynote address describing some of the effort coming from my group that further demonstrates methods to robustly extract ever more information from both resting state fMRI and activation-induced fMRI. Specifically, I discuss 1) our new method to use multi-echo fMRI time series data collection to separate blood oxygen level dependent (BOLD) signal from non-BOLD …'
+date: 2013-01-01
+venue: 'International Society for Optics and Photonics'
+paperurl: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8672/86720T/Characterizing-and-utilizing-fMRI-fluctuations-patterns-and-dynamics/10.1117/12.2012737.short'
+citation: 'Peter A Bandettini and Prantik Kundu and Javier Gonzalez-Castillo and Masaya Misaki and Paul Guillod (2013). &quot;Characterizing and utilizing fMRI fluctuations, patterns, and dynamics&quot; <i>International Society for Optics and Photonics</i> 8672'
+---
+Functional MRI is fundamentally grounded in the hemodynamic response. With an increase in neuronal activity, blood flow increases, causing an increase in blood oxygenation, leading to an increase in transverse relaxation rate T2*. This increase in blood flow is slow and highly variable and shows a considerable spatial heterogeneity. In spite of these limitations, the hemodynamic response has been proven to be exquisitely sensitive to subtle differences in neuronal activity in time, over space, and between subjects. This paper is a brief review of my Keynote address describing some of the effort coming from my group that further demonstrates methods to robustly extract ever more information from both resting state fMRI and activation-induced fMRI. Specifically, I discuss 1) our new method to use multi-echo fMRI time series data collection to separate blood oxygen level dependent (BOLD) signal from non-BOLD …
+
+[Download paper here](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8672/86720T/Characterizing-and-utilizing-fMRI-fluctuations-patterns-and-dynamics/10.1117/12.2012737.short)
+
+Recommended citation: Peter A Bandettini and Prantik Kundu and Javier Gonzalez-Castillo and Masaya Misaki and Paul Guillod (2013). "Characterizing and utilizing fMRI fluctuations, patterns, and dynamics" <i>International Society for Optics and Photonics</i> 8672
