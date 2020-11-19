@@ -8,6 +8,19 @@ redirect_from:
   - /about.html
 ---
 
+Short Story
+===========
+
+I am originally from [Madrid](https://en.wikipedia.org/wiki/Madrid), [Spain](https://en.wikipedia.org/wiki/Spain). It is also in Madrid where I pursued a B.S./M.S. in Electrical and Computer Engineering at the [Universidad Politecnica de Madrid](https://www.upm.es). Following graduation, I joined [Hewlett-Packard Labs](https://hpl.hp.com) in [Bristol](https://en.wikipedia.org/wiki/Bristol), UK as a research assistant developing electronic-commerce automation technologies (check X and Y for additional details). After a year in Bristol, I moved back to Madrid to join the Hewlett-Packard Consulting department.
+
+In the early 2000s, I decided it was time for a change. I was very interested in finding ways to apply my engineering skills to solving biological problems. After many standarized tests and a few unsucessful applications, in 2004, I was awarded a [Fulbright Fellowship](https://us.fulbrightonline.org/) to pursue a Ph.D. in [Biomedical Engineering](https://engineering.purdue.edu/BME) at [Purdue University](https://www.purdue.edu) in West Lafayette, IN. It is at Purdue where I had my first encounter with fMRI. You can read much more about that below, but for now suffice to say that I worked on several language-related fMRI studies under the mentorship of [Prof. Thomas Talavage](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3304).
+
+After five wonderful years at Purdue (which brings us to December, 2009) I moved to the D.C. area to join the [Section on Functional Imaging Methods (SFIM)](https://fim.nimh.nih.gov/) at the [National Institute of Mental Health (NIMH)](https://www.nimh.nih.gov/) in Bethesda, MD as a Post-Doctoral Fellow. In 2014, I became a Staff Scientist within the Section, which has been (and still is) my research home for a decade now. 
+
+The really long story....
+=========================
+
+Work in progress...
 I am originally from [Madrid](https://en.wikipedia.org/wiki/Madrid), [Spain](https://en.wikipedia.org/wiki/Spain), a charming city right in the middle of the Iberian Peninsula. It is in Madrid where I attended college and was awarded a B.S. and M.S. in Electrical and Computer Engineering by [Universidad Politecnica de Madrid](https://www.upm.es). Right after graduation, I moved to the city of [Bristol](https://en.wikipedia.org/wiki/Bristol) in the UK, where I spent a year as a research engineer working for [Hewlett-Packard Labs](https://hpl.hp.com) in the development of algorithms for e-commerce applications. That was followed by several more years working as an IT consultant for Hewlett Packard (HP) back in Madrid. It was during this second term as a Madrileño, that the idea of switching careers started to take shape in my mind. Although Hewlett Packard truly felt like home to me, I knew something was missing. Since my college years, I always had an interest on how engineering skills could be applied to the resolution of biomedical problems. Hewlett Packard was not necessarily the best place to develop such interests at the time. If I wanted to actively contribute to the resolution of biomedical challenges, I couldn't just switch jobs, I had to re-invent myself professionally. Next stop in life, graduate school.
 
 I arrived to [West Lafayette](https://www.westlafayette.in.gov/), Indiana on a hot day in early August 2004 with two suitcases full of renewed energy, and a few clothes. After a year of standardized tests, writing statements of purpose and countless applications I was awarded a [Fulbright Fellowship](https://us.fulbrightonline.org/) to pursue a Ph.D. in [Biomedical Engineering](https://engineering.purdue.edu/BME) at [Purdue University](https://www.purdue.edu). Soon after arriving to Purdue, I joined the lab of Prof. [Thomas Talavage](https://engineering.purdue.edu/~tmt/), one of the few faculty at the time with expertise in functional magnetic resonance imaging (fMRI) and auditory neuroscience. These two topics had repeatedly caught my attention while researching areas of interest for my Ph.D. applications. In fact, since I first heard about [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging), I became particularly intrigued about how this relatively young functional neuroimaging disciple was able to open a window into the inner workings of the functioning human brain without having to poke a single needle into the head. As an engineer, I needed to learn more details about how such a "cool" technology operated.
@@ -23,22 +36,4 @@ As you know now (after reading this not so short post), this was not a well-deli
 
 Thanks you for visiting this website! I am glad you found your way here. Before disapointment sets in, you must know that this site is still a work in progress. This means some incomplete pages and from time to time some broken links. So, if there is anything in particular that you were looking for (e.g., a paper, a talk, or a question) and you cannot find it here, please contact me using any of the platforms listed on the left.
 
-Early years
-======
 
-I was born and raised in [Madrid](https://en.wikipedia.org/wiki/Madrid), [Spain](https://en.wikipedia.org/wiki/Spain). It is also in Madrid where I pursued a B.S./M.S. in Electrical and Computer Engineering at the [Universidad Politecnica de Madrid](https://www.upm.es). Following graduation, I joined [Hewlett-Packard Labs](https://hpl.hp.com) in [Bristol](https://en.wikipedia.org/wiki/Bristol), UK as a research assistant developing electronic-commerce automation technologies (check X and Y for additional details). After a year in Bristol, I moved back to Madrid to join the Hwewlett-Packard Consulting department. It was my time at these two different HP organizations that allowed me to develop key skills in the areas of computer science, data analytics, and project management. 
-
-In the early 2000s, I decided it was time for a change. I was very interested in finding ways to apply my engineering skills to solving biological problems. After many standarized tests and a few unsucessful applications, in 2004, I was awarded a [Fulbright Fellowship](https://us.fulbrightonline.org/) to pursue a Ph.D. in [Biomedical Engineering](https://engineering.purdue.edu/BME) at [Purdue University](https://www.purdue.edu) in West Lafayette, IN. It is at Purdue where I had my first encounter with fMRI. You can read much more about that below, but for now suffice to say that I worked on several language-related fMRI studies under the mentorship of [Prof. Thomas Talavage](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=3304).
-
-After five wonderful years at Purdue (which brings us to December, 2009) I moved to the D.C. area to join the [Section on Functional Imaging Methods (SFIM)](https://fim.nimh.nih.gov/) at the [National Institute of Mental Health (NIMH)](https://www.nimh.nih.gov/) in Bethesda, MD as a Post-Doctoral Fellow. In 2014, I became a Staff Scientist within the Section, which has been (and still is) my research home for a decade now. 
-
-A bit about what I do profesionally
-======
-
-Work in progress... 
-
-
-A bit of what I like to do for fun
-======
-
-Work in progress...
