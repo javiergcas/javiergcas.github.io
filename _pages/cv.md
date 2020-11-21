@@ -14,17 +14,21 @@ Education
 * B.S./M.S. in Telecommunications Engineering, E.T.S.I.T. - U.P.M., Madrid, 2001
 * Ph.D in Biomedical Engineering, Purdue University, West Lafayette, IN, USA, 2009
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014 - Present: Staff Scientist, Section on Functional Imaging Methods, National Institute of Mental Health, Bethesda, MD
+  * Wide-spread activity in the human brain
+  * Time-varying functional connectivity
+  * Multi-echo fMRI
+  * Realtime fMRI
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2011 - 2014: Research Fellow, Section on Functional Imaging Methods, National Institute of Mental Health, Bethesda, MD
+  * Wide-spread activity in the human brain
+  * Optimization of fMRI acquisition protocols
+
+* 2009 - 2011: Post-doctoral Visiting Fellow, Section on Functional Imaging Methods, National Institute of Mental Health, Bethesda, MD
+  * Wide-spread activity in the human brain
+  * Optimization of fMRI acquisition protocols
   
 Skills
 ======
