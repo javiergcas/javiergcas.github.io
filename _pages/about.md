@@ -32,8 +32,3 @@ Even after all these years, I am still excited to arrive to my office and explor
 So, this is mostly my story, an engineer turned neuroscientist with the dream of helping resolve mental health riddles. Of course, there are some omissions, but the key elements of the plot have all been laid in front of your eyes. I know that, despite many years at the bench (or more accurately the computer screen), this is just the beginning of the journey. I cannot finalize this post though, without mentioning at least three other people that have shaped who I am today as a scientist. Those are, in no specific order, Dr. Leslie Geddes (former mentor at Purdue University), Dr. David Kemmerer (former mentor at Purdue University) and Dr. Peter Bandettini (current mentor at NIMH). They each have taught me different aspects of what being a scientist means. Special thanks go to Dr. Geddes, who unfortunately is no longer with us. He not only explained me important scientific concepts, equations, and models. He showed me what a true scientist is. I can only hope but to make him proud with my work one day.
 
 As you know now (after reading this not so short post), this was not a well-delineated travel plan, yet it has presented itself as a truly fun professional voyage. Let's hope it will continue that way.
-
-
-Thanks you for visiting this website! I am glad you found your way here. Before disapointment sets in, you must know that this site is still a work in progress. This means some incomplete pages and from time to time some broken links. So, if there is anything in particular that you were looking for (e.g., a paper, a talk, or a question) and you cannot find it here, please contact me using any of the platforms listed on the left.
-
-
