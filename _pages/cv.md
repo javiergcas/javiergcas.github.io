@@ -16,30 +16,21 @@ Education
 
 Research Experience
 ======
-* 2014 - Present: Staff Scientist, Section on Functional Imaging Methods, National Institute of Mental Health, Bethesda, MD
-  * Wide-spread activity in the human brain
-  * Time-varying functional connectivity
-  * Multi-echo fMRI
-  * Realtime fMRI
+* <u>2014 - Present</u>: **Staff Scientist**, Section on Functional Imaging Methods, National Institute of Mental Health, Bethesda, MD
+* 2011 - 2014: **Research Fellow**, Section on Functional Imaging Methods, National Institute of Mental Health, Bethesda, MD
+* 2009 - 2011: **Post-doctoral Visiting Fellow**, Section on Functional Imaging Methods, National Institute of Mental Health, Bethesda, MD
 
-* 2011 - 2014: Research Fellow, Section on Functional Imaging Methods, National Institute of Mental Health, Bethesda, MD
-  * Wide-spread activity in the human brain
-  * Optimization of fMRI acquisition protocols
-
-* 2009 - 2011: Post-doctoral Visiting Fellow, Section on Functional Imaging Methods, National Institute of Mental Health, Bethesda, MD
-  * Wide-spread activity in the human brain
-  * Optimization of fMRI acquisition protocols
-  
-Skills
+Teaching Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2014 - Present: Guest Lecturer at the NIH fMRI Summer Course, NIH, Bethesda, MD
+* 2008: Graduate Course Instructor
+  * Weldon School of Biomedical Engineering, Purdue University, West Lafayette, IN
+  * Course: (BME501) Medical Device Accidents and Engineering Analysis
+* 2005 - 2007: Teaching Assitant
+  * Course: (BME501) Medical Device Accidents and Engineering Analysis
+  * Course: (ECE28) Measurement and Stimulation of the Nervous System
 
-Publications
+Industry Experience
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
