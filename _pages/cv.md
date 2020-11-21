@@ -16,7 +16,7 @@ Education
 
 Research Experience
 ======
-* <u>2014 - Present</u>: **Staff Scientist**, Section on Functional Imaging Methods, National Institute of Mental Health, Bethesda, MD
+* 2014 - Present: **Staff Scientist**, Section on Functional Imaging Methods, National Institute of Mental Health, Bethesda, MD
 * 2011 - 2014: **Research Fellow**, Section on Functional Imaging Methods, National Institute of Mental Health, Bethesda, MD
 * 2009 - 2011: **Post-doctoral Visiting Fellow**, Section on Functional Imaging Methods, National Institute of Mental Health, Bethesda, MD
 
