@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The short story
-===============
+## The short story
 
 I am originally from [Madrid](https://en.wikipedia.org/wiki/Madrid), [Spain](https://en.wikipedia.org/wiki/Spain). It is also in Madrid where I pursued a B.S./M.S. in Electrical and Computer Engineering at the [Universidad Politecnica de Madrid](https://www.upm.es). Following graduation, I joined [Hewlett-Packard Labs](https://hpl.hp.com) in [Bristol](https://en.wikipedia.org/wiki/Bristol), UK as a research assistant developing electronic-commerce automation technologies (check X and Y for additional details). After a year in Bristol, I moved back to Madrid to join the Hewlett-Packard Consulting department.
 
@@ -17,8 +16,7 @@ In the early 2000s, I decided it was time for a change. I was very interested in
 
 After five wonderful years at Purdue (which brings us to December, 2009) I moved to the D.C. area to join the [Section on Functional Imaging Methods (SFIM)](https://fim.nimh.nih.gov/) at the [National Institute of Mental Health (NIMH)](https://www.nimh.nih.gov/) in Bethesda, MD as a Post-Doctoral Fellow. In 2014, I became a Staff Scientist within the Section, which has been (and still is) my research home for a decade now. 
 
-The really long story....
-=========================
+## The really long story....
 
 Work in progress...
 I am originally from [Madrid](https://en.wikipedia.org/wiki/Madrid), [Spain](https://en.wikipedia.org/wiki/Spain), a charming city right in the middle of the Iberian Peninsula. It is in Madrid where I attended college and was awarded a B.S. and M.S. in Electrical and Computer Engineering by [Universidad Politecnica de Madrid](https://www.upm.es). Right after graduation, I moved to the city of [Bristol](https://en.wikipedia.org/wiki/Bristol) in the UK, where I spent a year as a research engineer working for [Hewlett-Packard Labs](https://hpl.hp.com) in the development of algorithms for e-commerce applications. That was followed by several more years working as an IT consultant for Hewlett Packard (HP) back in Madrid. It was during this second term as a Madrileño, that the idea of switching careers started to take shape in my mind. Although Hewlett Packard truly felt like home to me, I knew something was missing. Since my college years, I always had an interest on how engineering skills could be applied to the resolution of biomedical problems. Hewlett Packard was not necessarily the best place to develop such interests at the time. If I wanted to actively contribute to the resolution of biomedical challenges, I couldn't just switch jobs, I had to re-invent myself professionally. Next stop in life, graduate school.
