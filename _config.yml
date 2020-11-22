@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=CGQ3Lw4AAAAJ&hl=en&oi=ao"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Javier_Gonzalez-Castillo"
+  email            : "javier.gonzalez-castillo@nih.gov"
+  researchgate     : "https://www.researchgate.net/profile/Javier_Gonzalez-Castillo"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  publons          : "https://publons.com/researcher/2751690/javier-gonzalez-castillo"
 
 
 # Reading Files
