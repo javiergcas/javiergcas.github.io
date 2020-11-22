@@ -53,6 +53,17 @@ Degryse J, Seurinck R, Durnez J, **Gonzalez-Castillo J**, Bandettini PA, Moerker
 
 ### 2016
 
+Craddock RC, Bellec P, Margules DS, Nichols BN, Pfannmöller JP, Badhwar AP, Kennedy D, Poline JB, Toro R, Cipollini B, Rokem A et al. “2015 Brainhack Proceedings” GigaScience (2016) 5(1):1–26
+
+**Gonzalez-Castillo J**, Caballero Guades C, Panwar P, Buchanan LC, Handwerker DA, Jangraw DC, Zachariou V, Bandettini PA. “Evaluation of Multi-Echo ICA denoising for task based fMRI studies: block designs, rapid event-related designs, and cardiac-gated fMRI”. NeuroImage (2016) 141:452-468.
+
 ### 2015
+
+**Gonzalez-Castillo J**, Hoy CW, Handwerker D, Robinson ME, Buchanan LC, Saad ZS, Bandettini PA. “Tracking ongoing in individuals using brief, whole-brain functional connectivity patterns”.  PNAS (2015) 112(28):8762-8767 
+
+**Gonzalez-Castillo J**, Bandettini PA. “What cascade spreading models can tell us about the brain”. Neuron (2015) 86(6):1327-1329
+
+**Gonzalez-Castillo J**, Hoy CW, Handwerker DA, et al. “Task Dependence, Tissue Specificity, and Spatial Distribution of Widespread Activations in Large Single-Subject Functional MRI Datasets at 7T”. Cereb Cortex. (2015) 25(12):4667-4677
+
 
 ### 2014 and earlier
