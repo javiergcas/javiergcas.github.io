@@ -5,17 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 2020
+## 2020
 
+{: .text-justify}
 **Gonzalez-Castillo J**, Kam JWY, Hoy CW, Bandettini PA. “How to interpret resting-state fMRI: ask your participants” Journal of Neuroscience (Accepted)
 
+{: .text-justify}
 **Gonzalez-Castillo J**, Ramot M, Momenan R. "Towards expanded utility of Realtime fMRI Neurofeedback in clinical applications" Frontiers in Human Neuroscience (2020) 14:471
 
+{: .text-justify}
 Rolinski R, You X, **Gonzalez-Castillo J**, Norato G, Reynolds RC, Inati SK, Theodore WH. “Language lateralization from task-based and resting-state functional MRI in patients with epilepsy” Human Brain Mapping (2020) 41(11):3133-3146
 
+{: .text-justify}
 Handwerker DA, Ianni G, Gutierrez B, Roopchansingh V, **Gonzalez-Castillo J**, Chen G, Bandettini PA, Ungerleider LG, Pitcher D. "Theta-burst TMS to the posterior superior temporal sulcus decreases resting-state fMRI connectivity across the face processing network" Netowork Neuroscience (2020) 4(3):746-760 
 
-### 2019
+## 2019
 
 **Gonzalez-Castillo J**, Caballero-Gaudes C, Topolski N, Handwerker DA, Pereira F, Bandettini PA. “Imaging the spontaneous flow of thought: distinct periods of cognition contribute to dynamic functional connectivity during rest”. NeuroImage (2019) 202:116129
 
