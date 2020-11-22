@@ -5,18 +5,24 @@ permalink: /research/
 author_profile: false
 ---
 
-## Time-varying fMRI Functional Connectivity
+### What are the neuronal drivers of time-varying functional connectivity?
 
-## Multi-Echo fMRI
 
-## Optimization of fMRI Acquisition Protocols
+### What are the neuronal correlates of self-driven thoughts and inner experiences?
 
-## Real-time fMRI & fMRI Neurofeedback
+{: .text-justify}
+Brain activity is not always linked to concurrent external environmental demands or stimuli. In fact, complex dynamical patterns of activity—and their conscious manifestation as an incessant stream of thoughts, emotions and sensations—constantly unfold in otherwise apparently idle individuals. Despite their ubiquity and core role for survival, the neurobiological correlates of such inner experiences remain largely unknown. This scientific gap is mostly due to how difficult is to objectively characterize something that is so inherently covert and personal. Nonetheless, recent developments in functional neuroimaging, idiographic/experiential science and artificial intelligence (AI) provide a unique opportunity to build scientific models of the neurobiological, behavioral and clinical correlates of free thought. For example, real-time resting-state fMRI can non-invasively live-stream video of how brain regions activate and interact as subjects quietly rest and let their mind wander freely. Experiential scientific methods, such as descriptive experience sampling, can provide an objective, unbiased characterization of the form and content of inner experience. Finally, AI algorithms can help us efficiently explore the richness of these data with minimal a-priori assumptions, and, in that manner, help us discover meaningful complex relationships among neuronal activity, inner experience, people’s perception and interaction with the external world, and ultimately their mental health. 
+
+### How can we use multi-echo acquisitions to improve the informational value of fMRI?
+
+### Realtime fMRI applications
+
+### Optimization of fMRI acquisition parameters
 
 
 # Prior Research
 
-#### Graduate work at Purdue University
+### Graduate work at Purdue University
 
 My graduate research had two main components: one was purely methodological and included research on fMRI paradigm reliability and the effects of acoustic noise in fMRI; the second was more neuroscience oriented and focused on different aspects of speech perception and language representations in the brain.
 
