@@ -11,7 +11,7 @@ author_profile: true
 **Gonzalez-Castillo J**, Kam JWY, Hoy CW, Bandettini PA. “How to interpret resting-state fMRI: ask your participants” Journal of Neuroscience (Accepted)
 
 {: .text-justify}
-**Gonzalez-Castillo J**, Ramot M, Momenan R. "Towards expanded utility of Realtime fMRI Neurofeedback in clinical applications" Frontiers in Human Neuroscience (2020) 14:471
+**Gonzalez-Castillo J**, Ramot M, Momenan R. "Towards expanded utility of Realtime fMRI Neurofeedback in clinical applications" Frontiers in Human Neuroscience (2020) 14:471 [[pdf](https://www.frontiersin.org/articles/10.3389/fnhum.2020.606868/full)]
 
 {: .text-justify}
 Rolinski R, You X, **Gonzalez-Castillo J**, Norato G, Reynolds RC, Inati SK, Theodore WH. “Language lateralization from task-based and resting-state functional MRI in patients with epilepsy” Human Brain Mapping (2020) 41(11):3133-3146
@@ -21,53 +21,113 @@ Handwerker DA, Ianni G, Gutierrez B, Roopchansingh V, **Gonzalez-Castillo J**, C
 
 ## 2019
 
+{: .text-justify}
 **Gonzalez-Castillo J**, Caballero-Gaudes C, Topolski N, Handwerker DA, Pereira F, Bandettini PA. “Imaging the spontaneous flow of thought: distinct periods of cognition contribute to dynamic functional connectivity during rest”. NeuroImage (2019) 202:116129
 
+{: .text-justify}
 Chai Y, Handwerker DA, Marrett S, **Gonzalez-Castillo J**, Merriam EP, Hall A, Molfese PJ, Bandettini PA. “Visual temporal frequency shows a distinct cortical architecture using fMRI” NeuroImage (2019) 197:13-23
 
+{: .text-justify}
 Caballero-Gaudes C, Moia S, Panwar PA, Bandettini PA, **Gonzalez-Castillo J**. “A deconvolution algorithm for multi-echo functional MRI: multi-echo sparse paradigm free mapping” NeuroImage (2019) 202:116081
 
+{: .text-justify}
 Xie H, Zheng CY, Handwerker DA, Bandettini PA, Calhoun VD, Mitra S, **Gonzalez-Castillo J**. “Efficacy of different dynamic functional connectivity methods to capture cognitively relevant information”. NeuroImage (2019) 188:502-514
 
+{: .text-justify}
 Ramot M, **Gonzalez-Castillo J**. “A framework for offline evaluation and optimization of real-time algorithms for use in neurofeedback, demonstrated on an instantaneous proxy for correlations” NeuroImage (2019) 188:322-334
 
-### 2018
+## 2018
 
+{: .text-justify}
 Xie H, **Gonzalez-Castillo J**, Damaraju E, Bandettni PA, Calhoun V, Mitra S. “Time-varying whole-brain functional network connectivity coupled to task engagement” Network Neuroscience (2018) 3(1):49-66
 
+{: .text-justify}
 **Gonzalez-Castillo J**, Bandettini PA.  “Task-based dynamic connectivity: recent findings and open questions” NeuroImage, 2018; 180, 526-533
 
+{: .text-justify}
 Xie H, Calhoun V, **Gonzalez-Castillo J**, Damaraju E, Miller R, Bandettini PA, Mitra S. “Whole-brain connectivity dynamics reflect both task-specific and individual-specific modulation: a multitask study”. NeuroImage (2018) 180(Part B):495-504 
 
+{: .text-justify}
 Saggar M, Sporns O, **Gonzalez-Castillo J**, Bandettini PA, Carlsson G, Glover G, Reiss AL. “Towards a new approach to reveal dynamical organization of the brain using topological data analysis”. Nature Communications (2018) 9(1):1399
 
+{: .text-justify}
 Jangraw DC, **Gonzalez-Castillo J**, Handwerker DA, Ghane M, Rosenberg M, Panwar P, Bandettini PA. “A Functional Connectivity-based neuromarker of Sustained Attention Generalizes to Predict Recall in Naturalistic Reading Task” NeuroImage (2018) 166:99-109
 
+{: .text-justify}
 Torrisi S, Gorka AX, **Gonzalez-Castillo J**, O’Connell K, Balderston N, Grillon C, Ernst M. “Extended amygdala connectivity changes during sustained shock anticipation” Translational Psychiatry (2018) 8(1):33
 
-### 2017
+## 2017
 
+{: .text-justify}
 Huber L, Handwerker D, Jangraw D, Hall H, Stuber C, **Gonzalez-Castillo J**, Ivanov D, Marrett S, Guidi M, Goense J, Poser BA, Bandettini PA. “High-Resolution CBV-fMRI allows mapping of laminar activity and connectivity of cortical input and output in human M1” Neuron (2017) 96(6):1253-1263.e7
 
+{: .text-justify}
 Ramot M, Kimmich S, **Gonzalez-Castillo J**, Roopchansingh V, Popal H, White E, Gotts S, Martin A. “Direct modulation of aberrant brain network connectivity through real-time neurofeedback” eLife (2017) 6:e28974
 
+{: .text-justify}
 **Gonzalez-Castillo J**, Gang C, Nichols T, Cox B, Bandettini PA. “Variance Decomposition for multi-session fMRI”. NeuroImage, Special Issue on “Cleaning up the fMRI timeseries” NeuroImage (2017) 154:206-218
 
+{: .text-justify}
 Degryse J, Seurinck R, Durnez J, **Gonzalez-Castillo J**, Bandettini PA, Moerkerke B. “Introducing alternative-based thresholding for defining functional regions of interest in fMRI” Front. Neurosci. (2017):11:222
 
-### 2016
+## 2016
 
+{: .text-justify}
 Craddock RC, Bellec P, Margules DS, Nichols BN, Pfannmöller JP, Badhwar AP, Kennedy D, Poline JB, Toro R, Cipollini B, Rokem A et al. “2015 Brainhack Proceedings” GigaScience (2016) 5(1):1–26
 
+{: .text-justify}
 **Gonzalez-Castillo J**, Caballero Guades C, Panwar P, Buchanan LC, Handwerker DA, Jangraw DC, Zachariou V, Bandettini PA. “Evaluation of Multi-Echo ICA denoising for task based fMRI studies: block designs, rapid event-related designs, and cardiac-gated fMRI”. NeuroImage (2016) 141:452-468.
 
-### 2015
+## 2015
 
+{: .text-justify}
 **Gonzalez-Castillo J**, Hoy CW, Handwerker D, Robinson ME, Buchanan LC, Saad ZS, Bandettini PA. “Tracking ongoing in individuals using brief, whole-brain functional connectivity patterns”.  PNAS (2015) 112(28):8762-8767 
 
+{: .text-justify}
 **Gonzalez-Castillo J**, Bandettini PA. “What cascade spreading models can tell us about the brain”. Neuron (2015) 86(6):1327-1329
 
+{: .text-justify}
 **Gonzalez-Castillo J**, Hoy CW, Handwerker DA, et al. “Task Dependence, Tissue Specificity, and Spatial Distribution of Widespread Activations in Large Single-Subject Functional MRI Datasets at 7T”. Cereb Cortex. (2015) 25(12):4667-4677
 
+## 2014 and Earlier
 
-### 2014 and earlier
+Yang Z, Huang Z, **Gonzalez-Castillo J**, Dai R, Northoff G, Bandettini PA. “Using fMRI to decode true thoughts independent of intention to conceal”. NeuroImage (2014) 99:80–92. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4179453/)]
+
+[25]	Gonzalez-Castillo J, Handwerker DA, Robinson ME, et al. “The spatial structure of resting state connectivity stability on the scale of minutes”. Front Neurosci. 2014; 8(June): 138
+
+[26]	Talavage TM, Gonzalez-Castillo J, Scott SK. “Auditory neuroimaging with fMRI and PET”. Hear Res. 2014; 307: 4–15.
+
+[27]	Smalt CJ, Gonzalez-Castillo J, Talavage TM, Pisoni DB, Svirsky MA. “Neural correlates of adaptation in normal hearing subjects to free learning with cochlear implant acoustic simulations”. NeuroImage. 2013; 82: 500-509
+
+[28]	Hutchison RM, Womelsdorf T, Allen EA, Bandettini PA, Calhoun VD, Corbetta M,  Della Penna, S, Dyun, JH, Glover GH, Gonzalez-Castillo J, et al. “Dynamic functional connectivity: Promise, issues, and interpretations”. NeuroImage. 2013; 80: 360–378.
+
+[29]	Bandettini PA, Kundu P, Gonzalez-Castillo J, Misaki M, Guillod P. “Characterizing and utilizing fMRI fluctuations, patterns, and dynamics.” In: Weaver JB, Molthen RC, eds. SPIE Medical Imaging. International Society for Optics and Photonics; 2013: 86720T
+
+[30]	Gonzalez-Castillo J, Duthie KN, Saad ZS, Chu C, Bandettini PA, Luh W-M. “Effects of image contrast on functional MRI image registration”. NeuroImage. 2012; 67: 163–174.
+
+[31]	Handwerker DA, Roopchansingh V, Gonzalez-Castillo J, Bandettini PA. “Periodic changes in fMRI connectivity”. NeuroImage. 2012; 63(3): 1712–9.
+
+[32]	Handwerker DA, Gonzalez-Castillo J, D’Esposito M, Bandettini PA. “The continuing challenge of understanding and modeling hemodynamic variation in fMRI”. NeuroImage. 2012; 62(2): 1017–1023.
+
+[33]	Gonzalez-Castillo J, Saad ZS, Handwerker DA, Inati SJ, Brenowitz N, Bandettini PA. “Whole-brain, time-locked activation with simple tasks revealed using massive averaging and model-free analysis”. Proc Natl Acad Sci U S A. 2012; 109(14): 5487–92
+
+[34]	Gonzalez-Castillo J, Olulade OA, Talavage TM. “Using functional MRI to study auditory comprehension”. Imaging Med. 2012; 4(1): 137–143
+
+[35]	Olulade O, Hu S, Gonzalez-Castillo J, et al. “Assessment of temporal state-dependent interactions between auditory fMRI responses to desired and undesired acoustic sources”. Hear Res. 2011; 277(1-2): 67–77.
+
+[36]	Soltysik DA, Thomasson D, Rajan S, Gonzalez-Castillo J, DiCamillo P, Biassou N. “Head-repositioning does not reduce the reproducibility of fMRI activation in a block-design motor task”. NeuroImage. 2011; 56(3): 1329–37.
+
+[37]	Gonzalez-Castillo J, Roopchansingh V, Bandettini PA, Bodurka J. “Physiological noise effects on the flip angle selection in BOLD fMRI”. NeuroImage. 2011; 54(4): 2764–2778.
+
+[38]	Gonzalez-Castillo J, Talavage TM. “Reproducibility of fMRI activations associated with auditory sentence comprehension”. NeuroImage. 2011; 54(3): 2138–2155.
+
+[39]	Hu S, Olulade O, Gonzalez-Castillo J, et al. “Modeling hemodynamic responses in auditory cortex at 1.5T using variable duration imaging acoustic noise”. NeuroImage. 2010; 49(4): 3027–3038.
+
+[40]	Kemmerer D, Gonzalez-Castillo J. “The Two-Level Theory of verb meaning: An approach to integrating the semantics of action with the mirror neuron system”. Brain Lang. 2010; 112(1): 54–76.
+
+[41]	Kemmerer D, Gonzalez-Castillo J, Talavage T, Patterson S, Wiley C. “Neuroanatomical distribution of five semantic components of verbs: Evidence from fMRI”. Brain Lang. 2008; 107(1): 16–43.
+
+[42]	Gonzalez-Castillo J, Trastour D, Bartolini C. “Description Logics for Matchmaking of Services”. In: KI-2001 Workshop on Applications of Description Logics, Vienna, Austria. 2001
+
+[43]	Trastour D, Bartolini C, Gonzalez-Castillo J. “Semantic Web Approach to Service Description for Matchmaking of Services”. In: Semantic Web Workshop, Stanford USA. 2001
+
