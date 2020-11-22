@@ -35,15 +35,20 @@ Brain activity is not always linked to concurrent external environmental demands
 
 ### What is the true extent of neural activity as measured with fMRI?
 
-{: .text-justify}
-The majority of task-based fMRI studies focus exclusively on interpreting positive BOLD deflections that tightly follow external stimuli or task demands (i.e., those sustained as long as the experimental intervention is in place). Although exclusive focus on positively sustained BOLD responses have proven successful to uncover the neuronal correlates of a myriad of human behaviors; unfortunately, this practice results in true neuronal responses continuously passing undetected in fMRI. As such, current conceptualizations of brain function based on task-based fMRI research are incomplete.
-
 <img align="left" src="https://javiergcas.github.io/files/research/non_traditional/wide_activity_video01_480.gif" width="355 px" style="padding: 10px">
 
 {: .text-justify}
+The majority of task-based fMRI studies focus exclusively on interpreting positive BOLD deflections that tightly follow external stimuli or task demands (i.e., those sustained as long as the experimental intervention is in place). Although exclusive focus on positively sustained BOLD responses have proven successful to uncover the neuronal correlates of a myriad of human behaviors; unfortunately, this practice results in true neuronal responses continuously passing undetected in fMRI. As such, current conceptualizations of brain function based on task-based fMRI research are incomplete.
+
+<img align="right" src="https://javiergcas.github.io/files/research/non_traditional/non_traditional_clusters.png" width="300 px" style="padding: 10px">
+{: .text-justify}
 In the past, we have shown how non-conventional BOLD responses, namely negative signal deflections accompanying task performance (negative sustained BOLD) and phasic responses that occur at the onset/offset of experimental events, can be modulated by cognitive demands. Using data with approximately six times higher signal-to-noise ratio than conventional fMRI, we were able to demonstrate that BOLD signal changes correlated with experimental task-timing occur in over 95% of the brain even for the simplest of tasks. These results not only highlight the inadequacy of current dichotomical interpretational models (active/inactive), but also challenge long accepted localizationist views of brain function demonstrating how non-canonical responses ought to be discussed if one is to acquire a full understanding of brain function. Important questions remain such as how to differentiate essential (i.e., signaling regions that are indispensable to accomplish a given task) from accessory activations, or how to report and interpret whole-brain activity maps.
 
-### How can we improve the informational value of fMRI?
+**References:**
+* Gonzalez-Castillo J et al. “[Whole-brain, time-locked activation with simple tasks revealed using massive averaging and model-free analysis](https://www.pnas.org/content/pnas/109/14/5487.full.pdf)”. PNAS (2012)
+* Gonzalez-Castillo J et al. “[Task Dependence, Tissue Specificity, and Spatial Distribution of Widespread Activations in Large Single-Subject Functional MRI Datasets at 7T](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635913/pdf/bhu148.pdf)”. Cereb Cortex. (2015) 
+
+### How can we improvde the quality of fMRI data?
 
 {: .text-justify}
 Noise, meaning signal fluctuations of no neuronal origin, accounts for well over 75% of the variance in fMRI data. Elevated noise is the root cause for the low reliability and sensitivity of fMRI studies and a key factor precluding clinical adoption. To minimize these detrimental effects of elevated noise levels, complex pre-processing always precedes statistical analyses. Yet, current pre-processing algorithms are flawed, and superior, multipurpose techniques that can remove non-neuronal variance with minimal human intervention are in great demand. This is particularly true for clinical fMRI, where merging data across subjects is not possible, and manual intervention must be minimized to optimize clinical usability. 
@@ -56,33 +61,4 @@ In recent years, several groups have turned their attention to multi-echo (ME) f
 
 Still, many questions remain regarding how to optimally acquire and process ME data. Moving forward, I would like to continue working on the refinement and evaluation of ME-fMRI techniques, as I believe they can resolve pressing issues such as systematic differences in data quality across scanners/centers, excessive motion artifacts in pediatric populations, or insufficient signal levels in regions near air-filled cavities. I also would devote time to investigate how to best leverage the richness of ME-fMRI in real-time (see research item 4), so that denoising can be accomplished as scanning progresses. Finally, I plan to study the echo-dependence profiles of fMRI derivatives, including graph theory metrics and dynamic aspects of connectivity. The goal here is to carry out echo-dependence analysis directly over these secondary statistics, so that those that best capture BOLD-related phenomena can be readily identified.
 
-
-
-### What is the true extent of neural activity?
-
 ### Realtime fMRI applications
-
-# Prior Research
-
-### Graduate work at Purdue University
-
-My graduate research had two main components: one was purely methodological and included research on fMRI paradigm reliability and the effects of acoustic noise in fMRI; the second was more neuroscience oriented and focused on different aspects of speech perception and language representations in the brain.
-
-The most methodologically oriented work can be found in the following publications:
-
-  * 2011: [Assesment of tempora state-dependent interactions between auditory fMRI responses to desided and undesired acoustic sources](https://javiergcas.github.io/publication/2011-01-01-Assessment-of-temporal-state-dependent-interactions-between-auditory-fMRI-r)
-  * 2012: [Hemodynamic Imaging: Functional Magnetic Resonance Imaging](https://javiergcas.github.io/publication/2012-01-01-Hemodynamic-Imaging%3A-Functional-Magnetic-Resonance-Imaging)
-  * 2014: [Auditory neuroimaing with fMRI and PET](https://javiergcas.github.io/publication/2014-01-01-Auditory-neuroimaging-with-fMRI-and-PET)
-
-As for the speech and language representation work, please check those:
-
-  * 2008: [Neuroanatomical distribution of five semantic components of verbs: Evidence from fMRI](https://javiergcas.github.io/publication/2008-01-01-Neuroanatomical-distribution-of-five-semantic-components-of-verbs%3A-Evidence)
-  * 2010: [The two-level theory of verb meaning: an approach to integrating the semantics of action with the mirror neuron system](https://javiergcas.github.io/publication/2010-01-01-The-two-level-theory-of-verb-meaning%3A-An-approach-to-integrating-the-semant)
-  * 2011: [Reproducibility of fMRI activations associated with auditory sentence comprehension](https://javiergcas.github.io/publication/2011-01-01-Reproducibility-of-fMRI-activations-associated-with-auditory-sentence-compr)
-
-#### Research work at Hewlett-Parckard Labs
-
-Prior to my Ph.D. I did some research at Hewlett Packar Labs in Bristol, UK. That work mostly focused on the development of algorithms for e-commerce applications. The outcome of that work can be found in two conference proceedings:
-
-* 2001: [Description Logics for matchmaking of services](https://javiergcas.github.io/publication/2001-01-01-Description-logics-for-matchmaking-of-services)
-* 2001: [A semantic web approach to service description for matchmaking of services](https://javiergcas.github.io/publication/2001-01-01-A-semantic-web-approach-to-service-description-for-matchmaking-of-services)
