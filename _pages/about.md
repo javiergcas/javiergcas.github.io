@@ -19,4 +19,4 @@ In the early 2000s, I decided it was time for a change. I was very interested in
 <img align="center" src="https://javiergcas.github.io/files/about_me/about_me_workplaces.png" style="padding: 10px">
 
 {: .text-justify}
-After five wonderful years at Purdue (which brings us to December, 2009) I moved to the D.C. area to join the [Section on Functional Imaging Methods (SFIM)](https://fim.nimh.nih.gov/) at the [National Institute of Mental Health (NIMH)](https://www.nimh.nih.gov/) in Bethesda, MD as a Post-Doctoral Fellow. In 2014, I became a Staff Scientist within the Section, which has been (and still is) my research home for a decade now. 
+After five wonderful years at Purdue (which brings us to December, 2009) I moved to the D.C. area to join the [Section on Functional Imaging Methods (SFIM)](https://fim.nimh.nih.gov/) at the [National Institute of Mental Health (NIMH)](https://www.nimh.nih.gov/) in Bethesda, MD as a Post-Doctoral Fellow. In 2014, I became a Staff Scientist within the Section, which has been (and still is) my research home for over a decade now. 
