@@ -107,7 +107,7 @@ Smalt CJ, **Gonzalez-Castillo J**, Talavage TM, Pisoni DB, Svirsky MA. “Neural
 Hutchison RM, Womelsdorf T, Allen EA, Bandettini PA, Calhoun VD, Corbetta M,  Della Penna, S, Dyun, JH, Glover GH, **Gonzalez-Castillo J**, et al. “Dynamic functional connectivity: Promise, issues, and interpretations”. NeuroImage (2013) 80:360–378 [[pdf]()]
 
 {: .text-justify}
-Bandettini PA, Kundu P, **Gonzalez-Castillo J**, Misaki M, Guillod P. “Characterizing and utilizing fMRI fluctuations, patterns, and dynamics” In: Weaver JB, Molthen RC, eds. SPIE Medical Imaging. International Society for Optics and Photonics; (2013) 86720T [[pdf](https://www.spiedigitallibrary.org/proceedings/Download?fullDOI=10.1117%2F12.2012737)]
+Bandettini PA, Kundu P, **Gonzalez-Castillo J**, Misaki M, Guillod P. “Characterizing and utilizing fMRI fluctuations, patterns, and dynamics” In: Weaver JB, Molthen RC, eds. SPIE Medical Imaging. International Society for Optics and Photonics; (2013) 86720T [[pdf](files/86720T.pdf)]
 
 {: .text-justify}
 **Gonzalez-Castillo J**, Duthie KN, Saad ZS, Chu C, Bandettini PA, Luh W-M. “Effects of image contrast on functional MRI image registration”. NeuroImage (2012) 67:163–174 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3545034/pdf/nihms419696.pdf)]
