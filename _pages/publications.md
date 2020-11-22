@@ -31,7 +31,25 @@ Ramot M, **Gonzalez-Castillo J**. “A framework for offline evaluation and opti
 
 Xie H, **Gonzalez-Castillo J**, Damaraju E, Bandettni PA, Calhoun V, Mitra S. “Time-varying whole-brain functional network connectivity coupled to task engagement” Network Neuroscience (2018) 3(1):49-66
 
+**Gonzalez-Castillo J**, Bandettini PA.  “Task-based dynamic connectivity: recent findings and open questions” NeuroImage, 2018; 180, 526-533
+
+Xie H, Calhoun V, **Gonzalez-Castillo J**, Damaraju E, Miller R, Bandettini PA, Mitra S. “Whole-brain connectivity dynamics reflect both task-specific and individual-specific modulation: a multitask study”. NeuroImage (2018) 180(Part B):495-504 
+
+Saggar M, Sporns O, **Gonzalez-Castillo J**, Bandettini PA, Carlsson G, Glover G, Reiss AL. “Towards a new approach to reveal dynamical organization of the brain using topological data analysis”. Nature Communications (2018) 9(1):1399
+
+Jangraw DC, **Gonzalez-Castillo J**, Handwerker DA, Ghane M, Rosenberg M, Panwar P, Bandettini PA. “A Functional Connectivity-based neuromarker of Sustained Attention Generalizes to Predict Recall in Naturalistic Reading Task” NeuroImage (2018) 166:99-109
+
+Torrisi S, Gorka AX, **Gonzalez-Castillo J**, O’Connell K, Balderston N, Grillon C, Ernst M. “Extended amygdala connectivity changes during sustained shock anticipation” Translational Psychiatry (2018) 8(1):33
+
 ### 2017
+
+Huber L, Handwerker D, Jangraw D, Hall H, Stuber C, **Gonzalez-Castillo J**, Ivanov D, Marrett S, Guidi M, Goense J, Poser BA, Bandettini PA. “High-Resolution CBV-fMRI allows mapping of laminar activity and connectivity of cortical input and output in human M1” Neuron (2017) 96(6):1253-1263.e7
+
+Ramot M, Kimmich S, **Gonzalez-Castillo J**, Roopchansingh V, Popal H, White E, Gotts S, Martin A. “Direct modulation of aberrant brain network connectivity through real-time neurofeedback” eLife (2017) 6:e28974
+
+**Gonzalez-Castillo J**, Gang C, Nichols T, Cox B, Bandettini PA. “Variance Decomposition for multi-session fMRI”. NeuroImage, Special Issue on “Cleaning up the fMRI timeseries” NeuroImage (2017) 154:206-218
+
+Degryse J, Seurinck R, Durnez J, **Gonzalez-Castillo J**, Bandettini PA, Moerkerke B. “Introducing alternative-based thresholding for defining functional regions of interest in fMRI” Front. Neurosci. (2017):11:222
 
 ### 2016
 
