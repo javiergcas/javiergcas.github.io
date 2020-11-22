@@ -8,6 +8,7 @@ author_profile: true
 ### What are the neuronal drivers of time-varying functional connectivity?
 
 <img align="right" src="https://javiergcas.github.io/files/research/tvfc/research_tvfc_img01.png" width="317 px" style="padding: 10px">
+
 {: .text-justify}
 [Functional connectivity](https://en.wikipedia.org/wiki/Resting_state_fMRI#Functional) (FC), as measured with [BOLD](https://en.wikipedia.org/wiki/Blood-oxygen-level-dependent_imaging) fMRI, exhibits dynamic behavior at the scale of seconds, with rich spatiotemporal structure both during rest and task scans. What does such dynamicity reflects fluctuaitons brain function, and how much aberrant patterns of time-varying FC may signal pathology remains unknown. In early studies, we focused on characterizing the [sptio-tempotal structure of this dynamic phenomena](https://www.frontiersin.org/articles/10.3389/fnins.2014.00138/full). We were able to show that, during rest, most stable connections correspond primarily to inter-hemispheric connections between left/right homologous regions; while most variable connections correspond to inter-hemispheric, across-network connections between non-homologous regions in occipital and frontal cortex (e.g., those subserving higher-order cognitive functions). We also demonstrated that well established resting state networks disintegrate on many occasions during a single scan, questioning the interpretability of such networks.
 
