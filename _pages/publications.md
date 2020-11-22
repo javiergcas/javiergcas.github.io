@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+# Book Chapters
+
+Malaia E, **Gonzalez-Castillo J**, Webber-Fox C, Talavage TM, Wilbur B. "Neuronal processing of verbal event structure: temporal and functional dissociation between telic and atelic verbs" In: de Almeida RG, Manouilidou C, eds. Cognitive science perspectives on verb representation and processing. Cham: Springer International Publishing; 2015:131–140.
+
+Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functional Magnetic Resonance Imaging" In: Poeppel D, Overath T, Popper AN, Fay RR, eds. The Human Auditory Cortex.Vol 43. Springer Handbook of Auditory Research. New York, NY: Springer New York; 2012:129–162.
+
+
+# Peer-reviewed Publications
+
 ## 2020
 
 {: .text-justify}
