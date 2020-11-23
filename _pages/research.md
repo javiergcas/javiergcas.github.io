@@ -65,12 +65,7 @@ In recent years, several groups have turned their attention to [multi-echo (ME)]
 Still, many questions remain regarding how to optimally acquire and process ME data. Moving forward, I would like to continue working on the refinement and evaluation of ME-fMRI techniques, as I believe they can resolve pressing issues such as systematic differences in data quality across scanners/centers, excessive motion artifacts in pediatric populations, or insufficient signal levels in regions near air-filled cavities. I also would devote time to investigate how to best leverage the richness of ME-fMRI in real-time, so that denoising can be accomplished as scanning progresses. Finally, I plan to study the echo-dependence profiles of fMRI derivatives, including graph theory metrics and dynamic aspects of connectivity. The goal here is to carry out echo-dependence analysis directly over these secondary statistics, so that those that best capture BOLD-related phenomena can be readily identified.
 
 **References:**
-
 * Caballero-Gaudes C, Moia S, Panwar PA, Bandettini PA, *Gonzalez-Castillo J. “[A deconvolution algorithm for multi-echo functional MRI: multi-echo sparse paradigm free mapping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819276/pdf/nihms-1538772.pdf)” NeuroImage (2019)
 * Ramot M, Gonzalez-Castillo J. “[A framework for offline evaluation and optimization of real-time algorithms for use in neurofeedback, demonstrated on an instantaneous proxy for correlations](https://www.sciencedirect.com/science/article/abs/pii/S1053811918321505?via%3Dihub)” NeuroImage (2019)
 * Gonzalez-Castillo J, et al. “[Evaluation of Multi-Echo ICA denoising for task based fMRI studies: block designs, rapid event-related designs, and cardiac-gated fMRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5026969/pdf/nihms810618.pdf)” NeuroImage (2016)
 * Gonzalez-Castillo J et al. “[Physiological noise effects on the flip angle selection in BOLD fMRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3020268/pdf/nihms257771.pdf)” NeuroImage (2011)
-
-
-
-
