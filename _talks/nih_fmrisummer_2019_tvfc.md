@@ -7,3 +7,7 @@ venue: "National Institutes of Health"
 date: 2019-08-29
 location: "Bethesda, MD"
 ---
+
+[Talk recording](https://fmrif.nimh.nih.gov/course/fmrif_course/2019/19_Javier_20190829)
+
+[PDF of slides](https://fmrif.nimh.nih.gov/COURSE/fmrif_course/2019/content/19_Javier_20190829.pdf)
