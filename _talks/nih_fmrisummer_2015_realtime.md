@@ -1,6 +1,6 @@
 ---
 title: "Realtime fMRI/fMRI Neurofeedback"
-collection: talks
+collection: nih_summer
 type: "NIH Summer Course (2014)"
 permalink: /talks/nih_summer_2014_realtime
 venue: "National Institutes of Health"

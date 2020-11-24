@@ -1,6 +1,6 @@
 ---
 title: "Periods of	discernible	cognition contribute to	dynamic	functional connectivity during rest"
-collection: talks
+collection: ismrm
 type: "ISMRM 27th Annual Meeting"
 permalink: /talks/ismrm_2019_tvfc_rest
 venue: "Palais de Congres"
