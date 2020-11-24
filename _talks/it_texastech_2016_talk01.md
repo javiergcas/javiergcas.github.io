@@ -13,4 +13,4 @@ Here I give an overview on our efforts at the time in developing methods for mul
 
 <img align="center" src="https://javiergcas.github.io/images/talks/t_texastech_2016_talk01.png" width="800 px" style="padding: 10px">
 
-| [Recording](https://www.youtube.com/watch?v=R1mrJ7TjGYY) | [Slides](https://javiergcas.github.io/files/talks/it_texastech_2016_talk01.pdf) |
+| [Recording](https://www.youtube.com/watch?v=R1mrJ7TjGYY) | [Slides](https://javiergcas.github.io/images/talks/it_texastech_2016_talk01.pdf) |
