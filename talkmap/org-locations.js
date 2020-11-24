@@ -23,5 +23,10 @@ var addressPoints = [
     "Singapore, Singapore",
     1.3408630000000001,
     103.83039182212079
+  ],
+  [
+    "Melbourne, Australia",
+    -37.8142176,
+    144.9631608
   ]
 ];
