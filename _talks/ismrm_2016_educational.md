@@ -1,5 +1,5 @@
 ---
-title: “Uncovering hidden activations using model-free analysis”
+title: "Uncovering hidden activations using model-free analysis"
 collection: talks
 type: "ISMRM 24th Annual Meeting"
 permalink: /talks/ismrm_2016_educational
