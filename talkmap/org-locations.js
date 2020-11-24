@@ -8,5 +8,10 @@ var addressPoints = [
     "Bethesda, MD",
     38.9819845,
     -77.12423413116392
+  ],
+  [
+    "Paris, France",
+    48.8566969,
+    2.3514616
   ]
 ];
