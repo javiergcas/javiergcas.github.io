@@ -3,9 +3,9 @@ title: “Uncovering hidden activations using model-free analysis”
 collection: talks
 type: "ISMRM 24th Annual Meeting"
 permalink: /talks/ismrm_2016_educational
-venue: "Paris Expo Porte de Versailles"
+venue: "Suntec Singapore Convention & Exhibition Center"
 date: 2016-05-12
-location: "Signapore, Singapore"
+location: "Singapore, Singapore"
 ---
 
 {: .text-justify}
