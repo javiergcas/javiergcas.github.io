@@ -4,7 +4,7 @@ collection: talks
 type: "ISMRM 27th Annual Meeting"
 permalink: /talks/ismrm_2019_tvfc_rest
 venue: "Palais de Congres"
-date: 2014-08-29
+date: 2019-05-15
 location: "Montreal, QC, Canada"
 ---
 
