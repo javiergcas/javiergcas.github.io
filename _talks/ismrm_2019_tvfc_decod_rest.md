@@ -13,4 +13,4 @@ This conference talk describes our work looking at how to extract information ab
 
 <img align="center" src="https://javiergcas.github.io/images/talks/ismrm_2019_tvfc_rest_decoding.png" width="800 px" style="padding: 10px">
 
-| [Recording (ISMRM Login Required)](https://cds.ismrm.org/protected/19MPresentations/scivids/0884/) | [Slides](files/talks/ismrm_2019_tvfc_rest_decoding.pdf) |
+| [Recording (ISMRM Login Required)](https://cds.ismrm.org/protected/19MPresentations/scivids/0884/) | [Slides](https://javiergcas.github.io/files/talks/ismrm_2019_tvfc_rest_decoding.pdf) |
