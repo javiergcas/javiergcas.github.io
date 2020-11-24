@@ -1,5 +1,5 @@
 ---
-title: “Quantitative deconvolution of neuronal-related BOLD	events with	multi-echo sparse free paradigm	mapping”
+title: "Quantitative deconvolution of neuronal-related BOLD events with multi-echo sparse free paradigm mapping"
 collection: talks
 type: "ISMRM 27th Annual Meeting"
 permalink: /talks/ismrm_2018_mepfm
