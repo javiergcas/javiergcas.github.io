@@ -11,4 +11,6 @@ location: "Montreal, QC, Canada"
 {: .text-justify}
 This conference talk describes our work looking at how to extract information about on-going cognition during rest using time varying functional connectivity and hemodynamic deconvolution.
 
+<img align="center" src="https://javiergcas.github.io/images/talks/ismrm_2019_tvfc_rest_decoding.png" width="800 px" style="padding: 10px">
+
 | [Recording (ISMRM Login Required)](https://cds.ismrm.org/protected/19MPresentations/scivids/0884/) | [Slides](files/takls/ismrm_2019_tvfc_rest_decoding.pdf) |
