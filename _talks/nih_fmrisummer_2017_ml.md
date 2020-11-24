@@ -1,8 +1,8 @@
 ---
-title: "Multi-echo EPI for task-based and resting-state fMRI"
+title: "Machine Learning and fMRI"
 collection: talks
 type: "NIH Summer Course (2017)"
-permalink: /talks/nih_summer_2018_ml
+permalink: /talks/nih_summer_2017_ml
 venue: "National Institutes of Health"
 date: 2017-08-11
 location: "Bethesda, MD"
