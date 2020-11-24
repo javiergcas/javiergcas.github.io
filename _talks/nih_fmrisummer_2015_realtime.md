@@ -9,7 +9,7 @@ location: "Bethesda, MD"
 ---
 
 {: .text-justify}
-Introductory talk to realtime fMRI and fMRI-based neurofeedback
+Introductory talk to realtime fMRI and fMRI-based neurofeedback. Here I describe what is realtime fMRI, the details of the realtime fMRI system that we have running at the NIH, and a series of studies that takes advantage of this unique technology.
 
 <img align="center" src="https://javiergcas.github.io/images/talks/nih_fmrisummer_2014_realtime.png" width="800 px" style="padding: 10px">
 
