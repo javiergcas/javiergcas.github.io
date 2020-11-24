@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning and fMRI"
-collection: nih_summer
+collection: talks
 type: "NIH Summer Course (2017)"
 permalink: /talks/nih_summer_2017_ml
 venue: "National Institutes of Health"

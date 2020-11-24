@@ -1,9 +1,9 @@
 ---
 title: “Quantitative deconvolution of neuronal-related BOLD	events with	multi-echo sparse free paradigm	mapping”
-collection: ismrm
+collection: talks
 type: "ISMRM 27th Annual Meeting"
 permalink: /talks/ismrm_2018_mepfm
-venue: "National Institutes of Health"
+venue: "Paris Expo Porte de Versailles"
 date: 2018-06-21
 location: "Paris, France"
 ---
