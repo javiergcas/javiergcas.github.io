@@ -14,4 +14,3 @@ Introductory talk to dynamic functional connectivity. Here I discuss what is dyn
 <img align="center" src="https://javiergcas.github.io/images/talks/nih_fmrisummer_2019_tvfc.png" width="800 px" style="padding: 10px">
 
 [Recording](https://fmrif.nimh.nih.gov/course/fmrif_course/2019/19_Javier_20190829) | [Slides](https://fmrif.nimh.nih.gov/COURSE/fmrif_course/2019/content/19_Javier_20190829.pdf)
-{: .notice}
