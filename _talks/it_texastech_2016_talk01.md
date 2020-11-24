@@ -1,7 +1,7 @@
 ---
 title: "Multi-echo EPI for resting state and activaton based fMRI"
 collection: talks
-type: ""
+type: "TTU Neuroimaging Symposium"
 permalink: /talks/it_texastech_2016_talk01
 venue: "Texas Tech University"
 date: 2016-03-24
