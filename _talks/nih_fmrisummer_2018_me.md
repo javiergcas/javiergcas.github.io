@@ -1,10 +1,10 @@
 ---
 title: "Multi-echo EPI for task-based and resting-state fMRI"
 collection: talks
-type: "NIH Summer Course (2019)"
+type: "NIH Summer Course (2018)"
 permalink: /talks/nih_summer_2018_me
 venue: "National Institutes of Health"
-date: 2019-08-29
+date: 2018-07-13
 location: "Bethesda, MD"
 ---
 
