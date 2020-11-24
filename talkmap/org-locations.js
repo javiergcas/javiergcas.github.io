@@ -13,5 +13,10 @@ var addressPoints = [
     "Paris, France",
     48.8566969,
     2.3514616
+  ],
+  [
+    "Singapore, Singapore",
+    1.3408630000000001,
+    103.83039182212079
   ]
 ];
