@@ -43,5 +43,10 @@ var addressPoints = [
     "Leipzig, Germany",
     51.3406321,
     12.3747329
+  ],
+  [
+    "San Sebastian, Spain",
+    43.3224219,
+    -1.9838889
   ]
 ];
