@@ -178,7 +178,7 @@ Olulade O, Hu S, **Gonzalez-Castillo J**, et al. “Assessment of temporal state
 Soltysik DA, Thomasson D, Rajan S, **Gonzalez-Castillo J**, DiCamillo P, Biassou N. “Head-repositioning does not reduce the reproducibility of fMRI activation in a block-design motor task”. NeuroImage (2011) 56(3):1329–37 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3085718/pdf/nihms282279.pdf)]
 
 {: .text-justify}
-<div><span class="__dimensions_badge_embed__" data-doi="" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
+<div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2010.11.020" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2010.11.020" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Roopchansingh V, Bandettini PA, Bodurka J. “Physiological noise effects on the flip angle selection in BOLD fMRI”. NeuroImage (2011) 54(4):2764–2778 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3020268/pdf/nihms257771.pdf)]
 
 {: .text-justify}
