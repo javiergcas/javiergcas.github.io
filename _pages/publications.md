@@ -46,27 +46,30 @@ Chai Y, Handwerker DA, Marrett S, **Gonzalez-Castillo J**, Merriam EP, Hall A, M
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2019.116081" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2019.116081" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Caballero-Gaudes C, Moia S, Panwar PA, Bandettini PA, **Gonzalez-Castillo J**. “A deconvolution algorithm for multi-echo functional MRI: multi-echo sparse paradigm free mapping” NeuroImage (2019) 202:116081 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819276/pdf/nihms-1538772.pdf)]
-
+Caballero-Gaudes C, Moia S, Panwar PA, Bandettini PA, **Gonzalez-Castillo J**. “A deconvolution algorithm for multi-echo functional MRI: multi-echo sparse paradigm free mapping” NeuroImage (2019) 202:116081
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819276/pdf/nihms-1538772.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2018.12.037" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2018.12.037" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Xie H, Zheng CY, Handwerker DA, Bandettini PA, Calhoun VD, Mitra S, **Gonzalez-Castillo J**. “Efficacy of different dynamic functional connectivity methods to capture cognitively relevant information”. NeuroImage (2019) 188:502-514 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6401299/pdf/nihms-1517534.pdf)]
+Xie H, Zheng CY, Handwerker DA, Bandettini PA, Calhoun VD, Mitra S, **Gonzalez-Castillo J**. “Efficacy of different dynamic functional connectivity methods to capture cognitively relevant information”. NeuroImage (2019) 188:502-514
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6401299/pdf/nihms-1517534.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 <a href="https://central.xnat.org/app/action/DisplayItemAction/search_value/FCStateClassif/search_element/xnat:projectData/search_field/xnat:projectData.ID"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2018.12.006" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2018.12.006" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Ramot M, **Gonzalez-Castillo J**. “A framework for offline evaluation and optimization of real-time algorithms for use in neurofeedback, demonstrated on an instantaneous proxy for correlations” NeuroImage (2019) 188:322-334 [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1053811918321505?via%3Dihub)]
-
+Ramot M, **Gonzalez-Castillo J**. “A framework for offline evaluation and optimization of real-time algorithms for use in neurofeedback, demonstrated on an instantaneous proxy for correlations” NeuroImage (2019) 188:322-334
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811918321505?via%3Dihub"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 ## 2018
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1162/netn_a_00051" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1162/netn_a_00051" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Xie H, **Gonzalez-Castillo J**, Damaraju E, Bandettni PA, Calhoun V, Mitra S. “Time-varying whole-brain functional network connectivity coupled to task engagement” Network Neuroscience (2018) 3(1):49-66 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6326730/pdf/netn-03-49.pdf)]
+Xie H, **Gonzalez-Castillo J**, Damaraju E, Bandettni PA, Calhoun V, Mitra S. “Time-varying whole-brain functional network connectivity coupled to task engagement” Network Neuroscience (2018) 3(1):49-66
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6326730/pdf/netn-03-49.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 <a href="https://central.xnat.org/app/action/DisplayItemAction/search_value/FCStateClassif/search_element/xnat:projectData/search_field/xnat:projectData.ID"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2017.08.006" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2017.08.006" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-**Gonzalez-Castillo J**, Bandettini PA.  “Task-based dynamic connectivity: recent findings and open questions” NeuroImage, 2018; 180, 526-533 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5797523/pdf/nihms898486.pdf)]
+**Gonzalez-Castillo J**, Bandettini PA.  “Task-based dynamic connectivity: recent findings and open questions” NeuroImage, 2018; 180, 526-533
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5797523/pdf/nihms898486.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 <a href="https://central.xnat.org/app/action/DisplayItemAction/search_value/FCStateClassif/search_element/xnat:projectData/search_field/xnat:projectData.ID"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="25" height="25"></a>
 
 {: .text-justify}
