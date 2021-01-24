@@ -23,31 +23,37 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.3389/fnhum.2020.606868" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.3389/fnhum.2020.606868"></div></div>{: style="float: right;margin-left: 1em"}
-**Gonzalez-Castillo J**, Ramot M, Momenan R. "Towards expanded utility of Realtime fMRI Neurofeedback in clinical applications" Frontiers in Human Neuroscience (2020) 14:471 [[pdf](https://www.frontiersin.org/articles/10.3389/fnhum.2020.606868/full)]
+**Gonzalez-Castillo J**, Ramot M, Momenan R. "Towards expanded utility of Realtime fMRI Neurofeedback in clinical applications" Frontiers in Human Neuroscience (2020) 14:471
+<a href="https://www.frontiersin.org/articles/10.3389/fnhum.2020.606868/full"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 {: .text-justify}
 <div><div class="__dimensions_badge_embed__" data-doi="10.1002/hbm.25003" data-style="small_rectangle"></div><div class='altmetric-embed' data-badge-type='4' data-doi="10.1002/hbm.25003"></div></div>{: style="float: right;margin-left: 1em"}
-Rolinski R, You X, **Gonzalez-Castillo J**, Norato G, Reynolds RC, Inati SK, Theodore WH. “Language lateralization from task-based and resting-state functional MRI in patients with epilepsy” Human Brain Mapping (2020) 41(11):3133-3146 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25003)]
+Rolinski R, You X, **Gonzalez-Castillo J**, Norato G, Reynolds RC, Inati SK, Theodore WH. “Language lateralization from task-based and resting-state functional MRI in patients with epilepsy” Human Brain Mapping (2020) 41(11):3133-3146
+<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25003"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1162/netn_a_00145" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1162/netn_a_00145" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Handwerker DA, Ianni G, Gutierrez B, Roopchansingh V, **Gonzalez-Castillo J**, Chen G, Bandettini PA, Ungerleider LG, Pitcher D. "Theta-burst TMS to the posterior superior temporal sulcus decreases resting-state fMRI connectivity across the face processing network" Netowork Neuroscience (2020) 4(3):746-760 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7462428/pdf/netn-04-746.pdf)]
+Handwerker DA, Ianni G, Gutierrez B, Roopchansingh V, **Gonzalez-Castillo J**, Chen G, Bandettini PA, Ungerleider LG, Pitcher D. "Theta-burst TMS to the posterior superior temporal sulcus decreases resting-state fMRI connectivity across the face processing network" Netowork Neuroscience (2020) 4(3):746-760 
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7462428/pdf/netn-04-746.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 ## 2019
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2019.116129" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2019.116129" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-**Gonzalez-Castillo J**, Caballero-Gaudes C, Topolski N, Handwerker DA, Pereira F, Bandettini PA. “Imaging the spontaneous flow of thought: distinct periods of cognition contribute to dynamic functional connectivity during rest”. NeuroImage (2019) 202:116129 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819261/pdf/nihms-1538935.pdf)]
+**Gonzalez-Castillo J**, Caballero-Gaudes C, Topolski N, Handwerker DA, Pereira F, Bandettini PA. “Imaging the spontaneous flow of thought: distinct periods of cognition contribute to dynamic functional connectivity during rest”. NeuroImage (2019) 202:116129
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819261/pdf/nihms-1538935.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 <a href="https://central.xnat.org/app/action/DisplayItemAction/search_value/FCStateClassif/search_element/xnat:projectData/search_field/xnat:projectData.ID"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2019.04.048" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2019.04.048" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Chai Y, Handwerker DA, Marrett S, **Gonzalez-Castillo J**, Merriam EP, Hall A, Molfese PJ, Bandettini PA. “Visual temporal frequency shows a distinct cortical architecture using fMRI” NeuroImage (2019) 197:13-23 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6591056/pdf/nihms-1527893.pdf)]
+Chai Y, Handwerker DA, Marrett S, **Gonzalez-Castillo J**, Merriam EP, Hall A, Molfese PJ, Bandettini PA. “Visual temporal frequency shows a distinct cortical architecture using fMRI” NeuroImage (2019) 197:13-23
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6591056/pdf/nihms-1527893.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2019.116081" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2019.116081" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
 Caballero-Gaudes C, Moia S, Panwar PA, Bandettini PA, **Gonzalez-Castillo J**. “A deconvolution algorithm for multi-echo functional MRI: multi-echo sparse paradigm free mapping” NeuroImage (2019) 202:116081
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819276/pdf/nihms-1538772.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
+
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2018.12.037" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2018.12.037" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
 Xie H, Zheng CY, Handwerker DA, Bandettini PA, Calhoun VD, Mitra S, **Gonzalez-Castillo J**. “Efficacy of different dynamic functional connectivity methods to capture cognitively relevant information”. NeuroImage (2019) 188:502-514
