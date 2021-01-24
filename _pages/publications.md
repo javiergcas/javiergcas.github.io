@@ -164,7 +164,7 @@ Handwerker DA, **Gonzalez-Castillo J**, D’Esposito M, Bandettini PA. “The co
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1121049109" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1073/pnas.1121049109" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Saad ZS, Handwerker DA, Inati SJ, Brenowitz N, Bandettini PA. “Whole-brain, time-locked activation with simple tasks revealed using massive averaging and model-free analysis”. PNAS (2012) 109(14):5487–92 [[pdf](https://www.pnas.org/content/pnas/109/14/5487.full.pdf)] 
-<a href=https://openneuro.org/datasets/ds001553/versions/1.0.0>data</a>
+<a href="https://openneuro.org/datasets/ds001553/versions/1.0.0">data</a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.2217/iim.11.74" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.2217/iim.11.74" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
@@ -192,11 +192,11 @@ Hu S, Olulade O, **Gonzalez-Castillo J**, et al. “Modeling hemodynamic respons
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.bandl.2008.09.010" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.bandl.2008.09.010" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-]Kemmerer D, Gonzalez-Castillo J. “The Two-Level Theory of verb meaning: An approach to integrating the semantics of action with the mirror neuron system”. Brain Lang. (2010) 112(1):54–76 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859696/pdf/nihms173810.pdf)]
+Kemmerer D, Gonzalez-Castillo J. “The Two-Level Theory of verb meaning: An approach to integrating the semantics of action with the mirror neuron system”. Brain Lang. (2010) 112(1):54–76 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859696/pdf/nihms173810.pdf)]
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.bandl.2007.09.003" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.bandl.2007.09.003" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-\Kemmerer D, **Gonzalez-Castillo J**, Talavage T, Patterson S, Wiley C. “Neuroanatomical distribution of five semantic components of verbs: Evidence from fMRI”. Brain Lang. (2008) 107(1):16–43
+Kemmerer D, **Gonzalez-Castillo J**, Talavage T, Patterson S, Wiley C. “Neuroanatomical distribution of five semantic components of verbs: Evidence from fMRI”. Brain Lang. (2008) 107(1):16–43
 
 {: .text-justify}
 **Gonzalez-Castillo J**, Trastour D, Bartolini C. “Description Logics for Matchmaking of Services”. In: KI-2001 Workshop on Applications of Description Logics, Vienna, Austria. (2001) [[pdf](https://www.hpl.hp.com/techreports/2001/HPL-2001-265.pdf)]
