@@ -22,15 +22,15 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 **Gonzalez-Castillo J**, Kam JWY, Hoy CW, Bandettini PA. “How to interpret resting-state fMRI: ask your participants” Journal of Neuroscience (In Press)
 
 {: .text-justify}
-<div><span class="__dimensions_badge_embed__" data-doi="10.3389/fnhum.2020.606868" data-style="large_rectangle"></span><div class='altmetric-embed' data-badge-type='Default' data-doi="10.3389/fnhum.2020.606868"></div></div>{: style="float: right;margin-left: 1em"}
+<div><span class="__dimensions_badge_embed__" data-doi="10.3389/fnhum.2020.606868" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.3389/fnhum.2020.606868"></div></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Ramot M, Momenan R. "Towards expanded utility of Realtime fMRI Neurofeedback in clinical applications" Frontiers in Human Neuroscience (2020) 14:471 [[pdf](https://www.frontiersin.org/articles/10.3389/fnhum.2020.606868/full)]
 
 {: .text-justify}
-<div><span class="__dimensions_badge_embed__" data-doi="10.1002/hbm.25003" data-style="large_rectangle"></span><div class='altmetric-embed' data-badge-type='Default' data-doi="10.1002/hbm.25003"></div></div>{: style="float: right;margin-left: 1em"}
+<div><span class="__dimensions_badge_embed__" data-doi="10.1002/hbm.25003" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1002/hbm.25003"></div></div>{: style="float: right;margin-left: 1em"}
 Rolinski R, You X, **Gonzalez-Castillo J**, Norato G, Reynolds RC, Inati SK, Theodore WH. “Language lateralization from task-based and resting-state functional MRI in patients with epilepsy” Human Brain Mapping (2020) 41(11):3133-3146 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25003)]
 
 {: .text-justify}
-<div><span class="__dimensions_badge_embed__" data-doi="10.1162/netn_a_00145" data-style="large_rectangle"></span><div class='altmetric-embed' data-badge-type='Default' data-doi="10.1162/netn_a_00145"></div></div>{: style="float: right;margin-left: 1em"}
+<div><span class="__dimensions_badge_embed__" data-doi="10.1162/netn_a_00145" data-style="small"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1162/netn_a_00145"></div></div>{: style="float: right;margin-left: 1em"}
 Handwerker DA, Ianni G, Gutierrez B, Roopchansingh V, **Gonzalez-Castillo J**, Chen G, Bandettini PA, Ungerleider LG, Pitcher D. "Theta-burst TMS to the posterior superior temporal sulcus decreases resting-state fMRI connectivity across the face processing network" Netowork Neuroscience (2020) 4(3):746-760 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7462428/pdf/netn-04-746.pdf)]
 
 ## 2019
