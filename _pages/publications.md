@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /publications/
+excerpt: "List of scientific peer-reviewed publications sorted by year"
 author_profile: true
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
