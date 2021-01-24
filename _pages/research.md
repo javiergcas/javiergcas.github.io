@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
-excerpt: "Overview of current research projects"
+excerpt: "Overview of Javier Gonzalez-Castillo's current research projects"
 author_profile: true
 ---
 
