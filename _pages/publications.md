@@ -171,38 +171,36 @@ Handwerker DA, **Gonzalez-Castillo J**, D’Esposito M, Bandettini PA. “The co
 **Gonzalez-Castillo J**, Olulade OA, Talavage TM. “Using functional MRI to study auditory comprehension”. Imaging Med. (2012) 4(1):137–143 [[pdf](https://www.openaccessjournals.com/articles/using-functional-mri-to-study-auditory-comprehension.pdf)]
 
 {: .text-justify}
-<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.heares.2011.03.008" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Olulade O, Hu S, **Gonzalez-Castillo J**, et al. “Assessment of temporal state-dependent interactions between auditory fMRI responses to desired and undesired acoustic sources”. Hear Res. (2011) 277(1-2):67–77 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137738/pdf/nihms288178.pdf)]
 
 {: .text-justify}
-<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2011.03.023" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Soltysik DA, Thomasson D, Rajan S, **Gonzalez-Castillo J**, DiCamillo P, Biassou N. “Head-repositioning does not reduce the reproducibility of fMRI activation in a block-design motor task”. NeuroImage (2011) 56(3):1329–37 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3085718/pdf/nihms282279.pdf)]
 
 {: .text-justify}
-<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2010.11.020" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Roopchansingh V, Bandettini PA, Bodurka J. “Physiological noise effects on the flip angle selection in BOLD fMRI”. NeuroImage (2011) 54(4):2764–2778 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3020268/pdf/nihms257771.pdf)]
 
 {: .text-justify}
-<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2010.09.082" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Talavage TM. “Reproducibility of fMRI activations associated with auditory sentence comprehension”. NeuroImage (2011) 54(3):2138–2155 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3008333/pdf/nihms-244051.pdf)]
 
 {: .text-justify}
-<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2009.11.051" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Hu S, Olulade O, **Gonzalez-Castillo J**, et al. “Modeling hemodynamic responses in auditory cortex at 1.5T using variable duration imaging acoustic noise”. NeuroImage. (2010) 49(4):3027–3038 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818577/pdf/nihms162446.pdf)]
 
 {: .text-justify}
-<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.bandl.2008.09.010" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Kemmerer D, Gonzalez-Castillo J. “The Two-Level Theory of verb meaning: An approach to integrating the semantics of action with the mirror neuron system”. Brain Lang. (2010) 112(1):54–76 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859696/pdf/nihms173810.pdf)]
 
 {: .text-justify}
-<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.bandl.2007.09.003" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Kemmerer D, **Gonzalez-Castillo J**, Talavage T, Patterson S, Wiley C. “Neuroanatomical distribution of five semantic components of verbs: Evidence from fMRI”. Brain Lang. (2008) 107(1):16–43
 
 {: .text-justify}
-<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Trastour D, Bartolini C. “Description Logics for Matchmaking of Services”. In: KI-2001 Workshop on Applications of Description Logics, Vienna, Austria. (2001) [[pdf](https://www.hpl.hp.com/techreports/2001/HPL-2001-265.pdf)]
 
 {: .text-justify}
-<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Trastour D, Bartolini C, **Gonzalez-Castillo J** “Semantic Web Approach to Service Description for Matchmaking of Services”. In: Semantic Web Workshop, Stanford USA. (2001) [[pdf](https://www.hpl.hp.com/techreports/2001/HPL-2001-183.pdf)]
 
