@@ -21,7 +21,7 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 **Gonzalez-Castillo J**, Kam JWY, Hoy CW, Bandettini PA. “How to interpret resting-state fMRI: ask your participants” Journal of Neuroscience (Accepted)
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='4' data-doi="10.3389/fnhum.2020.606868"></div>{: style="float: right;margin-left: 1em"}
+<div class='altmetric-embed' data-badge-type='4' data-doi="10.3389/fnhum.2020.606868" data-badge-popover="altmetric-badge-popover-left"></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Ramot M, Momenan R. "Towards expanded utility of Realtime fMRI Neurofeedback in clinical applications" Frontiers in Human Neuroscience (2020) 14:471 [[pdf](https://www.frontiersin.org/articles/10.3389/fnhum.2020.606868/full)]
 
 {: .text-justify}
@@ -69,6 +69,7 @@ Xie H, **Gonzalez-Castillo J**, Damaraju E, Bandettni PA, Calhoun V, Mitra S. �
 Xie H, Calhoun V, **Gonzalez-Castillo J**, Damaraju E, Miller R, Bandettini PA, Mitra S. “Whole-brain connectivity dynamics reflect both task-specific and individual-specific modulation: a multitask study”. NeuroImage (2018) 180(Part B):495-504 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5700856/pdf/nihms880222.pdf)]
 
 {: .text-justify}
+<div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2017.05.050"></div>{: style="float: right;margin-left: 1em"}
 Saggar M, Sporns O, **Gonzalez-Castillo J**, Bandettini PA, Carlsson G, Glover G, Reiss AL. “Towards a new approach to reveal dynamical organization of the brain using topological data analysis”. Nature Communications (2018) 9(1):1399 [[pdf](https://www.nature.com/articles/s41467-018-03664-4)]
 
 {: .text-justify}
