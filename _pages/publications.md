@@ -21,6 +21,7 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 **Gonzalez-Castillo J**, Kam JWY, Hoy CW, Bandettini PA. “How to interpret resting-state fMRI: ask your participants” Journal of Neuroscience (Accepted)
 
 {: .text-justify}
+<div class='altmetric-embed' data-badge-type='4' data-doi="10.3389/fnhum.2020.606868"></div>{: style="float: left;margin-right: 1em"}
 **Gonzalez-Castillo J**, Ramot M, Momenan R. "Towards expanded utility of Realtime fMRI Neurofeedback in clinical applications" Frontiers in Human Neuroscience (2020) 14:471 [[pdf](https://www.frontiersin.org/articles/10.3389/fnhum.2020.606868/full)]
 
 {: .text-justify}
@@ -49,11 +50,11 @@ Ramot M, **Gonzalez-Castillo J**. “A framework for offline evaluation and opti
 ## 2018
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='4' data-doi="10.1162/netn_a_00051"></div>{: style="float: left;margin-right: 1em"}
+<div class='altmetric-embed' data-badge-type='4' data-doi="10.1162/netn_a_00051"></div>{: style="float: right;margin-left: 1em"}
 Xie H, **Gonzalez-Castillo J**, Damaraju E, Bandettni PA, Calhoun V, Mitra S. “Time-varying whole-brain functional network connectivity coupled to task engagement” Network Neuroscience (2018) 3(1):49-66 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6326730/pdf/netn-03-49.pdf)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2017.08.006"></div>{: style="float: left;margin-right: 1em"}
+<div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2017.08.006"></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Bandettini PA.  “Task-based dynamic connectivity: recent findings and open questions” NeuroImage, 2018; 180, 526-533 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5797523/pdf/nihms898486.pdf)] 
 
 {: .text-justify}
