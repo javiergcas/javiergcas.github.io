@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Short biography for Javier Gonzalez-Castillo"
 author_profile: true
 redirect_from: 
   - /about/
