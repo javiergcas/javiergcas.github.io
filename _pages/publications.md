@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Yearly Publications"
 permalink: /publications/
 excerpt: "List of scientific peer-reviewed publications sorted by year"
 author_profile: true
