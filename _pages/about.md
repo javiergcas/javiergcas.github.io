@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Short biography for Javier Gonzalez-Castillo"
+excerpt: "Javier Gonzalez-Castillo is a staff scientist at the NIH working on fMRI methods and neuroscience"
 author_profile: true
 redirect_from: 
   - /about/
