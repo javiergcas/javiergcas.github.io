@@ -57,6 +57,7 @@ Chai Y, Handwerker DA, Marrett S, **Gonzalez-Castillo J**, Merriam EP, Hall A, M
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2019.116081" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2019.116081" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
 Caballero-Gaudes C, Moia S, Panwar PA, Bandettini PA, **Gonzalez-Castillo J**. “A deconvolution algorithm for multi-echo functional MRI: multi-echo sparse paradigm free mapping” NeuroImage (2019) 202:116081
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819276/pdf/nihms-1538772.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="20" height="20"></a>
+<a href="https://javiergcas.github.io/talks/ismrm_2018_mepfm"><img border="0" alt="talk" src="https://javiergcas.github.io/images/presentation_icon.png" width="20" height="20"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2018.12.037" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2018.12.037" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
