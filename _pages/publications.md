@@ -164,7 +164,7 @@ Handwerker DA, **Gonzalez-Castillo J**, D’Esposito M, Bandettini PA. “The co
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1121049109" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1073/pnas.1121049109" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Saad ZS, Handwerker DA, Inati SJ, Brenowitz N, Bandettini PA. “Whole-brain, time-locked activation with simple tasks revealed using massive averaging and model-free analysis”. PNAS (2012) 109(14):5487–92 [[pdf](https://www.pnas.org/content/pnas/109/14/5487.full.pdf)] 
-<a href="https://openneuro.org/datasets/ds001553/versions/1.0.0">data</a>
+<a href="https://openneuro.org/datasets/ds001553/versions/1.0.0"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="50" height="50"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.2217/iim.11.74" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.2217/iim.11.74" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
