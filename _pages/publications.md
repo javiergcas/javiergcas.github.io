@@ -116,70 +116,93 @@ Craddock RC, Bellec P, Margules DS, Nichols BN, Pfannmöller JP, Badhwar AP, Ken
 **Gonzalez-Castillo J**, Hoy CW, Handwerker D, Robinson ME, Buchanan LC, Saad ZS, Bandettini PA. “Tracking ongoing in individuals using brief, whole-brain functional connectivity patterns”.  PNAS (2015) 112(28):8762-8767 [[pdf](https://www.pnas.org/content/pnas/112/28/8762.full.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuron.2015.06.006" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
+
 **Gonzalez-Castillo J**, Bandettini PA. “What cascade spreading models can tell us about the brain”. Neuron (2015) 86(6):1327-1329 [[pdf](https://www.sciencedirect.com/science/article/pii/S089662731500519X)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1093/cercor/bhu148" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Hoy CW, Handwerker DA, et al. “Task Dependence, Tissue Specificity, and Spatial Distribution of Widespread Activations in Large Single-Subject Functional MRI Datasets at 7T”. Cereb Cortex. (2015) 25(12):4667-4677 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635913/pdf/bhu148.pdf)]
 
 ## 2014 and Earlier
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2014.05.034" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Yang Z, Huang Z, **Gonzalez-Castillo J**, Dai R, Northoff G, Bandettini PA. “Using fMRI to decode true thoughts independent of intention to conceal”. NeuroImage (2014) 99:80–92. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4179453/pdf/nihms612303.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fnins.2014.00138" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Handwerker DA, Robinson ME, et al. “The spatial structure of resting state connectivity stability on the scale of minutes”. Front Neurosci. (2014) 8:138 [[pdf](https://www.frontiersin.org/articles/10.3389/fnins.2014.00138/full)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.heares.2013.09.009" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Talavage TM, **Gonzalez-Castillo J**, Scott SK. “Auditory neuroimaging with fMRI and PET”. Hear Res. (2014) 307:4–15 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3893048/pdf/nihms532519.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2013.06.001" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Smalt CJ, **Gonzalez-Castillo J**, Talavage TM, Pisoni DB, Svirsky MA. “Neural correlates of adaptation in normal hearing subjects to free learning with cochlear implant acoustic simulations”. NeuroImage (2013) 82:500-509 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3764992/pdf/nihms504172.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2013.05.079" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Hutchison RM, Womelsdorf T, Allen EA, Bandettini PA, Calhoun VD, Corbetta M,  Della Penna, S, Dyun, JH, Glover GH, **Gonzalez-Castillo J**, et al. “Dynamic functional connectivity: Promise, issues, and interpretations”. NeuroImage (2013) 80:360–378 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3807588/pdf/nihms519835.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1117/12.2012737" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Bandettini PA, Kundu P, **Gonzalez-Castillo J**, Misaki M, Guillod P. “Characterizing and utilizing fMRI fluctuations, patterns, and dynamics” In: Weaver JB, Molthen RC, eds. SPIE Medical Imaging. International Society for Optics and Photonics; (2013) 86720T [[pdf](files/86720T.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2012.10.076" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Duthie KN, Saad ZS, Chu C, Bandettini PA, Luh W-M. “Effects of image contrast on functional MRI image registration”. NeuroImage (2012) 67:163–174 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3545034/pdf/nihms419696.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2012.06.078" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Handwerker DA, Roopchansingh V, **Gonzalez-Castillo J**, Bandettini PA. “Periodic changes in fMRI connectivity”. NeuroImage (2012) 63(3):1712–9 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4180175/pdf/nihms394387.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2012.02.015" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Handwerker DA, **Gonzalez-Castillo J**, D’Esposito M, Bandettini PA. “The continuing challenge of understanding and modeling hemodynamic variation in fMRI”. NeuroImage (2012) 62(2):1017–1023 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4180210/pdf/nihms357101.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1121049109" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Saad ZS, Handwerker DA, Inati SJ, Brenowitz N, Bandettini PA. “Whole-brain, time-locked activation with simple tasks revealed using massive averaging and model-free analysis”. PNAS (2012) 109(14):5487–92 [[pdf](https://www.pnas.org/content/pnas/109/14/5487.full.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.2217/iim.11.74" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Olulade OA, Talavage TM. “Using functional MRI to study auditory comprehension”. Imaging Med. (2012) 4(1):137–143 [[pdf](https://www.openaccessjournals.com/articles/using-functional-mri-to-study-auditory-comprehension.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Olulade O, Hu S, **Gonzalez-Castillo J**, et al. “Assessment of temporal state-dependent interactions between auditory fMRI responses to desired and undesired acoustic sources”. Hear Res. (2011) 277(1-2):67–77 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137738/pdf/nihms288178.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Soltysik DA, Thomasson D, Rajan S, **Gonzalez-Castillo J**, DiCamillo P, Biassou N. “Head-repositioning does not reduce the reproducibility of fMRI activation in a block-design motor task”. NeuroImage (2011) 56(3):1329–37 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3085718/pdf/nihms282279.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Roopchansingh V, Bandettini PA, Bodurka J. “Physiological noise effects on the flip angle selection in BOLD fMRI”. NeuroImage (2011) 54(4):2764–2778 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3020268/pdf/nihms257771.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Talavage TM. “Reproducibility of fMRI activations associated with auditory sentence comprehension”. NeuroImage (2011) 54(3):2138–2155 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3008333/pdf/nihms-244051.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Hu S, Olulade O, **Gonzalez-Castillo J**, et al. “Modeling hemodynamic responses in auditory cortex at 1.5T using variable duration imaging acoustic noise”. NeuroImage. (2010) 49(4):3027–3038 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818577/pdf/nihms162446.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Kemmerer D, Gonzalez-Castillo J. “The Two-Level Theory of verb meaning: An approach to integrating the semantics of action with the mirror neuron system”. Brain Lang. (2010) 112(1):54–76 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859696/pdf/nihms173810.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Kemmerer D, **Gonzalez-Castillo J**, Talavage T, Patterson S, Wiley C. “Neuroanatomical distribution of five semantic components of verbs: Evidence from fMRI”. Brain Lang. (2008) 107(1):16–43
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Trastour D, Bartolini C. “Description Logics for Matchmaking of Services”. In: KI-2001 Workshop on Applications of Description Logics, Vienna, Austria. (2001) [[pdf](https://www.hpl.hp.com/techreports/2001/HPL-2001-265.pdf)]
 
 {: .text-justify}
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Trastour D, Bartolini C, **Gonzalez-Castillo J** “Semantic Web Approach to Service Description for Matchmaking of Services”. In: Semantic Web Workshop, Stanford USA. (2001) [[pdf](https://www.hpl.hp.com/techreports/2001/HPL-2001-183.pdf)]
 
