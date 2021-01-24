@@ -19,84 +19,84 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 ## 2020
 
 {: .text-justify}
-**Gonzalez-Castillo J**, Kam JWY, Hoy CW, Bandettini PA. “How to interpret resting-state fMRI: ask your participants” Journal of Neuroscience (Accepted)
+**Gonzalez-Castillo J**, Kam JWY, Hoy CW, Bandettini PA. “How to interpret resting-state fMRI: ask your participants” Journal of Neuroscience (In Press)
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/fnhum.2020.606868"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fnhum.2020.606868" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Ramot M, Momenan R. "Towards expanded utility of Realtime fMRI Neurofeedback in clinical applications" Frontiers in Human Neuroscience (2020) 14:471 [[pdf](https://www.frontiersin.org/articles/10.3389/fnhum.2020.606868/full)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1002/hbm.25003"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1002/hbm.25003" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Rolinski R, You X, **Gonzalez-Castillo J**, Norato G, Reynolds RC, Inati SK, Theodore WH. “Language lateralization from task-based and resting-state functional MRI in patients with epilepsy” Human Brain Mapping (2020) 41(11):3133-3146 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25003)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1162/netn_a_00145"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1162/netn_a_00145" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Handwerker DA, Ianni G, Gutierrez B, Roopchansingh V, **Gonzalez-Castillo J**, Chen G, Bandettini PA, Ungerleider LG, Pitcher D. "Theta-burst TMS to the posterior superior temporal sulcus decreases resting-state fMRI connectivity across the face processing network" Netowork Neuroscience (2020) 4(3):746-760 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7462428/pdf/netn-04-746.pdf)]
 
 ## 2019
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.neuroimage.2019.116129"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2019.116129" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Caballero-Gaudes C, Topolski N, Handwerker DA, Pereira F, Bandettini PA. “Imaging the spontaneous flow of thought: distinct periods of cognition contribute to dynamic functional connectivity during rest”. NeuroImage (2019) 202:116129 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819261/pdf/nihms-1538935.pdf)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.neuroimage.2019.04.048"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2019.04.048" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Chai Y, Handwerker DA, Marrett S, **Gonzalez-Castillo J**, Merriam EP, Hall A, Molfese PJ, Bandettini PA. “Visual temporal frequency shows a distinct cortical architecture using fMRI” NeuroImage (2019) 197:13-23 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6591056/pdf/nihms-1527893.pdf)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.neuroimage.2019.116081"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2019.116081" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Caballero-Gaudes C, Moia S, Panwar PA, Bandettini PA, **Gonzalez-Castillo J**. “A deconvolution algorithm for multi-echo functional MRI: multi-echo sparse paradigm free mapping” NeuroImage (2019) 202:116081 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819276/pdf/nihms-1538772.pdf)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.neuroimage.2018.12.037"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2018.12.037" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Xie H, Zheng CY, Handwerker DA, Bandettini PA, Calhoun VD, Mitra S, **Gonzalez-Castillo J**. “Efficacy of different dynamic functional connectivity methods to capture cognitively relevant information”. NeuroImage (2019) 188:502-514 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6401299/pdf/nihms-1517534.pdf)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.neuroimage.2018.12.006"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2018.12.006" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Ramot M, **Gonzalez-Castillo J**. “A framework for offline evaluation and optimization of real-time algorithms for use in neurofeedback, demonstrated on an instantaneous proxy for correlations” NeuroImage (2019) 188:322-334 [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1053811918321505?via%3Dihub)]
 
 ## 2018
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1162/netn_a_00051"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1162/netn_a_00051" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Xie H, **Gonzalez-Castillo J**, Damaraju E, Bandettni PA, Calhoun V, Mitra S. “Time-varying whole-brain functional network connectivity coupled to task engagement” Network Neuroscience (2018) 3(1):49-66 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6326730/pdf/netn-03-49.pdf)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.neuroimage.2017.08.006"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2017.08.006" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Bandettini PA.  “Task-based dynamic connectivity: recent findings and open questions” NeuroImage, 2018; 180, 526-533 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5797523/pdf/nihms898486.pdf)] 
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.neuroimage.2017.05.050"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2017.05.050" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Xie H, Calhoun V, **Gonzalez-Castillo J**, Damaraju E, Miller R, Bandettini PA, Mitra S. “Whole-brain connectivity dynamics reflect both task-specific and individual-specific modulation: a multitask study”. NeuroImage (2018) 180(Part B):495-504 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5700856/pdf/nihms880222.pdf)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.neuroimage.2017.05.050"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-018-03664-4" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Saggar M, Sporns O, **Gonzalez-Castillo J**, Bandettini PA, Carlsson G, Glover G, Reiss AL. “Towards a new approach to reveal dynamical organization of the brain using topological data analysis”. Nature Communications (2018) 9(1):1399 [[pdf](https://www.nature.com/articles/s41467-018-03664-4)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.neuroimage.2017.10.019"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2017.10.019" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Jangraw DC, **Gonzalez-Castillo J**, Handwerker DA, Ghane M, Rosenberg M, Panwar P, Bandettini PA. “A Functional Connectivity-based neuromarker of Sustained Attention Generalizes to Predict Recall in Naturalistic Reading Task” NeuroImage (2018) 166:99-109 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5748005/pdf/nihms920752.pdf)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41398-017-0074-6"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41398-017-0074-6" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Torrisi S, Gorka AX, **Gonzalez-Castillo J**, O’Connell K, Balderston N, Grillon C, Ernst M. “Extended amygdala connectivity changes during sustained shock anticipation” Translational Psychiatry (2018) 8(1):33 [[pdf](https://www.nature.com/articles/s41398-017-0074-6)]
 
 ## 2017
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.neuron.2017.11.005"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuron.2017.11.005" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Huber L, Handwerker D, Jangraw D, Hall H, Stuber C, **Gonzalez-Castillo J**, Ivanov D, Marrett S, Guidi M, Goense J, Poser BA, Bandettini PA. “High-Resolution CBV-fMRI allows mapping of laminar activity and connectivity of cortical input and output in human M1” Neuron (2017) 96(6):1253-1263.e7 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5739950/pdf/nihms919477.pdf)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.7554/eLife.28974"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.28974" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Ramot M, Kimmich S, **Gonzalez-Castillo J**, Roopchansingh V, Popal H, White E, Gotts S, Martin A. “Direct modulation of aberrant brain network connectivity through real-time neurofeedback” eLife (2017) 6:e28974 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5626477/pdf/elife-28974.pdf)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.neuroimage.2016.10.024"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2016.10.024" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Gang C, Nichols T, Cox B, Bandettini PA. “Variance Decomposition for multi-session fMRI”. NeuroImage, Special Issue on “Cleaning up the fMRI timeseries” NeuroImage (2017) 154:206-218 [[pdf](https://www.sciencedirect.com/science/article/pii/S105381191630578X)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/fnins.2017.00222"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fnins.2017.00222" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Degryse J, Seurinck R, Durnez J, **Gonzalez-Castillo J**, Bandettini PA, Moerkerke B. “Introducing alternative-based thresholding for defining functional regions of interest in fMRI” Front. Neurosci. (2017):11:222 [[pdf](https://www.frontiersin.org/articles/10.3389/fnins.2017.00222/full)]
 
 ## 2016
