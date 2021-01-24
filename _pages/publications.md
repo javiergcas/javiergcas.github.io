@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /publications/
 author_profile: true
+display: inline-block
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
