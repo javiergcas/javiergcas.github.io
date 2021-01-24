@@ -2,6 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
+excerpt: "Overview of current research projects"
 author_profile: true
 ---
 
