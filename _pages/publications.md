@@ -38,6 +38,7 @@ Handwerker DA, Ianni G, Gutierrez B, Roopchansingh V, **Gonzalez-Castillo J**, C
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2019.116129" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2019.116129" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Caballero-Gaudes C, Topolski N, Handwerker DA, Pereira F, Bandettini PA. “Imaging the spontaneous flow of thought: distinct periods of cognition contribute to dynamic functional connectivity during rest”. NeuroImage (2019) 202:116129 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819261/pdf/nihms-1538935.pdf)]
+<a href="https://central.xnat.org/app/action/DisplayItemAction/search_value/FCStateClassif/search_element/xnat:projectData/search_field/xnat:projectData.ID"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2019.04.048" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2019.04.048" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
@@ -50,6 +51,7 @@ Caballero-Gaudes C, Moia S, Panwar PA, Bandettini PA, **Gonzalez-Castillo J**. �
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2018.12.037" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2018.12.037" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
 Xie H, Zheng CY, Handwerker DA, Bandettini PA, Calhoun VD, Mitra S, **Gonzalez-Castillo J**. “Efficacy of different dynamic functional connectivity methods to capture cognitively relevant information”. NeuroImage (2019) 188:502-514 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6401299/pdf/nihms-1517534.pdf)]
+<a href="https://central.xnat.org/app/action/DisplayItemAction/search_value/FCStateClassif/search_element/xnat:projectData/search_field/xnat:projectData.ID"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2018.12.006" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2018.12.006" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
@@ -60,10 +62,12 @@ Ramot M, **Gonzalez-Castillo J**. “A framework for offline evaluation and opti
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1162/netn_a_00051" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1162/netn_a_00051" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
 Xie H, **Gonzalez-Castillo J**, Damaraju E, Bandettni PA, Calhoun V, Mitra S. “Time-varying whole-brain functional network connectivity coupled to task engagement” Network Neuroscience (2018) 3(1):49-66 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6326730/pdf/netn-03-49.pdf)]
+<a href="https://central.xnat.org/app/action/DisplayItemAction/search_value/FCStateClassif/search_element/xnat:projectData/search_field/xnat:projectData.ID"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2017.08.006" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2017.08.006" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-**Gonzalez-Castillo J**, Bandettini PA.  “Task-based dynamic connectivity: recent findings and open questions” NeuroImage, 2018; 180, 526-533 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5797523/pdf/nihms898486.pdf)] 
+**Gonzalez-Castillo J**, Bandettini PA.  “Task-based dynamic connectivity: recent findings and open questions” NeuroImage, 2018; 180, 526-533 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5797523/pdf/nihms898486.pdf)]
+<a href="https://central.xnat.org/app/action/DisplayItemAction/search_value/FCStateClassif/search_element/xnat:projectData/search_field/xnat:projectData.ID"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2017.05.050" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2017.05.050" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
@@ -122,7 +126,7 @@ Craddock RC, Bellec P, Margules DS, Nichols BN, Pfannmöller JP, Badhwar AP, Ken
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1093/cercor/bhu148" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1093/cercor/bhu148" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Hoy CW, Handwerker DA, et al. “Task Dependence, Tissue Specificity, and Spatial Distribution of Widespread Activations in Large Single-Subject Functional MRI Datasets at 7T”. Cereb Cortex. (2015) 25(12):4667-4677 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635913/pdf/bhu148.pdf)]
-<a href="https://openneuro.org/datasets/ds001555/versions/1.0.0"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="30" height="30"></a>
+<a href="https://openneuro.org/datasets/ds001555/versions/1.0.0"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="25" height="25"></a>
 
 ## 2014 and Earlier
 
@@ -165,7 +169,7 @@ Handwerker DA, **Gonzalez-Castillo J**, D’Esposito M, Bandettini PA. “The co
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1121049109" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1073/pnas.1121049109" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Saad ZS, Handwerker DA, Inati SJ, Brenowitz N, Bandettini PA. “Whole-brain, time-locked activation with simple tasks revealed using massive averaging and model-free analysis”. PNAS (2012) 109(14):5487–92 [[pdf](https://www.pnas.org/content/pnas/109/14/5487.full.pdf)] 
-<a href="https://openneuro.org/datasets/ds001553/versions/1.0.0"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="30" height="30"></a>
+<a href="https://openneuro.org/datasets/ds001553/versions/1.0.0"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.2217/iim.11.74" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.2217/iim.11.74" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
