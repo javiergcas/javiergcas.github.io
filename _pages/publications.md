@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 # Book Chapters
 
@@ -112,6 +113,7 @@ Craddock RC, Bellec P, Margules DS, Nichols BN, Pfannmöller JP, Badhwar AP, Ken
 
 {: .text-justify}
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1501242112"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Hoy CW, Handwerker D, Robinson ME, Buchanan LC, Saad ZS, Bandettini PA. “Tracking ongoing in individuals using brief, whole-brain functional connectivity patterns”.  PNAS (2015) 112(28):8762-8767 [[pdf](https://www.pnas.org/content/pnas/112/28/8762.full.pdf)]
 
 {: .text-justify}
