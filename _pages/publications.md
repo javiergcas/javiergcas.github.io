@@ -53,7 +53,7 @@ Xie H, **Gonzalez-Castillo J**, Damaraju E, Bandettni PA, Calhoun V, Mitra S. �
 
 {: .text-justify}
 **Gonzalez-Castillo J**, Bandettini PA.  “Task-based dynamic connectivity: recent findings and open questions” NeuroImage, 2018; 180, 526-533 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5797523/pdf/nihms898486.pdf)] 
-<div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2017.08.006"></div>
+<div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2017.08.006"></div>{: style="float: left"}
 
 {: .text-justify}
 Xie H, Calhoun V, **Gonzalez-Castillo J**, Damaraju E, Miller R, Bandettini PA, Mitra S. “Whole-brain connectivity dynamics reflect both task-specific and individual-specific modulation: a multitask study”. NeuroImage (2018) 180(Part B):495-504 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5700856/pdf/nihms880222.pdf)]
