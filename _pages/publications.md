@@ -97,17 +97,20 @@ Ramot M, Kimmich S, **Gonzalez-Castillo J**, Roopchansingh V, Popal H, White E, 
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2016.10.024" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2016.10.024" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-**Gonzalez-Castillo J**, Gang C, Nichols T, Cox B, Bandettini PA. “Variance Decomposition for multi-session fMRI”. NeuroImage, Special Issue on “Cleaning up the fMRI timeseries” NeuroImage (2017) 154:206-218 [[pdf](https://www.sciencedirect.com/science/article/pii/S105381191630578X)]
+**Gonzalez-Castillo J**, Gang C, Nichols T, Cox B, Bandettini PA. “Variance Decomposition for multi-session fMRI”. NeuroImage, Special Issue on “Cleaning up the fMRI timeseries” NeuroImage (2017) 154:206-218 [[pdf]
+<a href="https://www.sciencedirect.com/science/article/pii/S105381191630578X"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.3389/fnins.2017.00222" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.3389/fnins.2017.00222" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Degryse J, Seurinck R, Durnez J, **Gonzalez-Castillo J**, Bandettini PA, Moerkerke B. “Introducing alternative-based thresholding for defining functional regions of interest in fMRI” Front. Neurosci. (2017):11:222 [[pdf](https://www.frontiersin.org/articles/10.3389/fnins.2017.00222/full)]
+Degryse J, Seurinck R, Durnez J, **Gonzalez-Castillo J**, Bandettini PA, Moerkerke B. “Introducing alternative-based thresholding for defining functional regions of interest in fMRI” Front. Neurosci. (2017):11:222 
+<a href="https://www.frontiersin.org/articles/10.3389/fnins.2017.00222/full"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 ## 2016
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1186/s13742-016-0147-0" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1186/s13742-016-0147-0" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Craddock RC, Bellec P, Margules DS, Nichols BN, Pfannmöller JP, Badhwar AP, Kennedy D, Poline JB, Toro R, Cipollini B, Rokem A et al. “2015 Brainhack Proceedings” GigaScience (2016) 5(1):1–26 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5103253/pdf/13742_2016_Article_147.pdf)]
+Craddock RC, Bellec P, Margules DS, Nichols BN, Pfannmöller JP, Badhwar AP, Kennedy D, Poline JB, Toro R, Cipollini B, Rokem A et al. “2015 Brainhack Proceedings” GigaScience (2016) 5(1):1–26 
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5103253/pdf/13742_2016_Article_147.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2016.07.049" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2016.07.049" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
