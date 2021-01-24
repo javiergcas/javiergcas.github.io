@@ -102,18 +102,17 @@ Degryse J, Seurinck R, Durnez J, **Gonzalez-Castillo J**, Bandettini PA, Moerker
 ## 2016
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1186/s13742-016-0147-0"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1186/s13742-016-0147-0" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 Craddock RC, Bellec P, Margules DS, Nichols BN, Pfannmöller JP, Badhwar AP, Kennedy D, Poline JB, Toro R, Cipollini B, Rokem A et al. “2015 Brainhack Proceedings” GigaScience (2016) 5(1):1–26 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5103253/pdf/13742_2016_Article_147.pdf)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.neuroimage.2016.07.049"></div>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2016.07.049" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Caballero Guades C, Panwar P, Buchanan LC, Handwerker DA, Jangraw DC, Zachariou V, Bandettini PA. “Evaluation of Multi-Echo ICA denoising for task based fMRI studies: block designs, rapid event-related designs, and cardiac-gated fMRI”. NeuroImage (2016) 141:452-468 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5026969/pdf/nihms810618.pdf)]
 
 ## 2015
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1501242112"></div>{: style="float: right;margin-left: 1em"}
-<span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_circle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Hoy CW, Handwerker D, Robinson ME, Buchanan LC, Saad ZS, Bandettini PA. “Tracking ongoing in individuals using brief, whole-brain functional connectivity patterns”.  PNAS (2015) 112(28):8762-8767 [[pdf](https://www.pnas.org/content/pnas/112/28/8762.full.pdf)]
 
 {: .text-justify}
