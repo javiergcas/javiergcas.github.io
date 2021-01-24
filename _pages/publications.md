@@ -30,7 +30,7 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 Rolinski R, You X, **Gonzalez-Castillo J**, Norato G, Reynolds RC, Inati SK, Theodore WH. “Language lateralization from task-based and resting-state functional MRI in patients with epilepsy” Human Brain Mapping (2020) 41(11):3133-3146 [[pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.25003)]
 
 {: .text-justify}
-<div><span class="__dimensions_badge_embed__" data-doi="10.1162/netn_a_00145" data-style="small_rectangle" data-badge-popover="altmetric-badge-popover-left"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1162/netn_a_00145"></div></div>{: style="float: right;margin-left: 1em"}
+<div><span class="__dimensions_badge_embed__" data-doi="10.1162/netn_a_00145" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1162/netn_a_00145" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
 Handwerker DA, Ianni G, Gutierrez B, Roopchansingh V, **Gonzalez-Castillo J**, Chen G, Bandettini PA, Ungerleider LG, Pitcher D. "Theta-burst TMS to the posterior superior temporal sulcus decreases resting-state fMRI connectivity across the face processing network" Netowork Neuroscience (2020) 4(3):746-760 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7462428/pdf/netn-04-746.pdf)]
 
 ## 2019
