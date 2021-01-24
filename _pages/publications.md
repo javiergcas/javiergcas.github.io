@@ -43,12 +43,15 @@ Handwerker DA, Ianni G, Gutierrez B, Roopchansingh V, **Gonzalez-Castillo J**, C
 Chai Y, Handwerker DA, Marrett S, **Gonzalez-Castillo J**, Merriam EP, Hall A, Molfese PJ, Bandettini PA. “Visual temporal frequency shows a distinct cortical architecture using fMRI” NeuroImage (2019) 197:13-23 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6591056/pdf/nihms-1527893.pdf)]
 
 {: .text-justify}
+<div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2019.116081"></div>{: style="float: right;margin-left: 1em"}
 Caballero-Gaudes C, Moia S, Panwar PA, Bandettini PA, **Gonzalez-Castillo J**. “A deconvolution algorithm for multi-echo functional MRI: multi-echo sparse paradigm free mapping” NeuroImage (2019) 202:116081 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819276/pdf/nihms-1538772.pdf)]
 
 {: .text-justify}
+<div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2018.12.037"></div>{: style="float: right;margin-left: 1em"}
 Xie H, Zheng CY, Handwerker DA, Bandettini PA, Calhoun VD, Mitra S, **Gonzalez-Castillo J**. “Efficacy of different dynamic functional connectivity methods to capture cognitively relevant information”. NeuroImage (2019) 188:502-514 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6401299/pdf/nihms-1517534.pdf)]
 
 {: .text-justify}
+<div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2018.12.006"></div>{: style="float: right;margin-left: 1em"}
 Ramot M, **Gonzalez-Castillo J**. “A framework for offline evaluation and optimization of real-time algorithms for use in neurofeedback, demonstrated on an instantaneous proxy for correlations” NeuroImage (2019) 188:322-334 [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1053811918321505?via%3Dihub)]
 
 ## 2018
