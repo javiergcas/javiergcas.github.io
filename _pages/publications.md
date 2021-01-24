@@ -179,7 +179,6 @@ Soltysik DA, Thomasson D, Rajan S, **Gonzalez-Castillo J**, DiCamillo P, Biassou
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2010.11.020" data-style="large_rectangle"></span>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Roopchansingh V, Bandettini PA, Bodurka J. “Physiological noise effects on the flip angle selection in BOLD fMRI”. NeuroImage (2011) 54(4):2764–2778 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3020268/pdf/nihms257771.pdf)]
 
 {: .text-justify}
