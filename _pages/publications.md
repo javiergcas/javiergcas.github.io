@@ -22,7 +22,7 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 **Gonzalez-Castillo J**, Kam JWY, Hoy CW, Bandettini PA. “How to interpret resting-state fMRI: ask your participants” Journal of Neuroscience (In Press)
 
 {: .text-justify}
-<span class="__dimensions_badge_embed__" data-doi="10.3389/fnhum.2020.606868" data-style="large_rectangle"></span>{: style="float: right;margin-left: 1em"}
+<div><span class="__dimensions_badge_embed__" data-doi="10.3389/fnhum.2020.606868" data-style="large_rectangle"></span><div class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/fnhum.2020.606868"></div></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Ramot M, Momenan R. "Towards expanded utility of Realtime fMRI Neurofeedback in clinical applications" Frontiers in Human Neuroscience (2020) 14:471 [[pdf](https://www.frontiersin.org/articles/10.3389/fnhum.2020.606868/full)]
 
 {: .text-justify}
