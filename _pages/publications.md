@@ -71,33 +71,39 @@ Xie H, **Gonzalez-Castillo J**, Damaraju E, Bandettni PA, Calhoun V, Mitra S. �
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2017.05.050" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2017.05.050" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Xie H, Calhoun V, **Gonzalez-Castillo J**, Damaraju E, Miller R, Bandettini PA, Mitra S. “Whole-brain connectivity dynamics reflect both task-specific and individual-specific modulation: a multitask study”. NeuroImage (2018) 180(Part B):495-504 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5700856/pdf/nihms880222.pdf)]
+Xie H, Calhoun V, **Gonzalez-Castillo J**, Damaraju E, Miller R, Bandettini PA, Mitra S. “Whole-brain connectivity dynamics reflect both task-specific and individual-specific modulation: a multitask study”. NeuroImage (2018) 180(Part B):495-504
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5700856/pdf/nihms880222.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-018-03664-4" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1038/s41467-018-03664-4" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Saggar M, Sporns O, **Gonzalez-Castillo J**, Bandettini PA, Carlsson G, Glover G, Reiss AL. “Towards a new approach to reveal dynamical organization of the brain using topological data analysis”. Nature Communications (2018) 9(1):1399 [[pdf](https://www.nature.com/articles/s41467-018-03664-4)]
+Saggar M, Sporns O, **Gonzalez-Castillo J**, Bandettini PA, Carlsson G, Glover G, Reiss AL. “Towards a new approach to reveal dynamical organization of the brain using topological data analysis”. Nature Communications (2018) 9(1):1399
+<a href="https://www.nature.com/articles/s41467-018-03664-4"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2017.10.019" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2017.10.019" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Jangraw DC, **Gonzalez-Castillo J**, Handwerker DA, Ghane M, Rosenberg M, Panwar P, Bandettini PA. “A Functional Connectivity-based neuromarker of Sustained Attention Generalizes to Predict Recall in Naturalistic Reading Task” NeuroImage (2018) 166:99-109 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5748005/pdf/nihms920752.pdf)]
+Jangraw DC, **Gonzalez-Castillo J**, Handwerker DA, Ghane M, Rosenberg M, Panwar P, Bandettini PA. “A Functional Connectivity-based neuromarker of Sustained Attention Generalizes to Predict Recall in Naturalistic Reading Task” NeuroImage (2018) 166:99-109
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5748005/pdf/nihms920752.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1038/s41398-017-0074-6" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1038/s41398-017-0074-6" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Torrisi S, Gorka AX, **Gonzalez-Castillo J**, O’Connell K, Balderston N, Grillon C, Ernst M. “Extended amygdala connectivity changes during sustained shock anticipation” Translational Psychiatry (2018) 8(1):33 [[pdf](https://www.nature.com/articles/s41398-017-0074-6)]
+Torrisi S, Gorka AX, **Gonzalez-Castillo J**, O’Connell K, Balderston N, Grillon C, Ernst M. “Extended amygdala connectivity changes during sustained shock anticipation” Translational Psychiatry (2018) 8(1):33
+<a href="https://www.nature.com/articles/s41398-017-0074-6"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 ## 2017
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuron.2017.11.005" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuron.2017.11.005" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Huber L, Handwerker D, Jangraw D, Hall H, Stuber C, **Gonzalez-Castillo J**, Ivanov D, Marrett S, Guidi M, Goense J, Poser BA, Bandettini PA. “High-Resolution CBV-fMRI allows mapping of laminar activity and connectivity of cortical input and output in human M1” Neuron (2017) 96(6):1253-1263.e7 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5739950/pdf/nihms919477.pdf)]
+Huber L, Handwerker D, Jangraw D, Hall H, Stuber C, **Gonzalez-Castillo J**, Ivanov D, Marrett S, Guidi M, Goense J, Poser BA, Bandettini PA. “High-Resolution CBV-fMRI allows mapping of laminar activity and connectivity of cortical input and output in human M1” Neuron (2017) 96(6):1253-1263.e7 
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5739950/pdf/nihms919477.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.7554/eLife.28974" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.7554/eLife.28974" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Ramot M, Kimmich S, **Gonzalez-Castillo J**, Roopchansingh V, Popal H, White E, Gotts S, Martin A. “Direct modulation of aberrant brain network connectivity through real-time neurofeedback” eLife (2017) 6:e28974 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5626477/pdf/elife-28974.pdf)]
+Ramot M, Kimmich S, **Gonzalez-Castillo J**, Roopchansingh V, Popal H, White E, Gotts S, Martin A. “Direct modulation of aberrant brain network connectivity through real-time neurofeedback” eLife (2017) 6:e28974 
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5626477/pdf/elife-28974.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2016.10.024" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2016.10.024" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-**Gonzalez-Castillo J**, Gang C, Nichols T, Cox B, Bandettini PA. “Variance Decomposition for multi-session fMRI”. NeuroImage, Special Issue on “Cleaning up the fMRI timeseries” NeuroImage (2017) 154:206-218 [[pdf]
+**Gonzalez-Castillo J**, Gang C, Nichols T, Cox B, Bandettini PA. “Variance Decomposition for multi-session fMRI”. NeuroImage, Special Issue on “Cleaning up the fMRI timeseries” NeuroImage (2017) 154:206-218
 <a href="https://www.sciencedirect.com/science/article/pii/S105381191630578X"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 {: .text-justify}
