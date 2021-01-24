@@ -111,24 +111,29 @@ Craddock RC, Bellec P, Margules DS, Nichols BN, Pfannmöller JP, Badhwar AP, Ken
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2016.07.049" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2016.07.049" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-**Gonzalez-Castillo J**, Caballero Guades C, Panwar P, Buchanan LC, Handwerker DA, Jangraw DC, Zachariou V, Bandettini PA. “Evaluation of Multi-Echo ICA denoising for task based fMRI studies: block designs, rapid event-related designs, and cardiac-gated fMRI”. NeuroImage (2016) 141:452-468 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5026969/pdf/nihms810618.pdf)]
+**Gonzalez-Castillo J**, Caballero Guades C, Panwar P, Buchanan LC, Handwerker DA, Jangraw DC, Zachariou V, Bandettini PA. “Evaluation of Multi-Echo ICA denoising for task based fMRI studies: block designs, rapid event-related designs, and cardiac-gated fMRI”. NeuroImage (2016) 141:452-468
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5026969/pdf/nihms810618.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 ## 2015
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1501242112" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1073/pnas.1501242112" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-**Gonzalez-Castillo J**, Hoy CW, Handwerker D, Robinson ME, Buchanan LC, Saad ZS, Bandettini PA. “Tracking ongoing in individuals using brief, whole-brain functional connectivity patterns”.  PNAS (2015) 112(28):8762-8767 [[pdf](https://www.pnas.org/content/pnas/112/28/8762.full.pdf)]
+**Gonzalez-Castillo J**, Hoy CW, Handwerker D, Robinson ME, Buchanan LC, Saad ZS, Bandettini PA. “Tracking ongoing cognition in individuals using brief, whole-brain functional connectivity patterns”.  PNAS (2015) 112(28):8762-8767 
+<a href="https://www.pnas.org/content/pnas/112/28/8762.full.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
+<a href="https://central.xnat.org/app/action/DisplayItemAction/search_value/FCStateClassif/search_element/xnat:projectData/search_field/xnat:projectData.ID"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="25" height="25"></a>
+
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuron.2015.06.006" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuron.2015.06.006" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-**Gonzalez-Castillo J**, Bandettini PA. “What cascade spreading models can tell us about the brain”. Neuron (2015) 86(6):1327-1329 [[pdf](https://www.sciencedirect.com/science/article/pii/S089662731500519X)]
+**Gonzalez-Castillo J**, Bandettini PA. “What cascade spreading models can tell us about the brain”. Neuron (2015) 86(6):1327-1329 
+<a href="https://www.sciencedirect.com/science/article/pii/S089662731500519X"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1093/cercor/bhu148" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1093/cercor/bhu148" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Hoy CW, Handwerker DA, et al. “Task Dependence, Tissue Specificity, and Spatial Distribution of Widespread Activations in Large Single-Subject Functional MRI Datasets at 7T”. Cereb Cortex. (2015) 25(12):4667-4677
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635913/pdf/bhu148.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="25" height="25"></a>
-<a href="https://openneuro.org/datasets/ds001555/versions/1.0.0"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="25" height="25"></a>
 <a href="https://javiergcas.github.io/talks/ismrm_2016_educational"><img border="0" alt="talk" src="https://javiergcas.github.io/images/presentation_icon.png" width="25" height="25"></a>
+<a href="https://openneuro.org/datasets/ds001555/versions/1.0.0"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="25" height="25"></a>
 
 ## 2014 and Earlier
 
