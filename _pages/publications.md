@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: publications
 title: "Yearly Publications"
 permalink: /publications/
 excerpt: "List of scientific peer-reviewed publications sorted by year"
