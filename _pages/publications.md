@@ -19,7 +19,9 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 ## 2020
 
 {: .text-justify}
-**Gonzalez-Castillo J**, Kam JWY, Hoy CW, Bandettini PA. “How to interpret resting-state fMRI: ask your participants” Journal of Neuroscience (In Press)
+**Gonzalez-Castillo J**, Kam JWY, Hoy CW, Bandettini PA. “How to interpret resting-state fMRI: ask your participants” Journal of Neuroscience (In Press) 
+<a href="https://javiergcas.github.io/talks/whistler_2020_cogdfc"><img border="0" alt="talk" src="https://javiergcas.github.io/images/presentation_icon.png" width="20" height="20"></a>
+
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.3389/fnhum.2020.606868" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.3389/fnhum.2020.606868"></div></div>{: style="float: right;margin-left: 1em"}
@@ -42,6 +44,7 @@ Handwerker DA, Ianni G, Gutierrez B, Roopchansingh V, **Gonzalez-Castillo J**, C
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2019.116129" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2019.116129" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Caballero-Gaudes C, Topolski N, Handwerker DA, Pereira F, Bandettini PA. “Imaging the spontaneous flow of thought: distinct periods of cognition contribute to dynamic functional connectivity during rest”. NeuroImage (2019) 202:116129
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819261/pdf/nihms-1538935.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="20" height="20"></a>
+<a href="https://javiergcas.github.io/talks/ismrm_2019_tvfc_rest"><img border="0" alt="talk" src="https://javiergcas.github.io/images/presentation_icon.png" width="20" height="20"></a>
 <a href="https://central.xnat.org/app/action/DisplayItemAction/search_value/FCStateClassif/search_element/xnat:projectData/search_field/xnat:projectData.ID"><img border="0" alt="data" src="https://javiergcas.github.io/images/data.jpeg" width="20" height="20"></a>
 
 {: .text-justify}
