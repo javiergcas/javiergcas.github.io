@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {: .text-justify}
-I am originally from [Madrid](https://en.wikipedia.org/wiki/Madrid), [Spain](https://en.wikipedia.org/wiki/Spain). It was in Madrid that I originally pursued a B.S./M.S. in Electrical and Computer Engineering at the [Universidad Politecnica de Madrid](https://www.upm.es). Following graduation, I joined [Hewlett-Packard Labs](https://hpl.hp.com) in [Bristol](https://en.wikipedia.org/wiki/Bristol), UK as a research assistant developing electronic-commerce automation technologies. After a year in Bristol, I moved back to Madrid to join the Hewlett-Packard Consulting department.
+I was born in [Madrid](https://en.wikipedia.org/wiki/Madrid), [Spain](https://en.wikipedia.org/wiki/Spain). It was in Madrid too that I pursued a B.S./M.S. in Electrical and Computer Engineering at the [Universidad Politecnica](https://www.upm.es). Following graduation, I joined [Hewlett-Packard Labs](https://hpl.hp.com) in [Bristol](https://en.wikipedia.org/wiki/Bristol), UK as a research assistant developing electronic-commerce automation technologies. After a year in Bristol, I moved back to Madrid to join the Hewlett-Packard Consulting department.
 
 <img align="center" src="https://javiergcas.github.io/files/about_me/about_me_cities.png" style="padding: 10px">
 
