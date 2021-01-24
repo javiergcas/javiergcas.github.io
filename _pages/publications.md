@@ -87,20 +87,25 @@ Torrisi S, Gorka AX, **Gonzalez-Castillo J**, O’Connell K, Balderston N, Grill
 Huber L, Handwerker D, Jangraw D, Hall H, Stuber C, **Gonzalez-Castillo J**, Ivanov D, Marrett S, Guidi M, Goense J, Poser BA, Bandettini PA. “High-Resolution CBV-fMRI allows mapping of laminar activity and connectivity of cortical input and output in human M1” Neuron (2017) 96(6):1253-1263.e7 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5739950/pdf/nihms919477.pdf)]
 
 {: .text-justify}
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.7554/eLife.28974"></div>{: style="float: right;margin-left: 1em"}
 Ramot M, Kimmich S, **Gonzalez-Castillo J**, Roopchansingh V, Popal H, White E, Gotts S, Martin A. “Direct modulation of aberrant brain network connectivity through real-time neurofeedback” eLife (2017) 6:e28974 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5626477/pdf/elife-28974.pdf)]
 
 {: .text-justify}
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.neuroimage.2016.10.024"></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Gang C, Nichols T, Cox B, Bandettini PA. “Variance Decomposition for multi-session fMRI”. NeuroImage, Special Issue on “Cleaning up the fMRI timeseries” NeuroImage (2017) 154:206-218 [[pdf](https://www.sciencedirect.com/science/article/pii/S105381191630578X)]
 
 {: .text-justify}
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/fnins.2017.00222"></div>{: style="float: right;margin-left: 1em"}
 Degryse J, Seurinck R, Durnez J, **Gonzalez-Castillo J**, Bandettini PA, Moerkerke B. “Introducing alternative-based thresholding for defining functional regions of interest in fMRI” Front. Neurosci. (2017):11:222 [[pdf](https://www.frontiersin.org/articles/10.3389/fnins.2017.00222/full)]
 
 ## 2016
 
 {: .text-justify}
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1186/s13742-016-0147-0"></div>{: style="float: right;margin-left: 1em"}
 Craddock RC, Bellec P, Margules DS, Nichols BN, Pfannmöller JP, Badhwar AP, Kennedy D, Poline JB, Toro R, Cipollini B, Rokem A et al. “2015 Brainhack Proceedings” GigaScience (2016) 5(1):1–26 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5103253/pdf/13742_2016_Article_147.pdf)]
 
 {: .text-justify}
+<div class='altmetric-embed' data-badge-type='donut' data-doi=" 10.1016/j.neuroimage.2016.07.049"></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Caballero Guades C, Panwar P, Buchanan LC, Handwerker DA, Jangraw DC, Zachariou V, Bandettini PA. “Evaluation of Multi-Echo ICA denoising for task based fMRI studies: block designs, rapid event-related designs, and cardiac-gated fMRI”. NeuroImage (2016) 141:452-468 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5026969/pdf/nihms810618.pdf)]
 
 ## 2015
