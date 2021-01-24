@@ -52,7 +52,7 @@ Ramot M, **Gonzalez-Castillo J**. “A framework for offline evaluation and opti
 Xie H, **Gonzalez-Castillo J**, Damaraju E, Bandettni PA, Calhoun V, Mitra S. “Time-varying whole-brain functional network connectivity coupled to task engagement” Network Neuroscience (2018) 3(1):49-66 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6326730/pdf/netn-03-49.pdf)]
 
 {: .text-justify}
-<div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2017.08.006"></div>{: style="float: left;margin-right: 2em"}
+<div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2017.08.006"></div>{: style="float: left;margin-right: 1em"}
 **Gonzalez-Castillo J**, Bandettini PA.  “Task-based dynamic connectivity: recent findings and open questions” NeuroImage, 2018; 180, 526-533 [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5797523/pdf/nihms898486.pdf)] 
 
 {: .text-justify}
