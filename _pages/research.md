@@ -36,7 +36,7 @@ Brain activity is not always linked to concurrent external environmental demands
 
 ### What is the true extent of neural activity as measured with fMRI?
 
-<img align="left" src="https://javiergcas.github.io/files/research/non_traditional/wide_activity_video01_480.gif" width="355 px" style="padding: 10px">
+<img align="left" src="https://javiergcas.github.io/files/research/non_traditional/wide_activity_small.png" width="355 px" style="padding: 10px">
 
 {: .text-justify}
 The majority of task-based fMRI studies focus exclusively on interpreting positive BOLD deflections that tightly follow external stimuli or task demands (i.e., those sustained as long as the experimental intervention is in place). Although exclusive focus on positively sustained BOLD responses have proven successful to uncover the neuronal correlates of a myriad of human behaviors; unfortunately, this practice results in true neuronal responses continuously passing undetected in fMRI. As such, current conceptualizations of brain function based on task-based fMRI research are incomplete.
