@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Javier Gonzalez-Castillo is a staff scientist at the NIH working on fMRI methods and neuroscience"
+excerpt: "Javier Gonzalez-Castillo is a Staff Scientist at the NIH conducting research on fMRI methods, resting state functional connectivity, realtime fMRI, the neural correlates of internally driven cognition"
 author_profile: true
 redirect_from: 
   - /about/
