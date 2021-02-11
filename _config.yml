@@ -84,8 +84,8 @@ author:
   avatar           : "JGC_ProfilePhoto.jpg"
   bio              : "Staff Scientist, NIMH, NIH. Views expressed here are my own, and not those of my employer."
   location         : "Bethesda, MD"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "https://fim.nimh.nih.gov/profiles/javier-gonzalez-castillo-phd"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=javier+gonzalez-castillo"
   googlescholar    : "https://scholar.google.com/citations?user=CGQ3Lw4AAAAJ&hl=en&oi=ao"
   email            : "javier.gonzalez-castillo@nih.gov"
   researchgate     : "https://www.researchgate.net/profile/Javier_Gonzalez-Castillo"
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "javiergcas"
   orcid            : "https://orcid.org/0000-0002-6520-5125"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "@javiergcas"
