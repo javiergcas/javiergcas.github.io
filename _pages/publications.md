@@ -17,13 +17,14 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 
 # Peer-reviewed Publications
 
-## 2020
+## 2021
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1523/JNEUROSCI.1786-20.2020" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1523/JNEUROSCI.1786-20.2020"></div></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Kam JWY, Hoy CW, Bandettini PA. “How to interpret resting-state fMRI: ask your participants” Journal of Neuroscience (2021) 41(6):1130-1141
 <a href="https://javiergcas.github.io/talks/whistler_2020_cogdfc"><img border="0" alt="talk" src="https://javiergcas.github.io/images/presentation_icon.png" width="20" height="20"></a>
 
+## 2020
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.3389/fnhum.2020.606868" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.3389/fnhum.2020.606868"></div></div>{: style="float: right;margin-left: 1em"}
