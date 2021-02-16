@@ -32,7 +32,8 @@ In addition to studying the region-to-region spatiotemporal structure of time-va
 Brain activity is not always linked to concurrent external environmental demands or stimuli. In fact, complex dynamical patterns of activity—-and their conscious manifestation as an incessant stream of thoughts, emotions and sensations—-constantly unfold in otherwise apparently idle individuals. Despite their ubiquity and core role for survival, the neurobiological correlates of such inner experiences remain largely unknown. This scientific gap is mostly due to how difficult is to objectively characterize something that is so inherently covert and personal. Nonetheless, recent developments in functional neuroimaging, idiographic/experiential science and artificial intelligence (AI) provide a unique opportunity to build scientific models of the neurobiological, behavioral and clinical correlates of free thought. We are currently in the process of conducting new experiments that combine real-time fMRI, experiential methods and machine learning to learn more about the neural correlates of free thought.
 
 **References:**
-* Gonzalez-Castillo J et al. “How to interpret resting-state fMRI: ask your participants” Journal of Neuroscience (Accepted)
+
+* Gonzalez-Castillo J et al. “[How to interpret resting-state fMRI: ask your participants](https://www.jneurosci.org/content/41/6/1130)” Journal of Neuroscience (2021)
 
 ### What is the true extent of neural activity as measured with fMRI?
 
