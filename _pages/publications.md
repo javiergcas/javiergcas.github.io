@@ -245,7 +245,7 @@ Hu S, Olulade O, **Gonzalez-Castillo J**, et al. “Modeling hemodynamic respons
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.bandl.2008.09.010" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.bandl.2008.09.010" data-badge-popover="altmetric-badge-popover-left"></div></div>{: style="float: right;margin-left: 1em"}
-Kemmerer D, Gonzalez-Castillo J. “The Two-Level Theory of verb meaning: An approach to integrating the semantics of action with the mirror neuron system”. Brain Lang. (2010) 112(1):54–76 
+Kemmerer D, **Gonzalez-Castillo J**. “The Two-Level Theory of verb meaning: An approach to integrating the semantics of action with the mirror neuron system”. Brain Lang. (2010) 112(1):54–76 
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859696/pdf/nihms173810.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="20" height="20"></a>
 
 {: .text-justify}
