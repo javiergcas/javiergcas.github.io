@@ -9,5 +9,7 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Talks (with video)"
+    url: /video/
   - title: "CV"
     url: /files/cv/JGC_CV.pdf
