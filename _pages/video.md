@@ -12,6 +12,4 @@ Center for Multimodal NeuroImaging, National Institute of Mentel Health, NIH, Be
 Workshop on Naturalistic Stimuli and Individual Differences 
 August, 2021 (Virtual)
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=HymjFBCa-n4">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HymjFBCa-n4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
