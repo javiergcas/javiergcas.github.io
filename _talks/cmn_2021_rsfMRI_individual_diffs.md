@@ -11,6 +11,4 @@ location: "Bethesda, MD, USA"
 {: .text-justify}
 Overview of state-of-the-art regarding our understanding of sources of individual differences in resting-state fMRI. This talk first describes the primary sources of variability, and then provide some thoughts on how to address those sources depending on whether a given study targets "state-level" or "trait-level" properties of the brain.
 
-<img align="center" src="https://javiergcas.github.io/images/talks/cmn_2021_rsfMRI_individual_diffs.png" width="800 px" style="padding: 10px">
-
-| [Recording](https://youtu.be/HymjFBCa-n4) |
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HymjFBCa-n4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
