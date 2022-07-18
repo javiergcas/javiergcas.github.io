@@ -17,6 +17,12 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 
 # Peer-reviewed Publications
 
+## 2022
+
+{: .text-justify}
+<div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2022.119424" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2022.119424"></div></div>{: style="float: right;margin-left: 1em"}
+**Gonzalez-Castillo J**, Fernandez IS, Handwerker DA, Bandettini PA. “Ultra-slow fluctuations in the fourth ventricle as a marker of drowsiness” NeuroImage (2022) 259: 119424
+
 ## 2021
 
 {: .text-justify}
