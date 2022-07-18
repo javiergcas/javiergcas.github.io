@@ -26,6 +26,10 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 ## 2021
 
 {: .text-justify}
+<div><span class="__dimensions_badge_embed__" data-doi="10.21105/joss.03669" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.21105/joss.03669"></div></div>{: style="float: right;margin-left: 1em"}
+DuPre E, Salo T, Ahmed Z, Bandettini PA, et al. “TE-dependent analysis of multi-echo fMRI with tedana” Journal of Open Source Software (2021) 6(66): 3669.
+
+{: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuron.2021.04.001" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuron.2021.04.001"></div></div>{: style="float: right;margin-left: 1em"}
 Gau R, Noble S, Heuer K, et al. “Brainhack: Developing a culture of open, inclusive, community-driven neuroscience” Neuron (2021) In Press.
 
