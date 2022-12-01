@@ -33,7 +33,12 @@ Bandettini PA, **Gonzalez-Castillo J**, Handwerker DA, Taylor P, Chen G, Thomas 
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1101/2022.10.26.513929" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1101/2022.10.26.513929"></div></div>{: style="float: right;margin-left: 1em"}
-Taylor P, Reynols RC, Calhoun V, **Gonzalez-Castillo J** et al. "Highlight results, don't hide them: enhance interpretation, reduce bias and improve reproducibility" bioRxiv 
+Taylor P, Reynols RC, Calhoun V, **Gonzalez-Castillo J** et al. "Highlight results, don't hide them: enhance interpretation, reduce bias and improve reproducibility" bioRxiv (2022)
+
+{: .text-justify}
+<div><span class="__dimensions_badge_embed__" data-doi="10.1101/2022.09.30.510299" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1101/2022.09.30.510299"></div></div>{: style="float: right;margin-left: 1em"}
+Uruñuela E, **Gonzalez-Castillo J**, Zhang C, Bandettini PA, Caballero-Gaudes C. "Improved whole-brain multivariate hemodynamic deconvolution for multi-echo fMRI with stability selection" bioRxiv (2022)
+
 
 ## 2021
 
