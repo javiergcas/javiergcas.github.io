@@ -29,7 +29,11 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.medj.2022.07.002" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.medj.2022.07.002"></div></div>{: style="float: right;margin-left: 1em"}
-Bandettini PA, **Gonzalez-Castillo J**, Handwerker DA, Taylor P, Chen G, Thomas A. “Ultra-slow fluctuations in the fourth ventricle as a marker of drowsiness” Med (2022) 3(8): 526-531
+Bandettini PA, **Gonzalez-Castillo J**, Handwerker DA, Taylor P, Chen G, Thomas A. “The challenge of BWAs: Unknown unkowns in feature space and variance” Med (2022) 3(8): 526-531
+
+{: .text-justify}
+<div><span class="__dimensions_badge_embed__" data-doi="10.1101/2022.10.26.513929" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1101/2022.10.26.513929"></div></div>{: style="float: right;margin-left: 1em"}
+Taylor P, Reynols RC, Calhoun V, **Gonzalez-Castillo J** et al. "Highlight results, don't hide them: enhance interpretation, reduce bias and improve reproducibility" bioRxiv 
 
 ## 2021
 
