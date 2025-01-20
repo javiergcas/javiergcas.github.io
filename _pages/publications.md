@@ -17,15 +17,21 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 
 # Peer-reviewed Publications
 
+## 2024 
+
+{: .text-justify}
+<div><span class="__dimensions_badge_embed__" data-doi="10.1523/JNEUROSCI.0296-23.2024" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1523/JNEUROSCI.0296-23.2024"></div></div>{: style="float: right;margin-left: 1em"}
+Revsine C, **Gonzalez-Castillo J**, Merriam E, Bandettini PA, Ramirez FM. “A unifying model for disordant and concordant results in human nueroimaging studies of facial viewpoint selectivity” Journal of Neuroscience (2024) 44(17): e0296232024
+
 ## 2023
 
 {: .text-justify}
-<div><span class="__dimensions_badge_embed__" data-doi="10.1101/2023.02.08.527219" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1101/2023.02.08.527219"></div></div>{: style="float: right;margin-left: 1em"}
-Revsine C, **Gonzalez-Castillo J**, Merriam E, Bandettini PA, Ramirez FM. “A unifying model for disordant and concordant results in human nueroimaging studies of facial viewpoint selectivity” Pre-print in BioRxiv.
+<div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2023.120138" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2023.120138"></div></div>{: style="float: right;margin-left: 1em"}
+Taylor PA, Reynolds RC, Calhoun V, **Gonzalez-Castillo J** et al. "Highlight Results, Don't Hide Them: Enhance interpretation, reduce biases and improve reproducibility" NeuroImage (2023) 274: 120138
 
 {: .text-justify}
-<div><span class="__dimensions_badge_embed__" data-doi="10.1101/2023.01.14.523992" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1101/2023.01.14.523992"></div></div>{: style="float: right;margin-left: 1em"}
-**Gonzalez-Castillo J**, Fernandez IS, Lam KC, Handwerker DA, Pereira F, Bandettini PA. “Manifold Learning for Time-varying Functional Connectivity” Pre-print in BioRxiv.
+<div><span class="__dimensions_badge_embed__" data-doi="10.3389/fnhum.2023.1134012" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.3389/fnhum.2023.1134012"></div></div>{: style="float: right;margin-left: 1em"}
+**Gonzalez-Castillo J**, Fernandez IS, Lam KC, Handwerker DA, Pereira F, Bandettini PA. “Manifold Learning for Time-varying Functional Connectivity” Frontiers in Human Neuroscience (2023) 17:1134012
 
 ## 2022
 
