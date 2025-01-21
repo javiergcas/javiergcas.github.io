@@ -18,7 +18,6 @@ Malaia E, **Gonzalez-Castillo J**, Webber-Fox C, Talavage TM, Wilbur B. "Neurona
 
 Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functional Magnetic Resonance Imaging" In: Poeppel D, Overath T, Popper AN, Fay RR, eds. The Human Auditory Cortex.Vol 43. Springer Handbook of Auditory Research. New York, NY: Springer New York; 2012:129–162.
 
-
 # Peer-reviewed Publications
 
 ## 2024 
@@ -33,9 +32,12 @@ Revsine C, **Gonzalez-Castillo J**, Merriam E, Bandettini PA, Ramirez FM. “A u
 <div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.neuroimage.2023.120138" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.neuroimage.2023.120138"></div></div>{: style="float: right;margin-left: 1em"}
 Taylor PA, Reynolds RC, Calhoun V, **Gonzalez-Castillo J** et al. "Highlight Results, Don't Hide Them: Enhance interpretation, reduce biases and improve reproducibility" NeuroImage (2023) 274: 120138
 
+
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.3389/fnhum.2023.1134012" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.3389/fnhum.2023.1134012"></div></div>{: style="float: right;margin-left: 1em"}
 **Gonzalez-Castillo J**, Fernandez IS, Lam KC, Handwerker DA, Pereira F, Bandettini PA. “Manifold Learning for Time-varying Functional Connectivity” Frontiers in Human Neuroscience (2023) 17:1134012
+
+<img align="center" src="https://javiergcas.github.io/images/publications/2023_manifold_learning.png" width="800 px" style="padding: 10px">
 
 ## 2022
 
