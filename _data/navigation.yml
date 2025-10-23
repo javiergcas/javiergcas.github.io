@@ -14,6 +14,6 @@ main:
 
 docs:
   - title: Research
-  children:
-    - title: "Cognitive Neuroscience"
-    - title: "Neuroimaging Methods" 
+    children:
+      - title: "Cognitive Neuroscience"
+      - title: "Neuroimaging Methods" 
