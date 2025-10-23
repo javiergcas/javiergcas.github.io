@@ -9,6 +9,11 @@ redirect_from:
 ---
 
 {: .text-justify}
+I am an Engineer, turned Scientist always seeking for exciting opportunities to turn new technologies and big data into discoveries that create positive change in society. My career bridges AI, computational modeling, and life sciences. From developing semantic web technologies at HP Labs to applying machine learning and deep learning to complex biological systems during my Ph.D. at Purdue University and subsequent tenure at NIH, I have consistently sought to integrate data-driven innovation with real-world biomedical challenges. 
+
+Here is a bit of my history...
+
+{: .text-justify}
 I was born in [Madrid](https://en.wikipedia.org/wiki/Madrid), [Spain](https://en.wikipedia.org/wiki/Spain). It was in Madrid too that I pursued a B.S./M.S. in Electrical and Computer Engineering at the [Universidad Politecnica](https://www.upm.es). Following graduation, I joined [Hewlett-Packard Labs](https://hpl.hp.com) in [Bristol](https://en.wikipedia.org/wiki/Bristol), UK as a research assistant developing electronic-commerce automation technologies. After a year in Bristol, I moved back to Madrid to join the Hewlett-Packard Consulting department.
 
 <img align="center" src="https://javiergcas.github.io/files/about_me/about_me_cities_small.png" style="padding: 10px">
