@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Research Topics"
+permalink: /research/topics
 excerpt: "Current research projects by Javier Gonzalez-Castillo"
 author_profile: true
 ---
