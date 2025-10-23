@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: layout
 title: "Research"
 permalink: /research/
 excerpt: "Current cognitive neuroscience research projects by Javier Gonzalez-Castillo"
