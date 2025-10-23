@@ -12,8 +12,10 @@ main:
   - title: "CV"
     url: /files/cv/JGC_CV.pdf
 
-docs:
+sidebar_research:
   - title: Research
     children:
       - title: "Cognitive Neuroscience"
+        url: /research/cognitive_neuroscience
       - title: "Neuroimaging Methods" 
+        url: /research/neuroimaging

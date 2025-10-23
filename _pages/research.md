@@ -1,9 +1,11 @@
 ---
-layout: archive
+layout: default
 title: "Research"
 permalink: /research/
 excerpt: "Current cognitive neuroscience research projects by Javier Gonzalez-Castillo"
 author_profile: true
+sidebar:
+    nav: "sidebar_research"
 ---
 
 ### What are the neuronal drivers of time-varying functional connectivity?
