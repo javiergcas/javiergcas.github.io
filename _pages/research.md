@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Research Topics"
-permalink: /research/topics
-excerpt: "Current research projects by Javier Gonzalez-Castillo"
+title: "Research"
+permalink: /research/
+excerpt: "Current cognitive neuroscience research projects by Javier Gonzalez-Castillo"
 author_profile: true
 ---
 
