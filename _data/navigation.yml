@@ -11,6 +11,11 @@ main:
 
   - title: "CV"
     url: /files/cv/JGC_CV.pdf
+    target: _blank
+    
+  - title: "Resume"
+    url: /files/cv/JGC_Resume.pdf
+    target: _blank
 
 sidebar_research:
   - title: Research
