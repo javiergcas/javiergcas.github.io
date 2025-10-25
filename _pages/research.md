@@ -3,7 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 excerpt: "Current cognitive neuroscience research projects by Javier Gonzalez-Castillo"
-author_profile: true
+author_profile: false
 toc: false
 sidebar:
     nav: "sidebar_research"
