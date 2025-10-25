@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {: .text-justify}
-I am an engineer turned scientist, driven by a passion for exploring how emerging technologies and big data can lead to discoveries and meaningful societal impact</b>. My career bridges <b>AI, computational modeling, and the life sciences</b>. From developing semantic web technologies at HP Labs to applying machine learning and deep learning to complex biological systems during my Ph.D. at Purdue University and later at the NIH, I have consistently pursued data-driven innovation to address real-world challenges.
+I am an engineer turned scientist, driven by a passion for exploring how emerging technologies and big data can lead to discoveries and meaningful societal impact. My career bridges <b>AI, computational modeling, and the life sciences</b>. From developing semantic web technologies at HP Labs to applying machine learning and deep learning to complex biological systems during my Ph.D. at Purdue University and later at the NIH, I have consistently pursued data-driven innovation to address real-world challenges.
 
 <b>Here is a chronological perspective of my professional career so far...</b>
 
