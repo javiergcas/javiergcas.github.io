@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 {: .text-justify}
-I am an engineer turned scientist, driven by a <b>passion for transforming emerging technologies and big data into discoveries that create meaningful societal impact</b>. My career bridges <b>AI, computational modeling, and the life sciences</b>. From developing semantic web technologies at HP Labs to applying machine learning and deep learning to complex biological systems during my Ph.D. at Purdue University and later at the NIH, I have consistently pursued data-driven innovation to address real-world biomedical challenges.
+I am an engineer turned scientist, driven by a passion for exploring how emerging technologies and big data can lead to discoveries and meaningful societal impact</b>. My career bridges <b>AI, computational modeling, and the life sciences</b>. From developing semantic web technologies at HP Labs to applying machine learning and deep learning to complex biological systems during my Ph.D. at Purdue University and later at the NIH, I have consistently pursued data-driven innovation to address real-world challenges.
 
-
-<b>Here is a historic perspective of my professional career so far...</b>
+<b>Here is a chronological perspective of my professional career so far...</b>
 
 {: .text-justify}
 I was born in [Madrid](https://en.wikipedia.org/wiki/Madrid), [Spain](https://en.wikipedia.org/wiki/Spain). It was in Madrid too that I pursued a B.S./M.S. in Electrical and Computer Engineering at the [Universidad Politecnica](https://www.upm.es). Following graduation, I joined [Hewlett-Packard Labs](https://hpl.hp.com) in [Bristol](https://en.wikipedia.org/wiki/Bristol), UK as a research assistant developing electronic-commerce automation technologies. While in Bristol I published two Technical Reports with HP that you can find [here](https://files.ifi.uzh.ch/ddis/iswc_archive/iswc/pps/web/swws-zip/program/full/paper52a.pdf) and [here](https://shiftleft.com/mirrors/www.hpl.hp.com/techreports/2001/HPL-2001-265.pdf). After a year in Bristol, I moved back to Madrid to join the Hewlett-Packard Consulting department, where I worked first as a technical consultant and later as a project manager.
