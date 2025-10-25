@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 excerpt: "Current cognitive neuroscience research projects by Javier Gonzalez-Castillo"
 author_profile: true
-toc: true
+toc: false
 sidebar:
     nav: "sidebar_research"
 ---
