@@ -18,10 +18,10 @@ Over the past 20 years, I’ve contributed to more than 60 research projects spa
 {: .text-justify}
 There are many ways to organize such a broad research portfolio, but for the purpose of this website, I’ve divided the “Research” section into four main areas:
 
-| Left Aligned | Right Aligned |
+| |  |
 |:-------------|--------------:|
 | Experimental Methods |  Analytical Methods |
-| Cognitive Neuroscience | Clinical          |
+| [Cognitive Neuroscience](https://javiergcas.github.io/research/cogneuro) | Clinical          |
 
 Click on any of the sections above—or use the menu to your left—to explore the questions I’ve sought to answer in each area and how I (with the invaluable help of many colleagues) went about it. I hope you find it engaging, and maybe even learn something new along the way.
 
