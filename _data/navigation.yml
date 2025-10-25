@@ -12,7 +12,7 @@ main:
   - title: "CV"
     url: /files/cv/JGC_CV.pdf
     target: _blank
-    
+
   - title: "Resume"
     url: /files/cv/JGC_Resume.pdf
     target: _blank
@@ -20,7 +20,11 @@ main:
 sidebar_research:
   - title: Research
     children:
+      - title: "Experimental Methods"
+        url: /research/experimental_methods
+      - title: "Analytical Methods" 
+        url: /research/analytical_methods
       - title: "Cognitive Neuroscience"
-        url: /research/cognitive_neuroscience
-      - title: "Neuroimaging Methods" 
-        url: /research/neuroimaging
+        url: /research/cogneuro
+      - title: "Clinical" 
+        url: /research/clinical
