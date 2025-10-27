@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research | Experimental Desing and Acquisition Optimization Research"
+title: "Experimental Desing and Acquisition Optimization"
 permalink: /research/experimental
 excerpt: "Neuroimaging Acquisition Methods Research Portfolio"
 author_profile: true

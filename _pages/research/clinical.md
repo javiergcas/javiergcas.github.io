@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research | Clinical Research"
+title: "Clinical Research"
 permalink: /research/clinical
 excerpt: "Clinical Research Portfolio"
 author_profile: true

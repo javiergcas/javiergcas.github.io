@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research | Cognitve Neuroscience"
+title: "Cognitve Neuroscience"
 permalink: /research/cogneuro
 excerpt: "Cognitive Neuroscience Research Portfolio"
 author_profile: true

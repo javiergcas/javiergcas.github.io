@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research | NeuroImaging Methods Development"
+title: "NeuroImaging Methods Development"
 permalink: /research/analytical
 excerpt: "Neuroimaging Analysis Methods Research Portfolio"
 author_profile: true
