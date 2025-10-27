@@ -1,0 +1,145 @@
+<div class="research-summaries-wrapper">
+  <style>
+    .research-summaries-wrapper {
+      --navy: #001f3f;
+      --black: #000;
+      --radius: 12px;
+      --card-padding: 22px;
+      --gap: 28px;
+      --shadow: 0 6px 14px rgba(0,0,0,0.04);
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      max-width: 980px;
+      margin: 0 auto;
+    }
+
+    .research-box {
+      background: #fff;
+      border: 1px solid rgba(0,0,0,0.08);
+      border-radius: var(--radius);
+      padding: var(--card-padding);
+      box-shadow: var(--shadow);
+      margin-bottom: var(--gap);
+      transition: box-shadow 0.2s ease, transform 0.2s ease;
+    }
+
+    .research-box:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 14px 24px rgba(0,0,0,0.08);
+    }
+
+    .research-header {
+      font-weight: 600;
+      font-size: 1.2rem;
+      color: var(--navy);
+      text-decoration: none;
+      display: inline-block;
+      margin-bottom: 14px;
+    }
+
+    .research-content {
+      display: flex;
+      align-items: flex-start;
+      gap: 18px;
+      flex-wrap: wrap;
+    }
+
+    .research-content img {
+      flex-shrink: 0;
+      width: 230px;
+      height: auto;
+      border-radius: 8px;
+      object-fit: cover;
+    }
+
+    .research-text {
+      flex: 1 1 320px;
+      color: var(--black);
+      font-size: 0.96rem;
+      line-height: 1.5;
+    }
+
+    /* alternate layout for every even box */
+    .research-box:nth-of-type(even) .research-content {
+      flex-direction: row-reverse;
+    }
+
+    .research-box:nth-of-type(even) .research-text {
+      text-align: right;
+    }
+
+    /* responsive stack */
+    @media (max-width: 720px) {
+      .research-content { flex-direction: column !important; }
+      .research-text { text-align: left !important; }
+      .research-content img { width: 100%; max-width: 100%; }
+    }
+  </style>
+
+  <!-- Box 1 -->
+  <div class="research-box">
+    <a href="/research/experimental/" class="research-header">Experimental Design & Acquisition</a>
+    <div class="research-content">
+      <a href="/research/experimental/">
+        <img src="/assets/images/mri_icon.png" alt="MRI scanner">
+      </a>
+      <div class="research-text">
+        <p>
+          Exploring how to design and optimize neuroimaging experiments to capture reliable,
+          high-fidelity signals. From pulse sequence tuning to adaptive acquisition strategies,
+          our work aims to improve data quality at the source.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Box 2 -->
+  <div class="research-box">
+    <a href="/research/analytical/" class="research-header">Analytical Methods</a>
+    <div class="research-content">
+      <a href="/research/analytical/">
+        <img src="/assets/images/neural_network_icon.png" alt="Neural network diagram">
+      </a>
+      <div class="research-text">
+        <p>
+          Developing new machine learning and statistical frameworks for analyzing complex
+          brain data. This includes deep learning, graph modeling, and multivariate pattern
+          analysis to uncover hidden relationships in brain activity.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Box 3 -->
+  <div class="research-box">
+    <a href="/research/cognitive/" class="research-header">Cognitive Neuroscience</a>
+    <div class="research-content">
+      <a href="/research/cognitive/">
+        <img src="/assets/images/brain_icon.png" alt="Brain illustration">
+      </a>
+      <div class="research-text">
+        <p>
+          Investigating how spontaneous brain activity relates to perception, memory, and
+          conscious experience. We combine fMRI, behavioral tasks, and computational models
+          to probe cognition at rest and during task performance.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Box 4 -->
+  <div class="research-box">
+    <a href="/research/clinical/" class="research-header">Clinical Applications</a>
+    <div class="research-content">
+      <a href="/research/clinical/">
+        <img src="/assets/images/medical_cross_icon.png" alt="Medical cross">
+      </a>
+      <div class="research-text">
+        <p>
+          Translating methods and findings to clinical contexts, including studies of
+          depression, anxiety, and traumatic brain injury. We aim to connect neural
+          biomarkers with patient outcomes and treatment response.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

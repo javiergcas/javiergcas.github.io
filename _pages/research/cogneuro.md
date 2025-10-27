@@ -10,6 +10,8 @@ sidebar:
 ---
 
 
+
+The primary goal of projects listed on this page is to advance our understanding of how the human brain works. Even thought some of them might be heavy on the methods, the goal was not to develop new methods, but to take advantage of such methods to ask more precise questions about the functional organization of the brain. 
 ### What are the neuronal drivers of time-varying functional connectivity?
 
 <img align="right" src="https://javiergcas.github.io/files/research/tvfc/research_tvfc_img01.png" width="317 px" style="padding: 10px">

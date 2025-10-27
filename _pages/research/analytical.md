@@ -10,4 +10,6 @@ sidebar:
 ---
 
 
-### Analytical Methods
+Here you can find projects related to the development of new ways to acquire fMRI data or new experimental designs
+
+{% include research_acquisition.html %}
