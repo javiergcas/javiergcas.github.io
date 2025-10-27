@@ -21,9 +21,9 @@ sidebar_research:
   - title: Research
     children:
       - title: "Experimental Methods"
-        url: /research/experimental_methods
+        url: /research/experimental
       - title: "Analytical Methods" 
-        url: /research/analytical_methods
+        url: /research/analytical
       - title: "Cognitive Neuroscience"
         url: /research/cogneuro
       - title: "Clinical" 
