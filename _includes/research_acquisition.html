@@ -36,42 +36,45 @@
       margin-bottom: 14px;
     }
 
+    /* --- FIXED CONTENT LAYOUT --- */
     .research-content {
-    display: grid;
-    grid-template-columns: 230px 1fr;   /* image width + flexible text */
-    grid-template-rows: auto;
-    gap: 18px;
-    align-items: start;                  /* text aligns with top of image */
+      display: block;         /* remove grid layout */
+      overflow: auto;         /* clear float */
     }
 
     .research-content img {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-    object-fit: cover;
-    display: block;
-    }
-
-    /* alternate layout for even boxes */
-    .research-box:nth-of-type(even) .research-content {
-    grid-template-columns: 1fr 230px;    /* flip image/text order */
+      float: left;            /* image on left by default */
+      width: 230px;
+      height: auto;
+      margin-right: 18px;
+      margin-bottom: 8px;
+      border-radius: 8px;
+      object-fit: cover;
+      display: block;
     }
 
     .research-box:nth-of-type(even) .research-content img {
-    order: 2;                            /* image on right */
+      float: right;           /* flip image for even boxes */
+      margin-right: 0;
+      margin-left: 18px;
     }
 
-    /* Responsive stack for small screens */
+    /* --- RESPONSIVE STACK FOR SMALL SCREENS --- */
     @media (max-width: 720px) {
-    .research-content {
-        grid-template-columns: 1fr;        /* single column */
-    }
+      .research-content img {
+        float: none;
+        display: block;
+        margin: 0 auto 12px auto;
+        width: 100%;
+      }
     }
   </style>
 
   <!-- Box 1 -->
   <div class="research-box">
-    <a class="research-header">Reliability of fMRI recordings</a>
+    <a class="research-header" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3008333/pdf/nihms-244051.pdf">
+      Reliability of fMRI recordings
+    </a>
     <div class="research-content">
       <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3008333/pdf/nihms-244051.pdf">
         <img src="/assets/pub_images/repro_2017.png" alt="MRI scanner">
@@ -80,58 +83,21 @@
         <p>When I joined the Talavage lab at Purdue, I was provided with a challenging dataset. After nearly two years of attempting to make sense of it, I realized that was not possible: the data was unreliable. This insight motivated me to explore the reliability of fMRI in greater depth, culminating in this publication, where we report the test–retest reliability of an auditory sentence comprehension task. We focused on this particular cognitive domain because one of the lab’s main research lines examined the neural correlates of speech comprehension in cochlear implant users. Through this project, I was introduced to the field of <a href="https://www.frontiersin.org/research-topics/33922/demonstrating-quality-control-qc-procedures-in-fmri/magazine">quality assurance</a>, learned multiple approaches to assessing test–retest reliability (e.g., <a href="https://en.wikipedia.org/wiki/Dice-S%C3%B8rensen_coefficient">dice coefficient</a>, <a href="https://en.wikipedia.org/wiki/Intraclass_correlation">intra-class correlation coefficient</a>, etc.), and gained firsthand experience with the challenges of interpreting fMRI data—specifically, how meaningful individual differences in activation patterns can persist despite high group-level reproducibility. Ultimately, our findings demonstrated that the task performed well at the group level, suggesting it could serve as a reliable protocol for future population-level studies.</p>
       </div>
     </div>
-
-
   </div>
 
-  <!-- Box 2 -->
+  <!-- Box 2 (example structure) -->
   <div class="research-box">
-    <a href="/research/analytical/" class="research-header">Analytical Methods</a>
+    <a class="research-header" href="https://example.com/research2">
+      Advanced Neuroimaging Analysis
+    </a>
     <div class="research-content">
-      <a href="/research/analytical/">
-        <img src="/assets/images/neural_network_icon.png" alt="Neural network diagram">
+      <a href="https://example.com/research2">
+        <img src="/assets/pub_images/analysis_example.png" alt="Brain analysis visualization">
       </a>
       <div class="research-text">
-        <p>
-          Developing new machine learning and statistical frameworks for analyzing complex
-          brain data. This includes deep learning, graph modeling, and multivariate pattern
-          analysis to uncover hidden relationships in brain activity.
-        </p>
+        <p>This line of work explores innovative ways to extract meaningful structure from high-dimensional fMRI data. Using tools from graph theory, statistical learning, and information theory, we have been able to uncover hidden patterns of connectivity that inform our understanding of cognitive and affective brain function. These efforts also include developing and validating open-source software tools for robust and reproducible neuroimaging data analysis.</p>
       </div>
     </div>
   </div>
 
-  <!-- Box 3 -->
-  <div class="research-box">
-    <a href="/research/cognitive/" class="research-header">Cognitive Neuroscience</a>
-    <div class="research-content">
-      <a href="/research/cognitive/">
-        <img src="/assets/images/brain_icon.png" alt="Brain illustration">
-      </a>
-      <div class="research-text">
-        <p>
-          Investigating how spontaneous brain activity relates to perception, memory, and
-          conscious experience. We combine fMRI, behavioral tasks, and computational models
-          to probe cognition at rest and during task performance.
-        </p>
-      </div>
-    </div>
-  </div>
-
-  <!-- Box 4 -->
-  <div class="research-box">
-    <a href="/research/clinical/" class="research-header">Clinical Applications</a>
-    <div class="research-content">
-      <a href="/research/clinical/">
-        <img src="/assets/images/medical_cross_icon.png" alt="Medical cross">
-      </a>
-      <div class="research-text">
-        <p>
-          Translating methods and findings to clinical contexts, including studies of
-          depression, anxiety, and traumatic brain injury. We aim to connect neural
-          biomarkers with patient outcomes and treatment response.
-        </p>
-      </div>
-    </div>
-  </div>
 </div>
