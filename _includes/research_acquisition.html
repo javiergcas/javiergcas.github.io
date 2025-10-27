@@ -37,41 +37,35 @@
     }
 
     .research-content {
-      display: flex;
-      align-items: flex-start;
-      gap: 18px;
-      flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: 230px 1fr;   /* image width + flexible text */
+    grid-template-rows: auto;
+    gap: 18px;
+    align-items: start;                  /* text aligns with top of image */
     }
 
     .research-content img {
-      flex-shrink: 0;
-      width: 230px;
-      height: auto;
-      border-radius: 8px;
-      object-fit: cover;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+    display: block;
     }
 
-    .research-text {
-      flex: 1 1 320px;
-      color: var(--black);
-      font-size: 0.8rem;
-      line-height: 1.0;
-    }
-
-    /* alternate layout for every even box */
+    /* alternate layout for even boxes */
     .research-box:nth-of-type(even) .research-content {
-      flex-direction: row-reverse;
+    grid-template-columns: 1fr 230px;    /* flip image/text order */
     }
 
-    .research-box:nth-of-type(even) .research-text {
-      text-align: right;
+    .research-box:nth-of-type(even) .research-content img {
+    order: 2;                            /* image on right */
     }
 
-    /* responsive stack */
+    /* Responsive stack for small screens */
     @media (max-width: 720px) {
-      .research-content { flex-direction: column !important; }
-      .research-text { text-align: left !important; }
-      .research-content img { width: 100%; max-width: 100%; }
+    .research-content {
+        grid-template-columns: 1fr;        /* single column */
+    }
     }
   </style>
 
@@ -83,11 +77,7 @@
         <img src="/assets/pub_images/repro_2017.png" alt="MRI scanner">
       </a>
       <div class="research-text">
-        <p>
-
-        When I joined the Talavage lab at Purdue, I was provided with a challenging dataset. After nearly two years of attempting to make sense of it, I realized that was not possible: the data was unreliable. This insight motivated me to explore the reliability of fMRI in greater depth, culminating in this publication, where we report the test–retest reliability of an auditory sentence comprehension task. We focused on this particular cognitive domain because one of the lab’s main research lines examined the neural correlates of speech comprehension in cochlear implant users. Through this project, I was introduced to the field of <a href="https://www.frontiersin.org/research-topics/33922/demonstrating-quality-control-qc-procedures-in-fmri/magazine">quality assurance</a>, learned multiple approaches to assessing test–retest reliability (e.g., <a href="https://en.wikipedia.org/wiki/Dice-S%C3%B8rensen_coefficient">dice coefficient</a>, <a href="https://en.wikipedia.org/wiki/Intraclass_correlation">intra-class correlation coefficient</a>, etc.), and gained firsthand experience with the challenges of interpreting fMRI data—specifically, how meaningful individual differences in activation patterns can persist despite high group-level reproducibility. Ultimately, our findings demonstrated that the task performed well at the group level, suggesting it could serve as a reliable protocol for future population-level studies.
-
-        </p>
+        <p>When I joined the Talavage lab at Purdue, I was provided with a challenging dataset. After nearly two years of attempting to make sense of it, I realized that was not possible: the data was unreliable. This insight motivated me to explore the reliability of fMRI in greater depth, culminating in this publication, where we report the test–retest reliability of an auditory sentence comprehension task. We focused on this particular cognitive domain because one of the lab’s main research lines examined the neural correlates of speech comprehension in cochlear implant users. Through this project, I was introduced to the field of <a href="https://www.frontiersin.org/research-topics/33922/demonstrating-quality-control-qc-procedures-in-fmri/magazine">quality assurance</a>, learned multiple approaches to assessing test–retest reliability (e.g., <a href="https://en.wikipedia.org/wiki/Dice-S%C3%B8rensen_coefficient">dice coefficient</a>, <a href="https://en.wikipedia.org/wiki/Intraclass_correlation">intra-class correlation coefficient</a>, etc.), and gained firsthand experience with the challenges of interpreting fMRI data—specifically, how meaningful individual differences in activation patterns can persist despite high group-level reproducibility. Ultimately, our findings demonstrated that the task performed well at the group level, suggesting it could serve as a reliable protocol for future population-level studies.</p>
       </div>
     </div>
 
