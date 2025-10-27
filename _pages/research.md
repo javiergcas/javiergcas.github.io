@@ -18,6 +18,9 @@ Over the past 20 years, I’ve contributed to more than 60 research projects spa
 {: .text-justify}
 There are many ways to organize such a broad research portfolio, but for the purpose of this website, I’ve divided the “Research” section into four main areas:
 
+<iframe src="https://javiergcas.github.io/assets/research-infographic.html"
+        style="width:100%;aspect-ratio:1/1;border:none;"></iframe>
+
 {% include research_infographic.html %}
 
 Click on any of the sections above—or use the menu to your left—to explore the questions I’ve sought to answer in each area and how I (with the invaluable help of many colleagues) went about it. I hope you find it engaging, and maybe even learn something new along the way.
