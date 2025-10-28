@@ -51,7 +51,7 @@ Our results showed that reliability improves with scan length, with at least 10 
 
 ### Multi-Echo fMRI {#multi_echo}
 
-### Optimization of Acquisition Parameters for fMRI
+### Optimization of Acquisition Parameters for fMRI {#optimization}
 
-### Realtime fMRI 
+### Realtime fMRI {#realtime}
 
