@@ -14,7 +14,7 @@ As an engineer entering the world of neuroscience, I initially struggled with th
 
 {% include research_acquisition.html %}
 
-</br>
+***
 
 ### Exploring the Quality of fMRI Data {#data_quality}
 
@@ -50,6 +50,8 @@ Our results showed that reliability improves with scan length, with at least 10 
 * Handwerker DA et al. "[The continuing challenge of understanding and modeling heodynamic variation in fMRI](https://www.sciencedirect.com/science/article/abs/pii/S1053811912001929)" NeuroImage (2012)
 * Soltysik DA et al. "[Head-repositioning does not reduce the reproducibility of fMRI activation in a block-design motor task](https://www.sciencedirect.com/science/article/pii/S1053811911002849)" NeuroImage (2011)
 
+---
+
 ### Multi-Echo fMRI {#multi_echo}
 
 {: .text-justify}
@@ -75,6 +77,8 @@ If you’d like to learn more about ME-fMRI in general, I recommend this lecture
 * Caballero-Gaudes C, Bandettini PA, Gonzalez-Castillo J. "[A temporal deconvolution algorithm for multiecho functional MRI](https://ieeexplore.ieee.org/abstract/document/8363649)" IEEE 15th International Symposium on Biomedical Imaging (2018)
 * Uruñuela E, Gonzalez-Castillo J et al. "[Whole-brain multivariate hemodynamic deconvolution algorithm for functional MRI with stability selection](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002700)" Medical Imaging Analysis (2024)
 
+---
+
 ### Optimization of Acquisition Parameters for fMRI {#optimization}
 
 {: .text-justify}
@@ -90,7 +94,7 @@ The figure above, part of this [publication](https://www.sciencedirect.com/scien
 
 **Publications on Optimization of fMRI Acquisitions:**
 
-
+---
 
 ### Realtime fMRI {#realtime}
 
