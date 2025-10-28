@@ -77,6 +77,18 @@ If you’d like to learn more about ME-fMRI in general, I recommend this lecture
 
 ### Optimization of Acquisition Parameters for fMRI {#optimization}
 
+{: .text-justify}
+Setting up an fMRI acquisition protocol involves making a large number of decisions. Some are fairly straightforward, such as selecting the scanner field strength and pulse sequence—often constrained by what is available at a given imaging center. The same applies to parameters tied directly to experimental design, such as temporal resolution, spatial resolution, and spatial coverage. However, many other parameters—those more closely related to the physics of MRI signal acquisition, such as echo time, flip angle, or bandwidth—are often treated as less critical and left at their “default” values. News alert: that assumption is not true. These parameters, though sometimes overlooked by non-physicists, can have a substantial impact on data quality.
+
+{: .text-justify}
+One particularly important parameter is the imaging [flip angle (FA)](https://mriquestions.com/what-is-flip-angle.html), which defines the amount of rotation (or “flip”) applied to the net magnetization vector by the radiofrequency pulse preceding signal readout. It is common practice to set the flip angle to the Ernst angle for gray matter, under the assumption that this choice maximizes sensitivity in that tissue compartment—typically the main focus of fMRI studies. Although this approach has its advantages, the Ernst angle is only truly optimal when data are dominated by thermal (non-physiological) noise. In our work, we developed a new theoretical model demonstrating that, under conditions where physiological noise dominates, the optimal flip angle can in fact be substantially lower without compromising sensitivity to neural activity.
+
+<img align="left" src="https://javiergcas.github.io/files/research/fmri_quality/flip_angle_small.png" width="600 px" style="padding: 10px">
+
+{: .text-justify}
+The figure to the left [publication](https://www.sciencedirect.com/science/article/abs/pii/S1053811910014503) illustrates the main result from our empirical validation of the model. Even when reducing the flip angle to as low as 9° (compared to an Ernst angle of 77° for this scenario), the percent signal change and spatial profiles of neural activation in the visual and motor cortices remained stable. In other words, we were able to detect these regions of activity with equivalent sensitivity—despite reducing the flip angle by nearly an order of magnitude.
+
+
 
 ### Realtime fMRI {#realtime}
 
