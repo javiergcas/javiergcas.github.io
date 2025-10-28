@@ -86,9 +86,34 @@ One particularly important parameter is the imaging [flip angle (FA)](https://mr
 <img align="center" src="https://javiergcas.github.io/files/research/fmri_quality/flip_angle_small.png" width="1100 px">
 
 {: .text-justify}
-The figure to the left [publication](https://www.sciencedirect.com/science/article/abs/pii/S1053811910014503) illustrates the main result from our empirical validation of the model. Even when reducing the flip angle to as low as 9° (compared to an Ernst angle of 77° for this scenario), the percent signal change and spatial profiles of neural activation in the visual and motor cortices remained stable. In other words, we were able to detect these regions of activity with equivalent sensitivity—despite reducing the flip angle by nearly an order of magnitude.
+The figure above, part of this [publication](https://www.sciencedirect.com/science/article/abs/pii/S1053811910014503), illustrates the main result from our empirical validation of the model. Even when reducing the flip angle to as low as 9° (compared to an Ernst angle of 77° for this scenario), the percent signal change and spatial profiles of neural activation in the visual and motor cortices remained stable. In other words, we were able to detect these regions of activity with equivalent sensitivity—despite reducing the flip angle by nearly an order of magnitude.
+
+**Publications on Optimization of fMRI Acquisitions:**
 
 
 
 ### Realtime fMRI {#realtime}
 
+{: .text-justify}
+This topic is close to my heart for two reasons. First, I believe that [real-time fMRI](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.606868/full) opens the door to interactive experimental protocols that may hold the key to novel therapeutic interventions (via fMRI-based neurofeedback) and, ultimately, to a deeper understanding of how self-driven consciousness relates to systems-level brain activity and connectivity patterns. Second—and on a more personal note—real-time fMRI is what first brought me to the NIMH as a summer student. Those summers set in motion the path that has since become nearly two decades of work at the NIMH. More importantly, they gave me the privilege of working closely with the late [Dr. Jerzy Bodurka](https://www.laureateinstitute.org/in-memoriam.html), an extraordinary scientist who spent countless hours teaching me the principles of MRI physics and data acquisition.
+
+{: .text-justify}
+The work I carried out during those two summers did not result in any publications, as I devoted both opportunities to developing new functionalities for the real-time fMRI systems running on GE scanners at the NIH Functional Imaging Facility. During my first summer, I developed C code to synchronize the recording of respiratory and cardiac traces with concurrent fMRI acquisitions. In the second, I created a basic neurofeedback GUI that was later used in several pilot studies. While the first functionality remains in use to this day, the second was eventually superseded by [a newer version developed by Dr. Vinai Roopchansing](https://github.com/roopchansinghv/afni-fmrif-neurofeedback-toolbox).
+
+{: .text-justify}
+But don’t be fooled—that was not the end of my dive into real-time fMRI. Over the years, I have been fortunate to collaborate with many NIH researchers in designing, developing, and interpreting neurofeedback experiments. Of particular note is my collaboration with [Dr. Michal Ramot](https://www.weizmann.ac.il/brain-sciences/labs/ramot/home) on the [use of covert fMRI neurofeedback to alleviate social symptoms associated with autism spectrum disorder](https://elifesciences.org/articles/28974), as well as our subsequent methodological work improving upon the approaches used in that seminal study. Please see the [Clinical Research section](https://javiergcas.github.io/research/clinical) for more details.
+
+**Publications on Optimization of fMRI Acquisitions:**
+
+* Gonzalez-Castillo J et al. "[Editorial: Towards Expanded Utility of Real Time fMRI Neurofeedback in Clinical Applications](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.606868/full)" Frontiers in Human Neuroscience (2020)
+
+* Ramot M and Gonzalez-Castillo J. "[A framework for offline evaluation and optimization of real-time algorithms for use in neurofeedback, demonstrated on an instantaneous proxy for correlations](https://www.sciencedirect.com/science/article/abs/pii/S1053811918321505)" NeuroImage (2019)
+
+* Ramot M et al. "[Direct Modulation of Aberrant Brain Network Connectivity Through Real-Time Neurofeedback](https://elifesciences.org/articles/28974)" eLife (2017)
+
+{: .text-justify}
+Most recently, I have embarqued on the development of a new realtime fMRI software platform (rtCog) 
+
+
+
+ but also to understand the neural correlates of processes innacesible t
