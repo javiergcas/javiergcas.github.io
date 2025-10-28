@@ -1,103 +1,118 @@
-<div class="research-summaries-wrapper">
+<!-- _includes/research-infographic.html -->
+<div class="research-infographic-wrapper" aria-hidden="false">
   <style>
-    .research-summaries-wrapper {
+    /* EVERYTHING is scoped under .research-infographic-wrapper */
+    .research-infographic-wrapper { 
       --navy: #001f3f;
       --black: #000;
+      --gap: 20px;
       --radius: 12px;
-      --card-padding: 22px;
-      --gap: 28px;
-      --shadow: 0 6px 14px rgba(0,0,0,0.04);
+      --card-padding: 20px;
       font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-      max-width: 980px;
+      display: block;
+      box-sizing: border-box;
       margin: 0 auto;
+      max-width: 1200px;
+      width: 100%;
+      padding: 12px 0;
     }
 
-    .research-box {
+    .research-infographic {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: var(--gap);
+      align-items: stretch;
+    }
+
+    .research-infographic a {
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      height: 100%;
+    }
+
+    .research-card {
       background: #fff;
       border: 1px solid rgba(0,0,0,0.08);
       border-radius: var(--radius);
       padding: var(--card-padding);
-      box-shadow: var(--shadow);
-      margin-bottom: var(--gap);
-      transition: box-shadow 0.2s ease, transform 0.2s ease;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      transition: transform .14s ease, box-shadow .14s ease;
+      box-shadow: 0 6px 14px rgba(0,0,0,0.03);
+      aspect-ratio: 4 / 3;   /* makes cards wider than tall */
+      min-height: 140px;
     }
 
-    .research-box:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 14px 24px rgba(0,0,0,0.08);
+    .research-card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 18px 36px rgba(0,0,0,0.08);
     }
 
-    .research-header {
-      font-weight: 600;
-      font-size: 1.2rem;
-      color: var(--navy);
-      text-decoration: none;
-      display: inline-block;
-      margin-bottom: 14px;
+    .research-icon {
+      width: 100px;
+      height: 100px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 10px;
     }
 
-    /* --- FIXED CONTENT LAYOUT --- */
-    .research-content {
-      display: block;         /* remove grid layout */
-      overflow: auto;         /* clear float */
-    }
-
-    .research-content img {
-      float: left;            /* image on left by default */
-      width: 230px;
-      height: auto;
-      margin-right: 18px;
-      margin-bottom: 8px;
-      border-radius: 8px;
-      object-fit: cover;
+    .research-icon img, .research-icon svg {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
       display: block;
     }
 
-    .research-box:nth-of-type(even) .research-content img {
-      float: right;           /* flip image for even boxes */
-      margin-right: 0;
-      margin-left: 18px;
+    .research-title {
+      color: var(--navy);
+      font-weight: 600;
+      font-size: 16px;
+      margin: 0;
     }
 
-    /* --- RESPONSIVE STACK FOR SMALL SCREENS --- */
-    @media (max-width: 720px) {
-      .research-content img {
-        float: none;
-        display: block;
-        margin: 0 auto 12px auto;
-        width: 100%;
-      }
+    /* small screens: stack or wrap */
+    @media (max-width: 900px) {
+      .research-infographic { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    @media (max-width: 600px) {
+      .research-infographic { grid-template-columns: 1fr; }
+      .research-card { aspect-ratio: auto; min-height: 120px; }
     }
   </style>
 
-  <!-- Box 1 -->
-  <div class="research-box">
-    <a class="research-header" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3008333/pdf/nihms-244051.pdf">
-      Reliability of fMRI recordings
-    </a>
-    <div class="research-content">
-      <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3008333/pdf/nihms-244051.pdf">
-        <img src="/assets/pub_images/repro_2017.png" alt="MRI scanner">
-      </a>
-      <div class="research-text">
-        <p>When I joined the Talavage lab at Purdue, I was provided with a challenging dataset. After nearly two years of attempting to make sense of it, I realized that was not possible: the data was unreliable. This insight motivated me to explore the reliability of fMRI in greater depth, culminating in this publication, where we report the test–retest reliability of an auditory sentence comprehension task. We focused on this particular cognitive domain because one of the lab’s main research lines examined the neural correlates of speech comprehension in cochlear implant users. Through this project, I was introduced to the field of <a href="https://www.frontiersin.org/research-topics/33922/demonstrating-quality-control-qc-procedures-in-fmri/magazine">quality assurance</a>, learned multiple approaches to assessing test–retest reliability (e.g., <a href="https://en.wikipedia.org/wiki/Dice-S%C3%B8rensen_coefficient">dice coefficient</a>, <a href="https://en.wikipedia.org/wiki/Intraclass_correlation">intra-class correlation coefficient</a>, etc.), and gained firsthand experience with the challenges of interpreting fMRI data—specifically, how meaningful individual differences in activation patterns can persist despite high group-level reproducibility. Ultimately, our findings demonstrated that the task performed well at the group level, suggesting it could serve as a reliable protocol for future population-level studies.</p>
+  <div class="research-infographic" role="group" aria-label="Research infographic">
+    <a href="/research/experimental#Exploring-the-Quality-of-fMRI-Data" class="research-card" title="fMRI Data Quality">
+      <div class="research-icon">
+        <img src="/assets/icons/realibility_icon.png" alt="realibility icon">
       </div>
-    </div>
-  </div>
-
-  <!-- Box 2 (example structure) -->
-  <div class="research-box">
-    <a class="research-header" href="https://example.com/research2">
-      Advanced Neuroimaging Analysis
+      <p class="research-title">fMRI Data Quality</p>
     </a>
-    <div class="research-content">
-      <a href="https://example.com/research2">
-        <img src="/assets/pub_images/analysis_example.png" alt="Brain analysis visualization">
-      </a>
-      <div class="research-text">
-        <p>This line of work explores innovative ways to extract meaningful structure from high-dimensional fMRI data. Using tools from graph theory, statistical learning, and information theory, we have been able to uncover hidden patterns of connectivity that inform our understanding of cognitive and affective brain function. These efforts also include developing and validating open-source software tools for robust and reproducible neuroimaging data analysis.</p>
-      </div>
-    </div>
-  </div>
 
+    <a href="/research/analytical" class="research-card" title="Analytical Methods">
+      <div class="research-icon">
+        <img src="/assets/icons/analytics.png" alt="Analytics icon">
+      </div>
+      <p class="research-title">Analytical Methods</p>
+    </a>
+
+    <a href="/research/cogneuro" class="research-card" title="Cognitive Neuroscience">
+      <div class="research-icon">
+        <img src="/assets/icons/cogneuro_icon.png" alt="Cognitive Neuroscience icon">
+      </div>
+      <p class="research-title">Cognitive Neuroscience</p>
+    </a>
+
+    <a href="/research/clinical" class="research-card" title="Clinical Research">
+      <div class="research-icon">
+        <img src="/assets/icons/clinical_icon.png" alt="Clinical Research icon">
+      </div>
+      <p class="research-title">Clinical</p>
+    </a>
+  </div>
 </div>
