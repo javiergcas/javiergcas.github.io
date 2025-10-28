@@ -16,7 +16,7 @@ As an engineer entering the world of neuroscience, I initially struggled with th
 
 
 
-### Exploring the Quality of fMRI Data
+### Exploring the Quality of fMRI Data {#data_quality}
 
 {: .text-justify}
 Of course, perfect test–retest reliability is neither expected nor necessarily desirable when studying a dynamic system like the human brain, which naturally changes from one measurement to the next. The real challenge lies in distinguishing genuine physiological variability from non-physiological noise and other confounding sources. Over the years, I have investigated the reliability of both task-based and resting-state data across multiple projects—two of which are highlighted here.
@@ -44,16 +44,12 @@ Our results showed that reliability improves with scan length, with at least 10 
 
 **References on this topic:**
 * Gonzalez-Castillo J and Talavage TM “[Reproducibility of fMRI activations associated with auditory sentence comprehension](https://pmc.ncbi.nlm.nih.gov/articles/PMC3008333/pdf/nihms-244051.pdf)”. NeuroImage (2011)
-
 * Gonzalez-Castillo J et al. “[The spatial structure of resting state connectivity stability on the scale of minutes](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2014.00138/full)”. Frontiers in Neuroscience (2014)
-
 * Gonzalez-Castillo J et al. "[Variace decomposition for single-subject task-based fMRI activity estimates across many sessions](https://www.sciencedirect.com/science/article/pii/S105381191630578X)" NeuroImage (2017)
 * Handwerker DA et al. "[The continuing challenge of understanding and modeling heodynamic variation in fMRI](https://www.sciencedirect.com/science/article/abs/pii/S1053811912001929)" NeuroImage (2012)
-
 * Soltysik DA et al. "[Head-repositioning does not reduce the reproducibility of fMRI activation in a block-design motor task](https://www.sciencedirect.com/science/article/pii/S1053811911002849)" NeuroImage (2011)
 
-### Multi-Echo fMRI
-
+### Multi-Echo fMRI {#multi_echo}
 
 ### Optimization of Acquisition Parameters for fMRI
 
