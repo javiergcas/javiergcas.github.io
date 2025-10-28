@@ -30,8 +30,9 @@ When I joined the Talavage lab at [Purdue](http://www.puedue.edu), I was provide
 My first exploration of fMRI reproducibility is summarized in one of my PhD thesis publications. In that [study](https://www.sciencedirect.com/science/article/abs/pii/S105381191001284X), I evaluated the test–retest reliability of an auditory sentence comprehension task. This topic was of particular interest to my host lab, which investigated, among other things, the neural correlates of speech comprehension in cochlear implant users. Through this project, I was introduced to the field of [quality assurance](https://www.frontiersin.org/research-topics/33922/demonstrating-quality-control-qc-procedures-in-fmri/magazine), learned multiple methods for assessing test–retest reliability (e.g., [Dice coefficient](https://en.wikipedia.org/wiki/Dice-S%C3%B8rensen_coefficien), [intra-class correlation coefficient](https://en.wikipedia.org/wiki/Intraclass_correlation)), and gained deeper insight into one of fMRI’s main interpretational challenges: correctly identifying sources of individual differences that persist despite high group-level reproducibility. Our findings showed that the proposed task performed well at the group level, suggesting it could serve as a reliable protocol for future population-level studies.
 
 <img align="left" src="https://javiergcas.github.io/files/research/tvfc/research_tvfc_img01.png" width="400 px" style="padding: 10px">
+
 {: .text-justify}
-Another deep dive into reproducibility came from a study examining how patterns of [resting-state functional connectivity (rs-fMRI FC)]((https://en.wikipedia.org/wiki/Intraclass_correlation) evolve during a one-hour scan. Unlike task-based fMRI, rs-fMRI scans require little from participants—simply to stay still, remain awake, and let their minds wander. This simplicity makes the approach ideal for clinical populations and easier to acquire than task-based data.
+Another deep dive into reproducibility came from a study examining how patterns of [resting-state functional connectivity (rs-fMRI FC)](https://en.wikipedia.org/wiki/Intraclass_correlation) evolve during a one-hour scan. Unlike task-based fMRI, rs-fMRI scans require little from participants—simply to stay still, remain awake, and let their minds wander. This simplicity makes the approach ideal for clinical populations and easier to acquire than task-based data.
 
 {: .text-justify}
 By the time I entered this area, it was well established that rs-fMRI FC, averaged over several minutes, is reliable across sessions and carries meaningful phenotypic information (e.g., traits, symptoms). Yet, emerging evidence suggested these connectivity patterns fluctuate substantially within a single scan—raising a fundamental question: is this variability meaningful or merely noise?
@@ -75,6 +76,7 @@ If you’d like to learn more about ME-fMRI in general, I recommend this lecture
 * Uruñuela E, Gonzalez-Castillo J et al. "[Whole-brain multivariate hemodynamic deconvolution algorithm for functional MRI with stability selection](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002700)" Medical Imaging Analysis (2024)
 
 ### Optimization of Acquisition Parameters for fMRI {#optimization}
+
 
 ### Realtime fMRI {#realtime}
 
