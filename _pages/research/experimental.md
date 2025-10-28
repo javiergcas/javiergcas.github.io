@@ -14,7 +14,7 @@ As an engineer entering the world of neuroscience, I initially struggled with th
 
 {% include research_acquisition.html %}
 
-
+</br>
 
 ### Exploring the Quality of fMRI Data {#data_quality}
 
