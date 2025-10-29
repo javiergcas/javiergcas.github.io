@@ -50,13 +50,13 @@ If you’d like to learn more about ME-fMRI in general, I recommend this lecture
 * Caballero-Gaudes C, Bandettini PA, Gonzalez-Castillo J. "[A temporal deconvolution algorithm for multiecho functional MRI](https://ieeexplore.ieee.org/abstract/document/8363649)" IEEE 15th International Symposium on Biomedical Imaging (2018)
 * Uruñuela E, Gonzalez-Castillo J et al. "[Whole-brain multivariate hemodynamic deconvolution algorithm for functional MRI with stability selection](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002700)" Medical Imaging Analysis (2024)
 
-### Time-varying Functional Connectivity
+### Time-varying Functional Connectivity {#tvFC}
 
 * Comparing methods
 
 * 
 
-### Dimensionality Reduction
+### Dimensionality Reduction {#dimensionality_reduction}
 
 * Manifold Learning
 
