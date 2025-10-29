@@ -31,7 +31,7 @@ My first exploration of fMRI reproducibility is summarized in one of my PhD thes
 
 <img align="left" src="https://javiergcas.github.io/files/research/tvfc/research_tvfc_img01.png" width="400 px" style="padding: 10px">
 
-{: .text-justify}
+{: .text-justify} {#tvfc_reliability}
 Another deep dive into reproducibility came from a study examining how patterns of [resting-state functional connectivity (rs-fMRI FC)](https://en.wikipedia.org/wiki/Intraclass_correlation) evolve during a one-hour scan. Unlike task-based fMRI, rs-fMRI scans require little from participants—simply to stay still, remain awake, and let their minds wander. This simplicity makes the approach ideal for clinical populations and easier to acquire than task-based data.
 
 {: .text-justify}
