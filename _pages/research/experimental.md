@@ -136,10 +136,3 @@ For example, certain brain regions such as the visual cortex often activate spon
 * Ramot M and Gonzalez-Castillo J. "[A framework for offline evaluation and optimization of real-time algorithms for use in neurofeedback, demonstrated on an instantaneous proxy for correlations](https://www.sciencedirect.com/science/article/abs/pii/S1053811918321505)" NeuroImage (2019)
 
 * Ramot M et al. "[Direct Modulation of Aberrant Brain Network Connectivity Through Real-Time Neurofeedback](https://elifesciences.org/articles/28974)" eLife (2017)
-
-{: .text-justify}
-Most recently, I have embarqued on the development of a new realtime fMRI software platform (rtCog) 
-
-
-
- but also to understand the neural correlates of processes innacesible t
