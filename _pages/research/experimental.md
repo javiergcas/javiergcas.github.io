@@ -123,6 +123,12 @@ The work I carried out during those two summers did not result in any publicatio
 {: .text-justify}
 But don’t be fooled—that was not the end of my dive into real-time fMRI. Over the years, I have been fortunate to collaborate with many NIH researchers in designing, developing, and interpreting neurofeedback experiments. Of particular note is my collaboration with [Dr. Michal Ramot](https://www.weizmann.ac.il/brain-sciences/labs/ramot/home) on the [use of covert fMRI neurofeedback to alleviate social symptoms associated with autism spectrum disorder](https://elifesciences.org/articles/28974), as well as our subsequent methodological work improving upon the approaches used in that seminal study. Please see the [Clinical Research section](https://javiergcas.github.io/research/clinical) for more details.
 
+{: .text-justify}
+Today, I am working on the development of a new real-time fMRI software suite, [(rtcog)](https://github.com/nimh-sfim/rtcog), designed to monitor patterns of neural activity as scanning unfolds—and to trigger experimental interventions whenever a target pattern emerges. This framework has broad applications for the scientific study of spontaneous neural processes, a key focus of my current research.
+
+{: .text-justify}
+For example, certain brain regions such as the visual cortex often activate spontaneously during resting-state scans, even in the absence of visual stimulation (e.g., while subjects fixate on a crosshair). Why does this happen? Could these activations reflect conscious processes such as visual imagery or internal inspection of one’s surroundings? Or are they driven by purely unconscious dynamics? We don’t yet know. But by continuously tracking participants’ brain activity in real time—and triggering brief self-report probes immediately after spontaneous activation events—we may begin to answer these questions. The real-time software I am now developing in collaboration with colleagues at the NIH will make this type of experiment possible. 
+
 **Publications on Optimization of fMRI Acquisitions:**
 
 * Gonzalez-Castillo J et al. "[Editorial: Towards Expanded Utility of Real Time fMRI Neurofeedback in Clinical Applications](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.606868/full)" Frontiers in Human Neuroscience (2020)
