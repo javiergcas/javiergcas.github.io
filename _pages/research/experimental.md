@@ -24,14 +24,13 @@ One important aspect of scientific data is its reliability. That said, perfect t
 <img align="right" src="/assets/pub_images/repro_2017.png" width="500 px" style="padding: 10px">
 
 {: .text-justify}
-When I joined the Talavage lab at [Purdue](http://www.puedue.edu), I was provided with a challenging dataset. After a year attempting to make sense of it, I realized that was not possible: the data was unreliable. This early struggle with <i>"bad"</i> data has motivated me to explore the reliability of fMRI in greater depth over the years.
-
-{: .text-justify}
-My first exploration of fMRI reproducibility is summarized in one of my PhD thesis publications. In that [study](https://www.sciencedirect.com/science/article/abs/pii/S105381191001284X), I evaluated the test–retest reliability of an auditory sentence comprehension task. This topic was of particular interest to my host lab, which investigated, among other things, the neural correlates of speech comprehension in cochlear implant users. Through this project, I was introduced to the field of [quality assurance](https://www.frontiersin.org/research-topics/33922/demonstrating-quality-control-qc-procedures-in-fmri/magazine), learned multiple methods for assessing test–retest reliability (e.g., [Dice coefficient](https://en.wikipedia.org/wiki/Dice-S%C3%B8rensen_coefficien), [intra-class correlation coefficient](https://en.wikipedia.org/wiki/Intraclass_correlation)), and gained deeper insight into one of fMRI’s main interpretational challenges: correctly identifying sources of individual differences that persist despite high group-level reproducibility. Our findings showed that the proposed task performed well at the group level, suggesting it could serve as a reliable protocol for future population-level studies.
+My first exploration of task-based fMRI reproducibility is summarized in one of my PhD thesis publications. In that [study](https://www.sciencedirect.com/science/article/abs/pii/S105381191001284X), I evaluated the test–retest reliability of an auditory sentence comprehension task. This topic was of particular interest to my host lab, which investigated, among other things, the neural correlates of speech comprehension in cochlear implant users. Through this project, I was introduced to the field of [quality assurance](https://www.frontiersin.org/research-topics/33922/demonstrating-quality-control-qc-procedures-in-fmri/magazine), learned multiple methods for assessing test–retest reliability (e.g., [Dice coefficient](https://en.wikipedia.org/wiki/Dice-S%C3%B8rensen_coefficien), [intra-class correlation coefficient](https://en.wikipedia.org/wiki/Intraclass_correlation)), and gained deeper insight into one of fMRI’s main interpretational challenges: correctly identifying sources of individual differences that persist despite high group-level reproducibility. Our findings showed that the proposed task performed well at the group level, suggesting it could serve as a reliable protocol for future population-level studies.
 
 <img align="left" src="https://javiergcas.github.io/files/research/tvfc/research_tvfc_img01.png" width="400 px" style="padding: 10px">
 
-{: .text-justify} {#tvfc_reliability}
+{#tvfc_reliability}
+
+{: .text-justify}
 Another deep dive into reproducibility came from a study examining how patterns of [resting-state functional connectivity (rs-fMRI FC)](https://en.wikipedia.org/wiki/Intraclass_correlation) evolve during a one-hour scan. Unlike task-based fMRI, rs-fMRI scans require little from participants—simply to stay still, remain awake, and let their minds wander. This simplicity makes the approach ideal for clinical populations and easier to acquire than task-based data.
 
 {: .text-justify}
