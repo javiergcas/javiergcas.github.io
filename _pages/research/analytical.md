@@ -55,6 +55,8 @@ If you’d like to learn more about ME-fMRI in general, I recommend this lecture
 {: .text-justify}
 What do neuroscientists mean when they talk about <i>dynamic</i> or <i>time-varying functional connectivity</i>? There’s quite a bit to unpack, and I am going to try my best to do so in a few paragraphs. That said, if you have the time and the interest, please check this talk before you keep going. It will all make much more sense after that!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zr-OSdlU7nY?si=2hZaqHy6oJSkMqx1&amp;start=2405" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 {: .text-justify}
 Let’s start with functional connectivity (FC) itself. The term refers to the observation that groups of spatially non-contiguous brain regions—often referred to as networks—exhibit higher temporal synchrony with each other than with the rest of the brain. FC between two regions is typically measured using the Pearson correlation between their respective time series. When this calculation is extended to hundreds of regions spanning the cortex (e.g., those defined by an atlas or parcellation), the result is a matrix of pairwise correlations known as a functional connectome.
 
@@ -76,7 +78,7 @@ A key question, however, remained: what about the spontaneous reconfigurations o
 {: .text-justify}
 Alright, back to methods—since that’s the focus of this page. Let me highlight a few purely methodological studies I’ve conducted on time-varying FC. The first is a method comparison study led by my former mentee, [Dr. Hua (Oliver) Xie](https://scholar.google.com/citations?user=j5xPZdAAAAAJ&hl=en), who was interested in identifying the most effective way to detect and characterize dynamic FC. This was no small task. Once the scientific community embraced the idea that time-varying FC might hold meaningful information, a proliferation of analytical methods emerged—ranging from various flavors of sliding-window correlation and dynamic conditional correlation (DCC) to multiplication of temporal derivatives and jackknife correlation, among others.
 
-<img align="center" src="https://javiergcas.github.io/files/research/tvfc/tvfc_methods_comp.jog" width="1100 px">
+<img align="center" src="https://javiergcas.github.io/files/research/tvfc/tvfc_methods_comp.jpg" width="1100 px">
 
 {: .text-justify}
 Oliver and I set out to compare seven of the most widely used methods for estimating time-varying FC (see figure above). We evaluated both their mathematical similarities and differences, as well as their practical performance in detecting FC reconfigurations linked to ongoing cognitive dynamics. For the latter, we relied on clustering analyses and evaluation metrics drawn from [unsupervised machine learning](https://www.ibm.com/think/topics/unsupervised-learning).
