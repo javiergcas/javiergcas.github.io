@@ -43,7 +43,7 @@ In this first exploration of time-varying FC, I focused on two key questions: (1
 {: .text-justify}
 Our results showed that reliability improves with scan length, with at least 10 minutes of data needed for stable estimates. We also identified distinct spatial patterns: the most stable connections were interhemispheric links between homologous regions, while the most variable involved cross-network, non-homologous connections in frontal and occipital cortex—regions supporting higher-order cognition.
 
-**Publications on Data Quality and Reliability:**
+**Selected Publications on Data Quality and Reliability:**
 * Gonzalez-Castillo J and Talavage TM “[Reproducibility of fMRI activations associated with auditory sentence comprehension](https://pmc.ncbi.nlm.nih.gov/articles/PMC3008333/pdf/nihms-244051.pdf)”. NeuroImage (2011)
 * Gonzalez-Castillo J et al. “[The spatial structure of resting state connectivity stability on the scale of minutes](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2014.00138/full)”. Frontiers in Neuroscience (2014)
 * Gonzalez-Castillo J et al. "[Variace decomposition for single-subject task-based fMRI activity estimates across many sessions](https://www.sciencedirect.com/science/article/pii/S105381191630578X)" NeuroImage (2017)
@@ -70,7 +70,7 @@ If you’d like to learn more about ME-fMRI in general, I recommend this lecture
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zkAmT92hLVw?si=_zZAT9OsRq6l-BvH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Publications on Multi-Echo fMRI:**
+**Selected Publications on Multi-Echo fMRI:**
 * Gonzalez-Castillo J, et al. “[Evaluation of Multi-Echo ICA denoising for task based fMRI studies: block designs, rapid event-related designs, and cardiac-gated fMRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5026969/pdf/nihms810618.pdf)” NeuroImage (2016)
 * Caballero-Gaudes C, Moia S, Panwar PA, Bandettini PA, Gonzalez-Castillo J. “[A deconvolution algorithm for multi-echo functional MRI: multi-echo sparse paradigm free mapping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819276/pdf/nihms-1538772.pdf)” NeuroImage (2019)
 * DuPre et al. "[TE-dependent analysis of multi-echo fMRI with tedana](https://joss.theoj.org/papers/10.21105/joss.03669)" Journal of Open Source Software (2021)
@@ -90,9 +90,25 @@ One particularly important parameter is the imaging [flip angle (FA)](https://mr
 <img align="center" src="https://javiergcas.github.io/files/research/fmri_quality/flip_angle_small.png" width="1100 px">
 
 {: .text-justify}
-The figure above, part of this [publication](https://www.sciencedirect.com/science/article/abs/pii/S1053811910014503), illustrates the main result from our empirical validation of the model. Even when reducing the flip angle to as low as 9° (compared to an Ernst angle of 77° for this scenario), the percent signal change and spatial profiles of neural activation in the visual and motor cortices remained stable. In other words, we were able to detect these regions of activity with equivalent sensitivity—despite reducing the flip angle by nearly an order of magnitude.
+The figure above, taken from our [publication](https://www.sciencedirect.com/science/article/abs/pii/S1053811910014503), illustrates the key finding from our empirical validation of the model. Even when the flip angle was reduced to as low as 9° (compared to an Ernst angle of 77° for this case), the percent signal change and spatial activation profiles in the visual and motor cortices remained stable. In other words, we were able to detect these regions of activity with comparable sensitivity—despite lowering the flip angle by nearly an order of magnitude.
 
-**Publications on Optimization of fMRI Acquisitions:**
+{: .text-justify}
+Why does this matter? Using low flip angles offers several important benefits: reduced energy deposition in tissue (less RF power), decreased sensitivity to inflow, through-plane motion, and physiological noise (all notorious sources of confounds in fMRI), and improved tissue contrast. The latter, as we demonstrated in a [follow-up study](https://www.sciencedirect.com/science/article/abs/pii/S1053811912010804?via%3Dihub) (main figure reproduced below), can markedly enhance the quality of functional-to-anatomical registration.
+
+<img align="center" src="https://javiergcas.github.io/files/research/fmri_quality/flip_angle_contrast.png" width="1100 px">
+
+{: .text-justify}
+In the figure above, skull-stripped anatomical scans serve as the underlay, with functional data contours overlaid after spatial registration. Across all coil configurations (rows), alignment performs best at lower flip angles but deteriorates at or above the Ernst angle—especially when no correction for intensity inhomogeneity is applied. In essence, this figure illustrates how a theoretical insight (that lowering flip angles preserves sensitivity to neural activation) directly translates into a practical advantage: improved alignment between functional and anatomical scans.
+
+**Selected Publications on Optimization of fMRI Acquisitions:**
+
+* Gonzalez-Castillo et al. "[Physiological noise effects on the flip angle selection in BOLD fMRI](https://www.sciencedirect.com/science/article/pii/S1053811910014503)" NeuroImage (2011)
+
+* Gonzalez-Castillo et al. "[Effects of image contrast on functional MRI image registration](https://www.sciencedirect.com/science/article/pii/S1053811912010804)" NeuroImage (2013)
+
+* Talavage TM, Gonzalez-Castillo et al. "[Auditory Neuroimaging with fMRI and PET](https://www.sciencedirect.com/science/article/pii/S0378595513002323)" Hearing Research (2014)
+
+* Hu S, Olulade O, Gonzalez-Castillo J et al. "[Modeling hemodynamic responses in auditory cortex at 1.5T using variable duration imaging acoustic noise](https://www.sciencedirect.com/science/article/pii/S1053811909012361)" NeuroImage (2010)
 
 ---
 
