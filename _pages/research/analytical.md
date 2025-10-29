@@ -21,7 +21,7 @@ As you will see below, over the years I have contributed to both aspects of the 
 {: .text-justify}
 Please explore the sections below for more details.
 
-{% include research_acquisition.html %}
+{% include research_analysis.html %}
 
 ---
 
