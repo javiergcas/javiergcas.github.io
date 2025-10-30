@@ -94,8 +94,29 @@ Our results, reported [here](https://www.sciencedirect.com/science/article/pii/S
 
 * Gonzalez-Castillo J & Bandettini PA. "[Task-based dynamic functional connectivity: Recent findings and open questions]()" NeuroImage (2018)
 
-* Xie et al. "[Whole-brain connectiity dynamics reflect both task-specific and individual-specific modulation: a multitask study](https://www.sciencedirect.com/science/article/pii/S1053811917304494)" NeuroImage 2018
+* Xie et al. "[Whole-brain connectiity dynamics reflect both task-specific and individual-specific modulation: a multitask study](https://www.sciencedirect.com/science/article/pii/S1053811917304494)" NeuroImage (2018)
 
 ### <img src="/assets/icons/dimensionality_reduction_icon.png" width="32" height="32" alt="Icon"> Dimensionality Reduction {#dimensionality_reduction}
 
-Work in progress!!!!
+{: .text-justify}
+Humans are remarkably good at spotting patterns in up to three dimensions—perhaps a few more with the right tools. Think of color-coded movies of 3D scatter plots to visualize 5D data, [radar charts](https://en.wikipedia.org/wiki/Radar_chart)and [parallel coordinates](https://en.wikipedia.org/wiki/Parallel_coordinates) to represent a handful of additional dimensions. But what happens when our data lives in 10,000+ dimensions, as in functional neuroimaging? Those tools fail unless we first project the data into a lower-dimensional space that preserves its essential structure.
+
+{: .text-justify}
+Take a concrete example from fMRI research. Suppose we record a 25-minute scan and parcellate the brain into 200 regions. To study how functional connectivity evolves over time, we can use a sliding-window correlation approach (see figure above). The resulting matrix has ~900 time points on the X-axis and 19,900 connections on the Y-axis—essentially, the evolution of data in a 19,000-dimensional space. Can you make sense of that directly? Probably not. But when we embed those data into three dimensions, each dot now represents the connectivity pattern of a given time window, and clear structure emerges—four dominant configurations that recur at distinct times during the scan.
+
+{: .text-justify}
+This example illustrates how high-dimensional data can be mapped into 2D or 3D while retaining meaningful information. Different dimensionality-reduction methods, however, make different assumptions. In a recent study, I compared three state-of-the-art nonlinear methods—t-SNE, UMAP, and Laplacian Eigenmaps—to evaluate how well they preserve information about subject identity and cognitive load in functional connectivity data. We found that all can work, but success depends critically on hyperparameter tuning. Importantly, heuristics from other fields do not necessarily apply here, underscoring the need for domain-specific exploration. Because many neuroimagers are new to these methods, the first part of our paper serves as a tutorial introduction. Check it out if you want to learn more on this topic!
+tions occured at two different instants of the scan. Want to know all the details, check this publication.
+
+{: .text-justify}
+Another powerful approach to dimensionality reduction comes from Topological Data Analysis (TDA), particularly through the Mapper algorithm. I explored this method in collaboration with Dr. Manish Saggar from Stanford University, applying it to a multi-task fMRI dataset I had previously collected to study the cognitive relevance of time-varying functional connectivity. Unlike traditional sliding-window analyses, which collapse data over windows of ~30 seconds, TDA allowed us to capture the large-scale organization of whole-brain activity at the single-participant level without imposing arbitrary spatial or temporal averaging. The resulting low-dimensional representations (see example below) revealed both within- and between-task transitions at much finer time scales (~4–9 s). Moreover, individual differences in these dynamic trajectories predicted task performance.
+
+{: .text-justify}
+These projects exemplify how I integrate advanced machine-learning approaches into neuroscience research. For more application-driven work using these and related methods, visit the section on neural correlates of conscious perception in Cognitive Neuroscience Research.
+
+
+{: .text-justify}
+Another approach for dimensionality reduction comes from the world of Topological Data Analysis where a powerful algorithm called Mapper was developed for this purpose. I had the opportunity to learn more about this fascinating method in a collaboration with Dr. Manish Saggar from Stanford Unviersity.
+
+{: .text-justify}
+These are two examples of how I integrate the latest advances in machine learning into my research. For more application-based work that relies on these and other methods, make sure to check some of my newest work on the neural correlates of conscious perception in the Cognitive Neuroscience Research section. 
