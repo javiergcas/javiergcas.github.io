@@ -25,7 +25,7 @@ Please explore the sections below for more details.
 
 ---
 
-### <img src="/assets/icons/multi-echo_icon.png" width="24" height="24" alt="Icon"> Multi-Echo fMRI {#multi_echo}
+### <img src="/assets/icons/multi-echo_icon.png" width="32" height="32" alt="Icon"> Multi-Echo fMRI {#multi_echo}
 
 {: .text-justify}
 Functional MRI (fMRI) recordings capture not only fluctuations arising from localized neural activity but also from hardware instabilities, head motion, and physiological processes such as cardiac and respiratory cycles. As a result, fMRI practitioners dedicate considerable effort to isolating this informative component—both through improvements in acquisition protocols and the use of complex preprocessing pipelines. Multi-echo fMRI (ME-fMRI) represents a hybrid approach in which data are both acquired and processed differently.
@@ -50,7 +50,7 @@ If you’d like to learn more about ME-fMRI in general, I recommend this lecture
 * Caballero-Gaudes C, Bandettini PA, Gonzalez-Castillo J. "[A temporal deconvolution algorithm for multiecho functional MRI](https://ieeexplore.ieee.org/abstract/document/8363649)" IEEE 15th International Symposium on Biomedical Imaging (2018)
 * Uruñuela E, Gonzalez-Castillo J et al. "[Whole-brain multivariate hemodynamic deconvolution algorithm for functional MRI with stability selection](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002700)" Medical Imaging Analysis (2024)
 
-### Time-varying Functional Connectivity {#tvFC}
+### <img src="/assets/icons/tvfc.png" width="32" height="32" alt="Icon"> Time-varying Functional Connectivity {#tvFC}
 
 {: .text-justify}
 What do neuroscientists mean when they talk about <i>dynamic</i> or <i>time-varying functional connectivity</i>? There’s quite a bit to unpack, and I am going to try my best to do so in a few paragraphs. That said, if you have the time and the interest, please check this talk before you keep going. It will all make much more sense after that!
@@ -96,6 +96,6 @@ Our results, reported [here](https://www.sciencedirect.com/science/article/pii/S
 
 * Xie et al. "[Whole-brain connectiity dynamics reflect both task-specific and individual-specific modulation: a multitask study](https://www.sciencedirect.com/science/article/pii/S1053811917304494)" NeuroImage 2018
 
-### Dimensionality Reduction {#dimensionality_reduction}
+### <img src="/assets/icons/dimensionality_reduction_icon.png" width="32" height="32" alt="Icon"> Dimensionality Reduction {#dimensionality_reduction}
 
 Work in progress!!!!
