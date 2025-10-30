@@ -25,7 +25,7 @@ Please explore the sections below for more details.
 
 ---
 
-### Multi-Echo fMRI {#multi_echo}
+### <img src="/assets/icons/multi-echo_icon.png" width="24" height="24" alt="Icon"> Multi-Echo fMRI {#multi_echo}
 
 {: .text-justify}
 Functional MRI (fMRI) recordings capture not only fluctuations arising from localized neural activity but also from hardware instabilities, head motion, and physiological processes such as cardiac and respiratory cycles. As a result, fMRI practitioners dedicate considerable effort to isolating this informative component—both through improvements in acquisition protocols and the use of complex preprocessing pipelines. Multi-echo fMRI (ME-fMRI) represents a hybrid approach in which data are both acquired and processed differently.
