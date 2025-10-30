@@ -90,10 +90,12 @@ Our results, reported [here](https://www.sciencedirect.com/science/article/pii/S
 
 * Xie H et al. "[Efficacy of different dynamic functional connectivity methods to capture cognitively relevant information](https://www.sciencedirect.com/science/article/pii/S1053811918321815)" NeuroImage (2019)
 
-* 
+* Hutchinson et al. "[Dynamic functional connectivity: promise, issues, and interpretations](https://www.sciencedirect.com/science/article/pii/S105381191300579X)" NeuroImage (2013)
+
+* Gonzalez-Castillo J & Bandettini PA. "[Task-based dynamic functional connectivity: Recent findings and open questions]()" NeuroImage (2018)
+
+* Xie et al. "[Whole-brain connectiity dynamics reflect both task-specific and individual-specific modulation: a multitask study](https://www.sciencedirect.com/science/article/pii/S1053811917304494)" NeuroImage 2018
 
 ### Dimensionality Reduction {#dimensionality_reduction}
 
-* Manifold Learning
-
-* Topological Data Analysis
+Work in progress!!!!
