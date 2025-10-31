@@ -60,6 +60,8 @@ What do neuroscientists mean when they talk about [dynamic or time-varying funct
 {: .text-justify}
 Let’s start with functional connectivity (FC) itself. The term refers to the observation that groups of spatially non-contiguous brain regions—often referred to as [brain networks](https://en.wikipedia.org/wiki/Large-scale_brain_network)—exhibit higher temporal synchrony with each other than with the rest of the brain. FC between two regions is typically measured using the [Pearson's Correlation](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient) between their respective time series. When this calculation is extended to hundreds of regions spanning the cortex (e.g., those defined by an atlas or parcellation), the result is a matrix of pairwise correlations known as a functional [connectome](https://en.wikipedia.org/wiki/Connectome).
 
+<a href="https://www.frontiersin.org/articles/10.3389/fnins.2014.00138/full"><img align="right" src="/files/research/tvfc/tvfc_breakdown.png" width="500 px" style="padding: 10px"></a>
+
 {: .text-justify}
 A key point here is that these inter-regional correlations are computed using the entire duration of the scan. This makes sense—assuming the system is in a steady state, more data points yield more reliable correlation estimates.
 
@@ -70,7 +72,6 @@ But what if the system isn’t stationary? Is that “average” view of inter-r
 In the early days, my work—like that of many others—focused on establishing the most basic aspects of dynamic functional connectivity (FC). In one of my first studies, we examined the spatial profile of FC dynamicity using hour-long resting-state scans (see more details [here](experimental#tvfc_reliability)). Once we confirmed that FC fluctuations were spatially organized rather than random, I turned my attention to their potential cognitive correlates.
 
 <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1501242112"><img align="left" src="/files/research/tvfc/tvfc_pnas_setup.png" width="500 px" style="padding: 10px"></a>
-
 
 {: .text-justify}
 If dynamic reconfiguration of FC relates to cognition, then engaging in different mental activities should lead to corresponding changes in FC patterns. I demonstrated this in our 2015 [PNAS publication](https://www.pnas.org/doi/abs/10.1073/pnas.1501242112), where participants were asked to mentally switch among four distinct mental activities while being continuously scanned during both engagement and transitions between them. The results confirmed that cognitive state changes indeed induce FC reconfigurations.
