@@ -16,7 +16,7 @@ As an engineer entering the world of neuroscience, I initially struggled with th
 
 ***
 
-### Exploring the Quality of fMRI Data {#data_quality}
+### <img src="/assets/icons/realibility_icon.png" width="32" height="32" alt="Icon"> Exploring the Quality of fMRI Data {#data_quality}
 
 {: .text-justify}
 One important aspect of scientific data is its reliability. That said, perfect test–retest reliability is neither expected nor necessarily desirable when studying a dynamic system like the human brain, which naturally changes from one measurement to the next. The real challenge lies in distinguishing genuine physiological variability from non-physiological noise and other confounding sources. Over the years, I have investigated the reliability of both task-based and [resting-state](https://en.wikipedia.org/wiki/Resting_state_fMRI) data across multiple projects—two of which are highlighted here.
@@ -50,7 +50,7 @@ Our results showed that reliability improves with scan length, with at least 10 
 
 ---
 
-### Optimization of Acquisition Parameters for fMRI {#optimization}
+### <img src="/assets/icons/optimization_icon.png" width="32" height="32" alt="Icon"> Optimization of Acquisition Parameters for fMRI {#optimization}
 
 {: .text-justify}
 Setting up an fMRI acquisition protocol involves making a large number of decisions. Some are fairly straightforward, such as selecting the scanner field strength and pulse sequence—often constrained by what is available at a given imaging center. The same applies to parameters tied directly to experimental design, such as temporal resolution, spatial resolution, and spatial coverage. However, many other parameters—those more closely related to the physics of MRI signal acquisition, such as echo time, flip angle, or bandwidth—are often treated as less critical and left at their “default” values. News alert: that assumption is not true. These parameters, though sometimes overlooked by non-physicists, can have a substantial impact on data quality.
@@ -83,9 +83,10 @@ In the figure above, skull-stripped anatomical scans serve as the underlay, with
 
 ---
 
-### Realtime fMRI {#realtime}
+### <img src="/assets/icons/rtfmri_icon.png" width="32" height="32" alt="Icon"> Realtime fMRI {#realtime}
 
 <img align="left" src="https://javiergcas.github.io/images/talks/nih_fmrisummer_2014_realtime.png" width="600 px" style="padding: 10px">
+
 {: .text-justify}
 This topic is close to my heart for two reasons. First, I believe that [real-time fMRI](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.606868/full) opens the door to interactive experimental protocols that may hold the key to novel therapeutic interventions (via fMRI-based neurofeedback) and, ultimately, to a deeper understanding of how self-driven consciousness relates to systems-level brain activity and connectivity patterns. Second—and on a more personal note—real-time fMRI is what first brought me to the NIMH as a summer student. Those summers set in motion the path that has since become nearly two decades of work at the NIMH. More importantly, they gave me the privilege of working closely with the late [Dr. Jerzy Bodurka](https://www.laureateinstitute.org/in-memoriam.html), an extraordinary scientist who spent countless hours teaching me the principles of MRI physics and data acquisition.
 
