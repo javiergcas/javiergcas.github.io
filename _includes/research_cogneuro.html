@@ -1,0 +1,76 @@
+<div class="cognitive-neuro-wrapper">
+  <style>
+    .cognitive-neuro-wrapper {
+      --accent: #222;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 2rem;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+
+    .cog-item {
+      background: #f9f9f9;
+      border-radius: 1.5rem;
+      padding: 2rem 1rem;
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    }
+
+    .cog-item:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+    }
+
+    .cog-icon {
+      width: 64px;
+      height: 64px;
+      margin: 0 auto 1rem;
+      border-radius: 50%;
+      background: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 2px solid var(--accent);
+      transition: background 0.2s, color 0.2s;
+    }
+
+    .cog-icon:hover {
+      background: var(--accent);
+      color: #fff;
+    }
+
+    .cog-item a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .cog-item h3 {
+      font-size: 1.05rem;
+      font-weight: 600;
+      line-height: 1.4;
+      margin: 0;
+    }
+  </style>
+
+  <div class="cog-item">
+    <a href="#biological-processes">
+      <div class="cog-icon">🧬</div>
+      <h3>What are the biological processes responsible for time-varying functional connectivity?</h3>
+    </a>
+  </div>
+
+  <div class="cog-item">
+    <a href="#conscious-correlates">
+      <div class="cog-icon">🧠</div>
+      <h3>What are the conscious correlates of spontaneous system-level brain activity?</h3>
+    </a>
+  </div>
+
+  <div class="cog-item">
+    <a href="#localization">
+      <div class="cog-icon">📍</div>
+      <h3>Does a localizationist approach to brain function still make sense today?</h3>
+    </a>
+  </div>
+</div>
