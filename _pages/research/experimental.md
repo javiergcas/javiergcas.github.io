@@ -94,6 +94,9 @@ This topic is close to my heart for two reasons. First, I believe that [real-tim
 {: .text-justify}
 The work I carried out during those two summers did not result in any publications, as I devoted both opportunities to developing new functionalities for the real-time fMRI systems running on GE scanners at the NIH Functional Imaging Facility. During my first summer, I developed C code to synchronize the recording of respiratory and cardiac traces with concurrent fMRI acquisitions. In the second, I created a basic neurofeedback GUI that was later used in several pilot studies. While the first functionality remains in use to this day, the second was eventually superseded by [a newer version developed by Dr. Vinai Roopchansing](https://github.com/roopchansinghv/afni-fmrif-neurofeedback-toolbox).
 
+
+<img align="right" src="/images/publications/2017_nf_asd.jpg" width="500 px" style="padding: 10px">
+
 {: .text-justify}
 But don’t be fooled—that was not the end of my dive into real-time fMRI. Over the years, I have been fortunate to collaborate with many NIH researchers in designing, developing, and interpreting neurofeedback experiments. Of particular note is my collaboration with [Dr. Michal Ramot](https://www.weizmann.ac.il/brain-sciences/labs/ramot/home) on the [use of covert fMRI neurofeedback to alleviate social symptoms associated with autism spectrum disorder](https://elifesciences.org/articles/28974), as well as our subsequent methodological work improving upon the approaches used in that seminal study. Please see the [Clinical Research section](https://javiergcas.github.io/research/clinical) for more details.
 
