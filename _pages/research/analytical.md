@@ -69,6 +69,9 @@ But what if the system isn’t stationary? Is that “average” view of inter-r
 {: .text-justify}
 In the early days, my work—like that of many others—focused on establishing the most basic aspects of dynamic functional connectivity (FC). In one of my first studies, we examined the spatial profile of FC dynamicity using hour-long resting-state scans (see more details [here](experimental#tvfc_reliability)). Once we confirmed that FC fluctuations were spatially organized rather than random, I turned my attention to their potential cognitive correlates.
 
+<a href="https://www.pnas.org/doi/abs/10.1073/pnas.1501242112"><img align="left" src="/files/research/tvfc/tvfc_pnas_setup.png" width="500 px" style="padding: 10px"></a>
+
+
 {: .text-justify}
 If dynamic reconfiguration of FC relates to cognition, then engaging in different mental activities should lead to corresponding changes in FC patterns. I demonstrated this in our 2015 [PNAS publication](https://www.pnas.org/doi/abs/10.1073/pnas.1501242112), where participants were asked to mentally switch among four distinct mental activities while being continuously scanned during both engagement and transitions between them. The results confirmed that cognitive state changes indeed induce FC reconfigurations.
 
