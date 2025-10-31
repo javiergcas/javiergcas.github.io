@@ -85,8 +85,10 @@ In the figure above, skull-stripped anatomical scans serve as the underlay, with
 
 ### Realtime fMRI {#realtime}
 
+<img align="left" src="https://javiergcas.github.io/images/talks/nih_fmrisummer_2014_realtime.png" width="600 px" style="padding: 10px">
 {: .text-justify}
 This topic is close to my heart for two reasons. First, I believe that [real-time fMRI](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.606868/full) opens the door to interactive experimental protocols that may hold the key to novel therapeutic interventions (via fMRI-based neurofeedback) and, ultimately, to a deeper understanding of how self-driven consciousness relates to systems-level brain activity and connectivity patterns. Second—and on a more personal note—real-time fMRI is what first brought me to the NIMH as a summer student. Those summers set in motion the path that has since become nearly two decades of work at the NIMH. More importantly, they gave me the privilege of working closely with the late [Dr. Jerzy Bodurka](https://www.laureateinstitute.org/in-memoriam.html), an extraordinary scientist who spent countless hours teaching me the principles of MRI physics and data acquisition.
+
 
 {: .text-justify}
 The work I carried out during those two summers did not result in any publications, as I devoted both opportunities to developing new functionalities for the real-time fMRI systems running on GE scanners at the NIH Functional Imaging Facility. During my first summer, I developed C code to synchronize the recording of respiratory and cardiac traces with concurrent fMRI acquisitions. In the second, I created a basic neurofeedback GUI that was later used in several pilot studies. While the first functionality remains in use to this day, the second was eventually superseded by [a newer version developed by Dr. Vinai Roopchansing](https://github.com/roopchansinghv/afni-fmrif-neurofeedback-toolbox).
@@ -100,7 +102,7 @@ Today, I am working on the development of a new real-time fMRI software suite, [
 {: .text-justify}
 For example, certain brain regions such as the visual cortex often activate spontaneously during resting-state scans, even in the absence of visual stimulation (e.g., while subjects fixate on a crosshair). Why does this happen? Could these activations reflect conscious processes such as visual imagery or internal inspection of one’s surroundings? Or are they driven by purely unconscious dynamics? We don’t yet know. But by continuously tracking participants’ brain activity in real time—and triggering brief self-report probes immediately after spontaneous activation events—we may begin to answer these questions. The real-time software I am now developing in collaboration with colleagues at the NIH will make this type of experiment possible. 
 
-**Publications on Optimization of fMRI Acquisitions:**
+**Publications on Realtime fMRI:**
 
 * Gonzalez-Castillo J et al. "[Editorial: Towards Expanded Utility of Real Time fMRI Neurofeedback in Clinical Applications](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2020.606868/full)" Frontiers in Human Neuroscience (2020)
 
