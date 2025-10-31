@@ -28,7 +28,7 @@ Methods are fun, but they are more fun and become useful when they allow you to 
 {: .text-justify}
 In addition to studying the region-to-region spatiotemporal structure of time-varying functional connectivity during resting state, I have also conducted experiments aimed at validating the interpretability of whole-brain dynamic functional connectivity patterns as markers of on-going cognition. In particular, using multi-task scans and unsupervised machine learning we demonstrated a direct [link between short-term (tens of seconds long) whole-brain functional connectivity patterns and on-going mental processing](https://www.pnas.org/content/112/28/8762.short) at the single-subject level. More recenlty, we have applied the [same methodology to resting-state data](https://www.sciencedirect.com/science/article/abs/pii/S1053811919307207) and demonstrated that it is possible to infer the cognitive nature of a subjects' mental activity at discrete scan segments on the basis of time-varying connectivity and hemodynamic deconvolution.
 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811919307207"><img align="cener" src="/files/research/free_thoughts/isft_piechart.png" width="600 px" style="padding: 10px"></a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811919307207"><img align="center" src="/files/research/free_thoughts/isft_piechart.png" width="600 px" style="padding: 10px"></a>
 
 **References:**
 * Gonzalez-Castillo J et al. “[Imaging the spontaneous flow of thought: distinct periods of cognition contribute to dynamic functional connectivity during rest](https://www.sciencedirect.com/science/article/abs/pii/S1053811919307207)”. NeuroImage (2019)
