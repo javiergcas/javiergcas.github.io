@@ -15,17 +15,8 @@ Methods are fun, but they are more fun and become useful when they allow you to 
 
 Hope you have fun exploring this section!
 
-***
-
-1) what are the biological processes responsible for time-varying functional connectivity? 
-
-2) what are the conscious correlates of spontaneous system-level brain activity?
-
-3) does a localizationist approach to brain funcion still makes sense today?
-
-
-
-### what are the biological processes responsible for time-varying functional connectivity?
+<a id="biological-processes"></a>
+### Behavioral Processes behind Time-varying Functional Connectivity
 
 <img align="right" src="https://javiergcas.github.io/files/research/tvfc/research_tvfc_img01.png" width="317 px" style="padding: 10px">
 
@@ -43,7 +34,8 @@ In addition to studying the region-to-region spatiotemporal structure of time-va
 * Gonzalez-Castillo J, Bandettini PA "[Task-based dynamic functional connectivity: recent findings and open questions](https://www.sciencedirect.com/science/article/abs/pii/S1053811917306535)". NeuroImage (2018)
 * Gonzalez-Castillo J et al. "[The spatial structure of resting state connectivity stability on the scale of minutes](https://www.frontiersin.org/articles/10.3389/fnins.2014.00138/full)". Frontiers in Neuroscience (2014)
 
-### What are the neuronal correlates of self-driven thoughts and inner experiences?
+<a id="conscious-correlates"></a>
+### Conscious correlates of spontaneous brain activity
 
 <img align="left" src="https://javiergcas.github.io/files/research/free_thoughts/free_thoughts_relationship.png" width="500 px" style="padding: 10px">
 
