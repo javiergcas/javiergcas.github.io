@@ -21,12 +21,12 @@ As an engineer entering the world of neuroscience, I initially struggled with th
 {: .text-justify}
 One important aspect of scientific data is its reliability. That said, perfect test–retest reliability is neither expected nor necessarily desirable when studying a dynamic system like the human brain, which naturally changes from one measurement to the next. The real challenge lies in distinguishing genuine physiological variability from non-physiological noise and other confounding sources. Over the years, I have investigated the reliability of both task-based and [resting-state](https://en.wikipedia.org/wiki/Resting_state_fMRI) data across multiple projects—two of which are highlighted here.
 
-<img align="right" src="/assets/pub_images/repro_2017.png" width="500 px" style="padding: 10px">
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S105381191001284X"><img align="right" src="/assets/pub_images/repro_2017.png" width="500 px" style="padding: 10px"></a>
 
 {: .text-justify}
 My first exploration of task-based fMRI reproducibility is summarized in one of my PhD thesis publications. In that [study](https://www.sciencedirect.com/science/article/abs/pii/S105381191001284X), I evaluated the test–retest reliability of an auditory sentence comprehension task. This topic was of particular interest to my host lab, which investigated, among other things, the neural correlates of speech comprehension in cochlear implant users. Through this project, I was introduced to the field of [quality assurance](https://www.frontiersin.org/research-topics/33922/demonstrating-quality-control-qc-procedures-in-fmri/magazine), learned multiple methods for assessing test–retest reliability (e.g., [Dice coefficient](https://en.wikipedia.org/wiki/Dice-S%C3%B8rensen_coefficien), [intra-class correlation coefficient](https://en.wikipedia.org/wiki/Intraclass_correlation)), and gained deeper insight into one of fMRI’s main interpretational challenges: correctly identifying sources of individual differences that persist despite high group-level reproducibility. Our findings showed that the proposed task performed well at the group level, suggesting it could serve as a reliable protocol for future population-level studies ([see one example here](https://www.sciencedirect.com/science/article/abs/pii/S1053811913006368)).
 
-<img align="left" src="https://javiergcas.github.io/files/research/tvfc/research_tvfc_img01.png" width="400 px" style="padding: 10px">
+<a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2014.00138/full"><img align="left" src="https://javiergcas.github.io/files/research/tvfc/research_tvfc_img01.png" width="400 px" style="padding: 10px"></a>
 
 {: .text-justify}
 <p id='tvfc_reliability'>Another deep dive into reproducibility came from a study examining how patterns of [resting-state functional connectivity (rs-fMRI FC)](https://en.wikipedia.org/wiki/Intraclass_correlation) evolve during a one-hour scan. Unlike task-based fMRI, rs-fMRI scans require little from participants—simply to stay still, remain awake, and let their minds wander. This simplicity makes the approach ideal for clinical populations and easier to acquire than task-based data.</p>
@@ -42,7 +42,7 @@ Our results showed that reliability improves with scan length, with at least 10 
 
 **Selected Publications on Data Quality and Reliability:**
 
-* Gonzalez-Castillo J and Talavage TM “[Reproducibility of fMRI activations associated with auditory sentence comprehension](https://pmc.ncbi.nlm.nih.gov/articles/PMC3008333/pdf/nihms-244051.pdf)”. NeuroImage (2011)
+* Gonzalez-Castillo J and Talavage TM “[Reproducibility of fMRI activations associated with auditory sentence comprehension](https://www.sciencedirect.com/science/article/abs/pii/S105381191001284X)”. NeuroImage (2011)
 * Gonzalez-Castillo J et al. “[The spatial structure of resting state connectivity stability on the scale of minutes](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2014.00138/full)”. Frontiers in Neuroscience (2014)
 * Gonzalez-Castillo J et al. "[Variace decomposition for single-subject task-based fMRI activity estimates across many sessions](https://www.sciencedirect.com/science/article/pii/S105381191630578X)" NeuroImage (2017)
 * Handwerker DA et al. "[The continuing challenge of understanding and modeling heodynamic variation in fMRI](https://www.sciencedirect.com/science/article/abs/pii/S1053811912001929)" NeuroImage (2012)
@@ -58,7 +58,7 @@ Setting up an fMRI acquisition protocol involves making a large number of decisi
 {: .text-justify}
 One particularly important parameter is the imaging [flip angle (FA)](https://mriquestions.com/what-is-flip-angle.html), which defines the amount of rotation (or “flip”) applied to the net magnetization vector by the radiofrequency pulse preceding signal readout. It is common practice to set the flip angle to the Ernst angle for gray matter, under the assumption that this choice maximizes sensitivity in that tissue compartment—typically the main focus of fMRI studies. Although this approach has its advantages, the Ernst angle is only truly optimal when data are dominated by thermal (non-physiological) noise. In our work, we developed a new theoretical model demonstrating that, under conditions where physiological noise dominates, the optimal flip angle can in fact be substantially lower without compromising sensitivity to neural activity.
 
-<img align="center" src="https://javiergcas.github.io/files/research/fmri_quality/flip_angle_small.png" width="1100 px">
+<a href="https://www.sciencedirect.com/science/article/pii/S1053811910014503"><img align="center" src="https://javiergcas.github.io/files/research/fmri_quality/flip_angle_small.png" width="1100 px"></a>
 
 {: .text-justify}
 The figure above, taken from our [publication](https://www.sciencedirect.com/science/article/abs/pii/S1053811910014503), illustrates the key finding from our empirical validation of the model. Even when the flip angle was reduced to as low as 9° (compared to an Ernst angle of 77° for this case), the percent signal change and spatial activation profiles in the visual and motor cortices remained stable. In other words, we were able to detect these regions of activity with comparable sensitivity—despite lowering the flip angle by nearly an order of magnitude.
@@ -66,7 +66,7 @@ The figure above, taken from our [publication](https://www.sciencedirect.com/sci
 {: .text-justify}
 Why does this matter? Using low flip angles offers several important benefits: reduced energy deposition in tissue (less RF power), decreased sensitivity to inflow, through-plane motion, and physiological noise (all notorious sources of confounds in fMRI), and improved tissue contrast. The latter, as we demonstrated in a [follow-up study](https://www.sciencedirect.com/science/article/abs/pii/S1053811912010804?via%3Dihub) (main figure reproduced below), can markedly enhance the quality of functional-to-anatomical registration.
 
-<img align="center" src="https://javiergcas.github.io/files/research/fmri_quality/flip_angle_contrast.png" width="1100 px">
+<a href="https://www.sciencedirect.com/science/article/pii/S1053811912010804"><img align="center" src="https://javiergcas.github.io/files/research/fmri_quality/flip_angle_contrast.png" width="1100 px"></a>
 
 {: .text-justify}
 In the figure above, skull-stripped anatomical scans serve as the underlay, with functional data contours overlaid after spatial registration. Across all coil configurations (rows), alignment performs best at lower flip angles but deteriorates at or above the Ernst angle—especially when no correction for intensity inhomogeneity is applied. In essence, this figure illustrates how a theoretical insight (that lowering flip angles preserves sensitivity to neural activation) directly translates into a practical advantage: improved alignment between functional and anatomical scans.
