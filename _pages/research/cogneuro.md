@@ -46,7 +46,10 @@ Brain activity is not always linked to concurrent external environmental demands
 
 * Gonzalez-Castillo J et al. “[How to interpret resting-state fMRI: ask your participants](https://www.jneurosci.org/content/41/6/1130)” Journal of Neuroscience (2021)
 
-### What is the true extent of neural activity as measured with fMRI?
+* Gonzalez-Castillo J et al. "[In-scanner thoughts shapre Resting-state Functional Connectivity: how participants "rest" matters](https://pmc.ncbi.nlm.nih.gov/articles/PMC11188111/)" BioRxiv (2024)
+
+<a id="localization"></a>
+### Localization and Distributed Functions
 
 <img align="left" src="https://javiergcas.github.io/files/research/non_traditional/wide_activity_small.png" width="355 px" style="padding: 10px">
 

@@ -35,9 +35,12 @@
       transition: background 0.2s, color 0.2s;
     }
 
-    .cog-icon:hover {
-      background: var(--accent);
-      color: #fff;
+    .cog-icon svg {
+      width: 36px;
+      height: 36px;
+      stroke: var(--accent);
+      stroke-width: 2;
+      fill: none;
     }
 
     .cog-item a {
@@ -51,25 +54,62 @@
       line-height: 1.4;
       margin: 0;
     }
+
+    .cog-item:hover .cog-icon {
+      background: var(--accent);
+    }
+
+    .cog-item:hover .cog-icon svg {
+      stroke: #fff;
+    }
   </style>
 
+  <!-- 1️⃣ Biological processes -->
   <div class="cog-item">
     <a href="#biological-processes">
-      <div class="cog-icon">🧬</div>
+      <div class="cog-icon">
+        <!-- Neuron network icon -->
+        <svg viewBox="0 0 24 24">
+          <circle cx="4" cy="12" r="2" />
+          <circle cx="12" cy="4" r="2" />
+          <circle cx="20" cy="12" r="2" />
+          <circle cx="12" cy="20" r="2" />
+          <line x1="5.5" y1="10.5" x2="10.5" y2="5.5" />
+          <line x1="13.5" y1="5.5" x2="18.5" y2="10.5" />
+          <line x1="5.5" y1="13.5" x2="10.5" y2="18.5" />
+          <line x1="13.5" y1="18.5" x2="18.5" y2="13.5" />
+        </svg>
+      </div>
       <h3>What are the biological processes responsible for time-varying functional connectivity?</h3>
     </a>
   </div>
 
+  <!-- 2️⃣ Conscious correlates -->
   <div class="cog-item">
     <a href="#conscious-correlates">
-      <div class="cog-icon">🧠</div>
+      <div class="cog-icon">
+        <!-- Brain + eye icon -->
+        <svg viewBox="0 0 24 24">
+          <path d="M4 12c0-4.4 3.6-8 8-8s8 3.6 8 8-3.6 8-8 8" />
+          <circle cx="12" cy="12" r="2" />
+          <path d="M2 12s3-5 10-5 10 5 10 5-3 5-10 5-10-5-10-5z" />
+        </svg>
+      </div>
       <h3>What are the conscious correlates of spontaneous system-level brain activity?</h3>
     </a>
   </div>
 
+  <!-- 3️⃣ Localization -->
   <div class="cog-item">
     <a href="#localization">
-      <div class="cog-icon">📍</div>
+      <div class="cog-icon">
+        <!-- Brain with map pins -->
+        <svg viewBox="0 0 24 24">
+          <path d="M12 3c-4.5 0-8 3.5-8 8 0 4 3 7 7 10 4-3 7-6 7-10 0-4.5-3.5-8-8-8z" />
+          <circle cx="10" cy="10" r="1.5" />
+          <circle cx="14" cy="14" r="1.5" />
+        </svg>
+      </div>
       <h3>Does a localizationist approach to brain function still make sense today?</h3>
     </a>
   </div>
