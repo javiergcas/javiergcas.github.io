@@ -53,7 +53,7 @@ If you’d like to learn more about ME-fMRI in general, I recommend this lecture
 ### <img src="/assets/icons/tvfc.png" width="32" height="32" alt="Icon"> Time-varying Functional Connectivity {#tvFC}
 
 {: .text-justify}
-What do neuroscientists mean when they talk about <i>[dynamic</i> or <i>time-varying functional connectivity](https://www.sciencedirect.com/science/article/pii/S105381191300579X)</i>? There’s quite a bit to unpack, and I am going to try my best to do so in a few paragraphs. That said, if you have the time and the interest, please check [this talk](https://youtu.be/zr-OSdlU7nY?si=JaCF1yKc2jgWUDvd) before you keep going. It will all make much more sense after that!
+What do neuroscientists mean when they talk about [dynamic</i> or <i>time-varying functional connectivity](https://www.sciencedirect.com/science/article/pii/S105381191300579X)? There’s quite a bit to unpack, and I am going to try my best to do so in a few paragraphs. That said, if you have the time and the interest, please check [this talk](https://youtu.be/zr-OSdlU7nY?si=JaCF1yKc2jgWUDvd) before you keep going. It will all make much more sense after that!
 
 <img align="center" src="/files/research/tvfc/static_vs_tvfc.png" width="1100 px">
 
