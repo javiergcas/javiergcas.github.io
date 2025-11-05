@@ -19,7 +19,7 @@ As an engineer entering the world of neuroscience, I initially struggled with th
 ### <img src="/assets/icons/realibility_icon.png" width="32" height="32" alt="Icon"> Exploring the Quality of fMRI Data {#data_quality}
 
 {: .text-justify}
-One important aspect of scientific data is its reliability. That said, perfect test–retest reliability is neither expected nor necessarily desirable when studying a dynamic system like the human brain, which naturally changes from one measurement to the next. The real challenge lies in distinguishing genuine physiological variability from non-physiological noise and other confounding sources. Over the years, I have investigated the reliability of both task-based and [resting-state](https://en.wikipedia.org/wiki/Resting_state_fMRI) data across multiple projects—two of which are highlighted here.
+One important aspect of scientific data is its reliability. That said, perfect test–retest reliability is neither expected nor necessarily desirable when studying a dynamic system like the human brain, which naturally changes from one measurement to the next. The real challenge lies in [distinguishing genuine physiological variability from non-physiological noise and other confounding sources](https://youtu.be/HymjFBCa-n4?si=OfBNWwINNTrWDqY_). Over the years, I have investigated the reliability of both task-based and [resting-state](https://en.wikipedia.org/wiki/Resting_state_fMRI) data across multiple projects—two of which are highlighted here.
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S105381191001284X"><img align="right" src="/assets/pub_images/repro_2017.png" width="500 px" style="padding: 10px"></a>
 
