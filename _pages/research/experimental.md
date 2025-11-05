@@ -29,7 +29,7 @@ My first exploration of task-based fMRI reproducibility is summarized in one of 
 <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2014.00138/full"><img align="left" src="https://javiergcas.github.io/files/research/tvfc/research_tvfc_img01.png" width="400 px" style="padding: 10px"></a>
 
 {: .text-justify}
-<p id='tvfc_reliability'>Another deep dive into reproducibility came from a study examining how patterns of [resting-state functional connectivity (rs-fMRI FC)](https://en.wikipedia.org/wiki/Intraclass_correlation) evolve during a one-hour scan. Unlike task-based fMRI, rs-fMRI scans require little from participants—simply to stay still, remain awake, and let their minds wander. This simplicity makes the approach ideal for clinical populations and easier to acquire than task-based data.</p>
+<p id='tvfc_reliability'>Another deep dive into reproducibility came from a study examining how [patterns of resting state functional connectivity](https://en.wikipedia.org/wiki/Intraclass_correlation) (rs-fMRI FC) evolve during a one-hour scan. Unlike task-based fMRI, rs-fMRI scans require little from participants—simply to stay still, remain awake, and let their minds wander. This simplicity makes the approach ideal for clinical populations and easier to acquire than task-based data.</p>
 
 {: .text-justify}
 By the time I entered this area, it was well established that rs-fMRI FC, averaged over several minutes, is reliable across sessions and carries meaningful phenotypic information (e.g., traits, symptoms). Yet, emerging evidence suggested these connectivity patterns fluctuate substantially within a single scan—raising a fundamental question: is this variability meaningful or merely noise?
