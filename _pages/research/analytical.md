@@ -105,6 +105,8 @@ Our results, reported [here](https://www.sciencedirect.com/science/article/pii/S
 {: .text-justify}
 Humans are remarkably good at spotting patterns in up to three dimensions—perhaps a few more with the right tools. Think of color-coded movies of 3D scatter plots to visualize 5D data, [radar charts](https://en.wikipedia.org/wiki/Radar_chart) and [parallel coordinates](https://en.wikipedia.org/wiki/Parallel_coordinates) to represent a handful of additional dimensions. But what happens when our data lives in 10,000+ dimensions, as in functional neuroimaging? Those tools fail unless we first project the data into a lower-dimensional space that preserves its essential structure.
 
+<a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1134012/full"><img align="center" src="https://javiergcas.github.io/images/publications/2023_manifold_learning.png" width="800 px" style="padding: 10px"></a>
+
 {: .text-justify}
 Take a concrete example from fMRI research. Suppose we record a 25-minute scan and parcellate the brain into 200 regions. To study how functional connectivity evolves over time, we can use a sliding-window correlation approach (see figure above). The resulting matrix has ~900 time points on the X-axis and 19,900 connections on the Y-axis—essentially, the evolution of data in a 19,000-dimensional space. Can you make sense of that directly? Probably not. But when we embed those data into three dimensions, each dot now represents the connectivity pattern of a given time window, and clear structure emerges—four dominant configurations that recur at distinct times during the scan.
 
