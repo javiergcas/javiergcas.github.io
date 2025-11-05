@@ -115,14 +115,7 @@ This example illustrates how high-dimensional data can be mapped into 2D or 3D w
 tions occured at two different instants of the scan. Want to know all the details, check this publication.
 
 {: .text-justify}
-Another powerful approach to dimensionality reduction comes from Topological Data Analysis (TDA), particularly through the Mapper algorithm. I explored this method in collaboration with Dr. Manish Saggar from Stanford University, applying it to a multi-task fMRI dataset I had previously collected to study the cognitive relevance of time-varying functional connectivity. Unlike traditional sliding-window analyses, which collapse data over windows of ~30 seconds, TDA allowed us to capture the large-scale organization of whole-brain activity at the single-participant level without imposing arbitrary spatial or temporal averaging. The resulting low-dimensional representations (see example below) revealed both within- and between-task transitions at much finer time scales (~4–9 s). Moreover, individual differences in these dynamic trajectories predicted task performance.
+Another powerful approach to dimensionality reduction comes from [Topological Data Analysis (TDA)](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2021.667963/full), particularly through the Mapper algorithm. I explored this method in collaboration with [Dr. Manish Saggar](https://braindynamicslab.github.io/team/manish-saggar/) from Stanford University, applying it to a multi-task fMRI dataset I had previously collected to study the cognitive relevance of time-varying functional connectivity. Unlike traditional sliding-window analyses, which collapse data over windows of ~30 seconds, TDA allowed us to capture the large-scale organization of whole-brain activity at the single-participant level without imposing arbitrary spatial or temporal averaging. The resulting low-dimensional representations (see example below) revealed both within- and between-task transitions at much finer time scales (~4–9 s). Moreover, individual differences in these dynamic trajectories predicted task performance.
 
 {: .text-justify}
-These projects exemplify how I integrate advanced machine-learning approaches into neuroscience research. For more application-driven work using these and related methods, visit the section on neural correlates of conscious perception in Cognitive Neuroscience Research.
-
-
-{: .text-justify}
-Another approach for dimensionality reduction comes from the world of Topological Data Analysis where a powerful algorithm called Mapper was developed for this purpose. I had the opportunity to learn more about this fascinating method in a collaboration with Dr. Manish Saggar from Stanford Unviersity.
-
-{: .text-justify}
-These are two examples of how I integrate the latest advances in machine learning into my research. For more application-based work that relies on these and other methods, make sure to check some of my newest work on the neural correlates of conscious perception in the Cognitive Neuroscience Research section. 
+These projects exemplify how I integrate advanced machine-learning approaches into neuroscience research. For more application-driven work using these and related methods, visit the section on neural correlates of conscious perception in [Cognitive Neuroscience Research](cogneuro).
