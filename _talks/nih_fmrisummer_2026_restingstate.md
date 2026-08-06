@@ -11,6 +11,6 @@ location: "Bethesda, MD"
 {: .text-justify}
 Introductory talk to the history of resting-state fMRI. Here I discuss key studies that have framed the evolution of the field. I also briefly discuss some methodological advances motivated by the unique characteristics of resting-state data. Finally, I also briefly discuss current frameworks for interpretation of resting-state results.
 
-<img align="center" src="https://javiergcas.github.io/images/talks/nih_fmrisummer_2026_rfmri.png" width="800 px" style="padding: 10px">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fyhXsvhAcqc?si=JWyfKIGYJxszZZ3r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-| 2019 | [Recording](https://youtu.be/fyhXsvhAcqc) | [Slides](https://fmrif.nimh.nih.gov/pdf/2026/08_2026_restingstate.pdf) |
+| 2026 | [Recording](https://youtu.be/fyhXsvhAcqc) | [Slides](https://fmrif.nimh.nih.gov/pdf/2026/08_2026_restingstate.pdf) |
