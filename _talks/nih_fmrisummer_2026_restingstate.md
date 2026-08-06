@@ -9,7 +9,7 @@ location: "Bethesda, MD"
 ---
 
 {: .text-justify}
-Introductory talk to the history of resting-state fMRI. Here I discuss key studies that have framed the evolution of the field. I also briefly discuss some methodological advances motivated by the unique characteristics of resting-state data. Finally, I also briefly discuss current frameworks for interpretation of resting-state results.
+This introductory section reviews the history of resting-state fMRI, highlighting the key studies that have shaped the evolution of the field. It also briefly summarizes methodological advances motivated by the unique characteristics of resting-state data. Finally, it outlines the principal frameworks currently used to interpret findings from resting-state fMRI.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fyhXsvhAcqc?si=JWyfKIGYJxszZZ3r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
