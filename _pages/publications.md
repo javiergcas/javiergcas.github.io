@@ -37,6 +37,12 @@ Faskowitz J, Bandettini PA, **Gonzalez-Castillo J** “Mapping high-amplitude fM
 <div><span class="__dimensions_badge_embed__" data-doi="10.1162/IMAG.a.1336" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1162/IMAG.a.1336"></div></div>{: style="float: right;margin-left: 1em"}
 Kumar SS, Arzi A, Bareham CA, **Gonzalez-Castillo J** et al. “Brain Network Dynamics in the Wake-Sleep Transition Reorganize According to Task Engagement” Imaging Neuroscience (2026)
 
+## 2025
+
+{: .text-justify}
+<div><span class="__dimensions_badge_embed__" data-doi="10.1038/s41583-025-00934-1" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1038/s41583-025-00934-1"></div></div>{: style="float: right;margin-left: 1em"}
+Kronemer SI, Bandettini PA & **Gonzalez-Castillo, J** “Sleuthing subjectivity: a review of covert measures of consciousness" Nat. Rev. Neurosci. 26, 476–496 (2025)
+
 ## 2024 
 
 {: .text-justify}
