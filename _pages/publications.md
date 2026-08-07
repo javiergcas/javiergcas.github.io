@@ -23,7 +23,7 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 ## 2026
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-026-74953-6" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1038/s41467-026-74953-6"></div></div>{: style="float: right;margin-left: 1em"}
-Revsine C, **Gonzalez-Castillo J**, Merriam E, Bandettini PA, Ramirez FM. “In-scanner thoughts contribute to resting-state functional connectivity” Nature Communications (2026) In Press.
+Gonzalez-Castillo, J., Spurney, M.A., Lam, K.C. et al. “In-scanner thoughts contribute to resting-state functional connectivity” Nature Communications (2026) In Press.
 
 ## 2024 
 
