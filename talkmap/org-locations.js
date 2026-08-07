@@ -53,7 +53,7 @@ var addressPoints = [
     "San Sebastian, Spain",
     43.3224219,
     -1.9838889
-  ]
+  ],
   [
     "Santiago de Chile, Chile",
     33.44,
