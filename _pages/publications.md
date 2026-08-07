@@ -23,7 +23,7 @@ Talavage TM, Johnsrude IS, **Gonzalez-Castillo J** "Hemodynamic Imaging: Functio
 ## 2026
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-026-74953-6" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1038/s41467-026-74953-6"></div></div>{: style="float: right;margin-left: 1em"}
-**Gonzalez-Castillo, J.**, Spurney, M.A., Lam, K.C. et al. “In-scanner thoughts contribute to resting-state functional connectivity” Nature Communications (2026) In Press.
+**Gonzalez-Castillo, J.**, Spurney, M.A., Lam, K.C. et al. “In-scanner thoughts contribute to resting-state functional connectivity” Nature Communications (2026) In Press.<a href="https://www.nature.com/articles/s41467-026-74953-6_reference.pdf"><img border="0" alt="paper" src="https://javiergcas.github.io/images/pdf_icon.png" width="20" height="20"></a><a href="https://github.com/nimh-sfim/fc_introspection"><img border="0" alt="code" src="https://javiergcas.github.io/images/code.png" width="20" height="20"></a>
 
 {: .text-justify}
 <div><span class="__dimensions_badge_embed__" data-doi="10.64898/2026.03.19.712948" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.64898/2026.03.19.712948"></div></div>{: style="float: right;margin-left: 1em"}
