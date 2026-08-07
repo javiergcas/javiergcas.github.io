@@ -56,7 +56,7 @@ var addressPoints = [
   ],
   [
     "Santiago de Chile, Chile",
-    70.65,
-    33.44
+    -33.4376995, 
+    -70.6510671
   ]
 ];
