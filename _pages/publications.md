@@ -47,6 +47,10 @@ Kronemer SI, Bandettini PA & **Gonzalez-Castillo, J** “Sleuthing subjectivity:
 <div><span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2504.07824" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.48550/arXiv.2504.07824"></div></div>{: style="float: right;margin-left: 1em"}
 Taylor PA, Aggarwal H, Bandettini PA, Barilari M et al.  “Go Figure: Transparency in neuroscience images preserves context and clarifies interpretation" Nature Methods (Under review)
 
+{: .text-justify}
+<div><span class="__dimensions_badge_embed__" data-doi="10.1101/2025.08.30.673266" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1101/2025.08.30.673266"></div></div>{: style="float: right;margin-left: 1em"}
+Kronemer SI, Akin B, Holness M, Morgan TA, Huber L,  “The human brain mechanisms of afterimages: From networks to cortical layers" BioRxiv 2025.08.30.673266
+
 ## 2024 
 
 {: .text-justify}
