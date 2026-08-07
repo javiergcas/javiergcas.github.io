@@ -43,6 +43,10 @@ Kumar SS, Arzi A, Bareham CA, **Gonzalez-Castillo J** et al. “Brain Network Dy
 <div><span class="__dimensions_badge_embed__" data-doi="10.1038/s41583-025-00934-1" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.1038/s41583-025-00934-1"></div></div>{: style="float: right;margin-left: 1em"}
 Kronemer SI, Bandettini PA & **Gonzalez-Castillo, J** “Sleuthing subjectivity: a review of covert measures of consciousness" Nat. Rev. Neurosci. 26, 476–496 (2025)
 
+{: .text-justify}
+<div><span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2504.07824" data-style="small_rectangle"></span><div class='altmetric-embed' data-badge-type='4' data-doi="10.48550/arXiv.2504.07824"></div></div>{: style="float: right;margin-left: 1em"}
+Taylor PA, Aggarwal H, Bandettini PA, Barilari M et al.  “Go Figure: Transparency in neuroscience images preserves context and clarifies interpretation" Nature Methods (Under review)
+
 ## 2024 
 
 {: .text-justify}
